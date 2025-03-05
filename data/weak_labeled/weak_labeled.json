@@ -1,0 +1,26 @@
+[
+    {
+        "sentence": "The mixed metal salt solution was then added to ethanol (100 mL) containing oxalic acid (90 mmol).",
+        "operation": "Add"
+    },
+    {
+        "sentence": "The mixed metal salt solution was then added to ethanol (100 mL) containing oxalic acid (90 mmol).",
+        "operation": "MakeSolution"
+    },
+    {
+        "sentence": "The mixing produced a yellow-colored suspension, which was allowed to stand for 1 h.",
+        "operation": "MakeSolution"
+    },
+    {
+        "sentence": "The obtained precursor powder was dried at 120 degC for 2 h and then calcined at 700 degC for 2 h.",
+        "operation": "Yield"
+    },
+    {
+        "sentence": "An aqueous malic acid solution (50 mL) was added to a solution (50 mL) containing the corresponding metal nitrates or acetates in a stoichiometric ratio under vigorous stirring.",
+        "operation": "Add"
+    },
+    {
+        "sentence": "An aqueous malic acid solution (50 mL) was added to a solution (50 mL) containing the corresponding metal nitrates or acetates in a stoichiometric ratio under vigorous stirring.",
+        "operation": "Stir"
+    }
+]

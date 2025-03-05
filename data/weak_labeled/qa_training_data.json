@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What chemical operations are described in this sentence?",
+        "context": "The mixed metal salt solution was then added to ethanol (100 mL) containing oxalic acid (90 mmol).",
+        "answer": "Add, MakeSolution"
+    },
+    {
+        "question": "What chemical operations are described in this sentence?",
+        "context": "The mixing produced a yellow-colored suspension, which was allowed to stand for 1 h.",
+        "answer": "MakeSolution"
+    },
+    {
+        "question": "What chemical operations are described in this sentence?",
+        "context": "The obtained precursor powder was dried at 120 degC for 2 h and then calcined at 700 degC for 2 h.",
+        "answer": "Yield"
+    },
+    {
+        "question": "What chemical operations are described in this sentence?",
+        "context": "An aqueous malic acid solution (50 mL) was added to a solution (50 mL) containing the corresponding metal nitrates or acetates in a stoichiometric ratio under vigorous stirring.",
+        "answer": "Add, Stir"
+    }
+]
