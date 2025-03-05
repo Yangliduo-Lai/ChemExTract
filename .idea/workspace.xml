@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b0b646c-c841-47d6-989e-856e7ec39bec" name="Changes" comment="" />
+    <list default="true" id="5b0b646c-c841-47d6-989e-856e7ec39bec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_rephrasing/rephrase_scientific_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_rephrasing/rephrase_scientific_text.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     "Python.main.executor": "Run",
     "Python.pattern_mining.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,7 +124,7 @@
       <updated>1740858084469</updated>
       <workItem from="1740858085502" duration="1083000" />
       <workItem from="1740859172575" duration="11416000" />
-      <workItem from="1740948394574" duration="30174000" />
+      <workItem from="1740948394574" duration="30321000" />
     </task>
     <servers />
   </component>
