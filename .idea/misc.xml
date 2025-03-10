@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="/opt/anaconda3/envs/ChemExTract" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3/envs/ChemExTract" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="ChemExTract-Model" project-jdk-type="Python SDK" />
 </project>

@@ -53,7 +53,6 @@ def update_seed_patterns():
 
     # 转换为 Python 脚本格式
     seed_patterns_str = "seed_patterns = " + json.dumps(seed_patterns["seed_patterns"], indent=4, ensure_ascii=False)
-    seed_patterns_str = seed_patterns_str.replace('"', 'r"')
     seed_patterns_str = seed_patterns_str.replace("\\\\", "\\")  # 确保格式正确
 
     # 保存更新后的模式文件

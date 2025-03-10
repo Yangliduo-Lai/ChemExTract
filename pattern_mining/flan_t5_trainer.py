@@ -2,6 +2,7 @@
 这里是微调 Flan-T5 的脚本。将弱标注的训练数据整理成 QA 格式后，用 huggingface Trainer 训练。
 """
 import os
+import random
 import re
 import json
 import torch
@@ -55,9 +56,10 @@ def weak_label_data():
 """
 将标注过的句子对（原句 + 该句里有哪些操作）整理成「问答式 (QA-style)」的训练样本。
 """
-def generate_qa_training_data():
+def generate_qa_training_data(train_ratio=0.8):
     input_json_file = "data/weak_labeled/weak_labeled.json"
-    output_json_file = "data/weak_labeled/qa_training_data.json"
+    train_json_file = "data/weak_labeled/qa_training_data.json"
+    eval_json_file = "data/weak_labeled/qa_eval_data.json"
 
     # 读取弱标注数据
     with open(input_json_file, "r", encoding="utf-8") as file:
@@ -75,23 +77,33 @@ def generate_qa_training_data():
             seen_sentences[sentence] = []
         seen_sentences[sentence].append(operation)
 
-    # 生成 QA 样本
+        # 生成 QA 样本
     for sentence, operations in seen_sentences.items():
         qa_sample = {
-            "question": f"What chemical operations are described in this sentence?",
+            "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
             "context": sentence,
             "answer": ", ".join(operations)
         }
         qa_data.append(qa_sample)
 
+        # 随机划分数据集
+    random.shuffle(qa_data)
+    split_idx = int(len(qa_data) * train_ratio)
+    train_data = qa_data[:split_idx]
+    eval_data = qa_data[split_idx:]
+
     # 确保目标目录存在
-    os.makedirs(os.path.dirname(output_json_file), exist_ok=True)
+    os.makedirs(os.path.dirname(train_json_file), exist_ok=True)
 
-    # 保存问答数据
-    with open(output_json_file, "w", encoding="utf-8") as file:
-        json.dump(qa_data, file, indent=4, ensure_ascii=False)
+    # 保存训练数据
+    with open(train_json_file, "w", encoding="utf-8") as file:
+        json.dump(train_data, file, indent=4, ensure_ascii=False)
+    print(f"QA training data saved to {train_json_file}")
 
-    print(f"QA training data saved to {output_json_file}")
+    # 保存评估数据
+    with open(eval_json_file, "w", encoding="utf-8") as file:
+        json.dump(eval_data, file, indent=4, ensure_ascii=False)
+    print(f"QA evaluation data saved to {eval_json_file}")
 
 """
 微调一个 Flan-T5 Small 模型。
@@ -116,22 +128,28 @@ def preprocess_data(example, tokenizer, max_length=512):
 
 def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
     train_path ="data/weak_labeled/qa_training_data.json"
+    eval_path = "data/weak_labeled/qa_eval_data.json"
     output_dir = "models/flan_t5_finetuned"
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = T5Tokenizer.from_pretrained(model_name)
     model = T5ForConditionalGeneration.from_pretrained(model_name).to(device)
 
-    dataset = load_data(train_path)
-    tokenized_dataset = dataset.map(lambda x: preprocess_data(x, tokenizer), batched=True)
+    # Load and preprocess training data
+    train_dataset = load_data(train_path)
+    tokenized_train_dataset = train_dataset.map(lambda x: preprocess_data(x, tokenizer), batched=True)
+
+    # Load and preprocess evaluation data
+    eval_dataset = load_data(eval_path)
+    tokenized_eval_dataset = eval_dataset.map(lambda x: preprocess_data(x, tokenizer), batched=True)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
-        evaluation_strategy="no",
+        evaluation_strategy="epoch",  # Enable evaluation at each epoch
         save_strategy="epoch",
         learning_rate=2e-5,
-        per_device_train_batch_size=1,
-        per_device_eval_batch_size=1,
+        per_device_train_batch_size=6,
+        per_device_eval_batch_size=4,
         num_train_epochs=3,
         weight_decay=0.01,
         save_total_limit=2,
@@ -143,12 +161,15 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_dataset,
+        train_dataset=tokenized_train_dataset,
+        eval_dataset=tokenized_eval_dataset,  # Include evaluation dataset
         tokenizer=tokenizer,
         data_collator=data_collator,
     )
 
     trainer.train()
+    trainer.evaluate()  # Run evaluation after training
+
     model.save_pretrained(output_dir)
     tokenizer.save_pretrained(output_dir)
     print(f"Model fine-tuned and saved to {output_dir}")
