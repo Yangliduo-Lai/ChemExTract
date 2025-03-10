@@ -4,6 +4,7 @@ from pattern_mining.flan_t5_trainer import weak_label_data, generate_qa_training
 from pattern_mining.pattern_labeler import batch_predict_from_file
 from pattern_mining.pattern_refiner import update_seed_patterns
 from text_formatting.format_text import format_experiment_description
+from text_rephrasing.rephrase_scientific_text import text_rephrase
 
 
 # 模式识别
@@ -27,7 +28,9 @@ def run_Flan_T5_predict():
 def run_update_seed_patterns():
     update_seed_patterns()
 
-
+# 文本重写
+def run_text_rephrase():
+    text_rephrase()
 
 # 文本格式化
 def run_text_format():

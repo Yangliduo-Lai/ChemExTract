@@ -1,15 +1,9 @@
-Here's how we created a porous BLF support using the oxalate method:
-
-1. First, we took some Ba (9.5 mmol), La (0.5 mmol) acetates and Fe nitrate (10 mmol) and dissolved these in water (100 mL).
-
-2. We then prepared a mixed metal salt solution and slowly stirred it into ethanol (100 mL) that already had oxalic acid (90 mmol) in it.
-
-3. This mixing action caused a yellow-colored suspension to form, which we then let sit for an hour. Just a note - the use of ethanol was really vital here because it causes the metal oxalates to precipitate.
-
-4. We filtered this suspension to collect the early-stage metal oxalate particles.
-
-5. This collected solid was dried at a temperature of 120 degrees Celsius for 2 hours and then heated up to 700 degrees Celsius for another 2 hours.
-
-6. We pressed the heated powder into a disk shape to create a porous support disk that was still in a "green" or unprocessed state.
-
-7. Finally, we prepared a BLF powder as the starting material for a dense layer using the AMP method. For this part, we stirred an aqueous malic acid solution (50 mL) into another solution (50 mL) that contained the appropriate metal nitrates or acetates in the right ratio.
+DISSOLVE Ba acetate (9.5 mmol), La acetate (0.5 mmol), and Fe nitrate (10 mmol) in water (100 mL)
+ADD the mixed metal salt solution to ethanol (100 mL) with oxalic acid (90 mmol) to make a yellow suspension
+ALLOW the suspension to stand for 1 hour
+FILTRATE the suspension to collect the precursor metal oxalate particles
+DRY the obtained precursor powder at 120 degC for 2 hours
+CALCINATE the dried powder at 700 degC for 2 hours
+PRESS-FORM the calcinated powder into a disc to make a green porous support disc
+PREPARE a BLF powder - the precursor of a dense layer - using the AMP method
+ADD an aqueous malic acid solution (50 mL) to a solution (50 mL) that contains corresponding metal nitrates or acetates in a stoichiometric ratio under strong stirring.

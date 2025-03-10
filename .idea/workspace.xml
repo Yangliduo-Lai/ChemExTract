@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0b646c-c841-47d6-989e-856e7ec39bec" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/data/raw/test_scientific_paragraphs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_rephrasing/rephrase_scientific_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/final_labeled/final_labeled.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/final_labeled/final_labeled.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/raw/scientific_paragraphs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/scientific_paragraphs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/weak_labeled/qa_training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/weak_labeled/qa_training_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/weak_labeled/weak_labeled.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/weak_labeled/weak_labeled.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw/rephrased_scientific_paragraphs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/rephrased_scientific_paragraphs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern_mining/pattern_refiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_mining/pattern_refiner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern_mining/refined_seed_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_mining/refined_seed_patterns.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,1 +1,4 @@
 models/flan_t5_finetuned/
+# 忽略所有 .pyc 和 __pycache__ 目录
+__pycache__/
+*.pyc
