@@ -1,0 +1,9 @@
+DISSOLVE Ba acetate (9.5 mmol), La acetate (0.5 mmol), and Fe nitrate (10 mmol) in water (100 mL)
+ADD the mixed metal salt solution to ethanol (100 ml) with oxalic acid (90 mmol) to make a yellow suspension
+LET the suspension stand for 1 hour
+FILTER the suspension to collect the precipitated metal oxalate precursor
+DRY the precursor at 120°C for 2 hours
+CALCINE the dried powder at 700°C for 2 hours
+PRESS the calcinated powder into a disc to obtain a green porous support
+SYNTHESIZE BLF powder as dense layer precursor using the AMP method
+MIX an aqueous malic acid solution (50 mL) with a metal nitrate or acetate solution (50 mL) in stoichiometric ratio under vigorous stirring

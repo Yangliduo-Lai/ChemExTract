@@ -1,11 +1,12 @@
 import argparse
 
+from prep.experiment_extract import experiment_text_extract
+from prep.text_similarity import caculate_text_similarity
 from pattern_mining.flan_t5_trainer import weak_label_data, generate_qa_training_data, fine_tune_flan_t5
 from pattern_mining.pattern_labeler import batch_predict_from_file
 from pattern_mining.pattern_refiner import update_seed_patterns
-from text_formatting.format_text import format_experiment_description
+from prep.pdf2xml import pdf_to_xml_pdfplumber
 from text_rephrasing.rephrase_scientific_text import text_rephrase
-
 
 # 模式识别
 # 用现有的种子模式(seed_patterns.py)，在化学文献里自动搜索并“弱标注”出一些带操作标签的文本片段。
@@ -28,13 +29,20 @@ def run_Flan_T5_predict():
 def run_update_seed_patterns():
     update_seed_patterns()
 
+
+
+# 数据准备
+def run_text_pre():
+    # pdf_to_xml_pdfplumber("data/test/paper.pdf", "data/test/paper.xml")
+    # caculate_text_similarity("data/test/paper.xml")
+    experiment_text_extract("data/test/paper.xml")
+
+
+
+# 文本格式化
 # 文本重写
 def run_text_rephrase():
     text_rephrase()
-
-# 文本格式化
-def run_text_format():
-    format_experiment_description()
 
 
 if __name__ == "__main__":
@@ -56,8 +64,10 @@ if __name__ == "__main__":
     # Text Rephrasing
     parser_text_rephrasing = subparsers.add_parser("text_rephrase", help="Run text rephrase.")
 
-    # Text Formatting
-    parser_text_format = subparsers.add_parser("text_format", help="Run text format.")
+    # Text preparation
+    parser_text_preparation = subparsers.add_parser("text_preparation", help="Run text preparation.")
+
+    # Evaluation
 
 
     # 解析命令行参数
@@ -76,7 +86,7 @@ if __name__ == "__main__":
         run_update_seed_patterns()
     elif args.command == "text_rephrase":
         run_text_rephrase()
-    elif args.command == "text_format":
-        run_text_format()
+    elif args.command == "text_preparation":
+        run_text_pre()
     else:
         parser.print_help()

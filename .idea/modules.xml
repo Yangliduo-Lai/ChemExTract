@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ChemExTract-Model.iml" filepath="$PROJECT_DIR$/.idea/ChemExTract-Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChemExTract.iml" filepath="$PROJECT_DIR$/.idea/ChemExTract.iml" />
     </modules>
   </component>
 </project>
