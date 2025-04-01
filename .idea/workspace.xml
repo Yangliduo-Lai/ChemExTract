@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0b646c-c841-47d6-989e-856e7ec39bec" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +192,7 @@
       <workItem from="1742871427267" duration="2665000" />
       <workItem from="1743146923048" duration="18006000" />
       <workItem from="1743322395238" duration="28000" />
-      <workItem from="1743323732537" duration="6328000" />
+      <workItem from="1743323732537" duration="6513000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />

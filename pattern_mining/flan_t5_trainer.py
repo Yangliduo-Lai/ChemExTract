@@ -145,28 +145,16 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
 
     training_args = TrainingArguments(
         output_dir=output_dir,
-        evaluation_strategy="steps",
-        eval_steps=100,  # 每 100 步评估一次
-        save_strategy="steps",
-        save_steps=100,  # 每 100 步保存一次
-        save_total_limit=2,  # 最多保存2个模型
-        logging_dir=f"{output_dir}/logs",
-        logging_steps=20,  # 日志打印频率
-
-        per_device_train_batch_size=1,
+        evaluation_strategy="epoch",  # Enable evaluation at each epoch
+        save_strategy="epoch",
+        learning_rate=2e-5,
+        per_device_train_batch_size=6,
         per_device_eval_batch_size=4,
-        gradient_accumulation_steps=8,  # 相当于真实 batch size = 16
-
-        learning_rate=2e-4,  # 适合小样本微调（稍高，收敛更快）
-        #warmup_steps=10,  # 预热一点点
-        num_train_epochs=10,  # 数据量小，可多跑几轮
-        lr_scheduler_type="linear",
+        num_train_epochs=3,
         weight_decay=0.01,
-
-        fp16=True,  # 开启半精度，提升速度、减小显存
-        torch_compile=True,
+        save_total_limit=2,
+        fp16=False,
         push_to_hub=False,
-        report_to="none",
     )
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
