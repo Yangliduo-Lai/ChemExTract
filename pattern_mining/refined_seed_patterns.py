@@ -129,8 +129,11 @@ seed_patterns = {
     "transformation": [
         "\btransformation\b"
     ],
-    "Oxygen": [
-        "\bOxygen\b"
+    "transmission": [
+        "\btransmission\b"
+    ],
+    "obtained": [
+        "\bobtained\b"
     ],
     "mitochondrial": [
         "\bmitochondrial\b"
@@ -165,17 +168,14 @@ seed_patterns = {
     "maintenance": [
         "\bmaintenance\b"
     ],
-    "chemical reactions": [
-        "\bchemical\ reactions\b"
-    ],
-    "transmission": [
-        "\btransmission\b"
+    "Transmission": [
+        "\bTransmission\b"
     ],
     "removal": [
         "\bremoval\b"
     ],
-    "secondary alcohol": [
-        "\bsecondary\ alcohol\b"
+    "Krebs cycle": [
+        "\bKrebs\ cycle\b"
     ],
     "precipitation": [
         "\bprecipitation\b"
@@ -183,8 +183,8 @@ seed_patterns = {
     "transfére": [
         "\btransfére\b"
     ],
-    "Krebs cycle": [
-        "\bKrebs\ cycle\b"
+    "chemical reactions": [
+        "\bchemical\ reactions\b"
     ],
     "catalysts": [
         "\bcatalysts\b"
@@ -192,14 +192,8 @@ seed_patterns = {
     "Krebs": [
         "\bKrebs\b"
     ],
-    "isolated": [
-        "\bisolated\b"
-    ],
     "produced": [
         "\bproduced\b"
-    ],
-    "mitochondrial function": [
-        "\bmitochondrial\ function\b"
     ],
     "release": [
         "\brelease\b"
@@ -207,20 +201,17 @@ seed_patterns = {
     "digestion": [
         "\bdigestion\b"
     ],
-    "failure": [
-        "\bfailure\b"
+    "separation": [
+        "\bseparation\b"
     ],
     "fabrication": [
         "\bfabrication\b"
     ],
-    "obtained": [
-        "\bobtained\b"
-    ],
     "refluxing": [
         "\brefluxing\b"
     ],
-    "exposure": [
-        "\bexposure\b"
+    "mitochondrial function": [
+        "\bmitochondrial\ function\b"
     ],
     "removed": [
         "\bremoved\b"
@@ -234,8 +225,8 @@ seed_patterns = {
     "Chemistry": [
         "\bChemistry\b"
     ],
-    "mitochondrial membrane": [
-        "\bmitochondrial\ membrane\b"
+    "fermentation": [
+        "\bfermentation\b"
     ],
     "reflux": [
         "\breflux\b"
@@ -249,32 +240,38 @@ seed_patterns = {
     "hydrolysis": [
         "\bhydrolysis\b"
     ],
+    "isolated": [
+        "\bisolated\b"
+    ],
     "heating": [
         "\bheating\b"
-    ],
-    "separation": [
-        "\bseparation\b"
     ],
     "maintenance of phosphate": [
         "\bmaintenance\ of\ phosphate\b"
     ],
-    "production of nickel": [
-        "\bproduction\ of\ nickel\b"
+    "conduct chemical transformation": [
+        "\bconduct\ chemical\ transformation\b"
     ],
     "activation": [
         "\bactivation\b"
     ],
+    "hydrolyzed": [
+        "\bhydrolyzed\b"
+    ],
     "metabolism": [
         "\bmetabolism\b"
-    ],
-    "injection": [
-        "\binjection\b"
     ],
     "freezing": [
         "\bfreezing\b"
     ],
     "Intermediate 6": [
         "\bIntermediate\ 6\b"
+    ],
+    "Oxygen": [
+        "\bOxygen\b"
+    ],
+    "melting": [
+        "\bmelting\b"
     ],
     "bromination": [
         "\bbromination\b"
@@ -285,17 +282,20 @@ seed_patterns = {
     "contaminants": [
         "\bcontaminants\b"
     ],
+    "injection": [
+        "\binjection\b"
+    ],
     "D": [
         "\bD\b"
+    ],
+    "maintenance of the environment": [
+        "\bmaintenance\ of\ the\ environment\b"
     ],
     "synthesized": [
         "\bsynthesized\b"
     ],
-    "solvent": [
-        "\bsolvent\b"
-    ],
-    "Transmission": [
-        "\bTransmission\b"
+    "intramolecular": [
+        "\bintramolecular\b"
     ],
     "Intermediates": [
         "\bIntermediates\b"
@@ -305,6 +305,12 @@ seed_patterns = {
     ],
     "converted to desired products": [
         "\bconverted\ to\ desired\ products\b"
+    ],
+    "Hydrolysis": [
+        "\bHydrolysis\b"
+    ],
+    "transféred": [
+        "\btransféred\b"
     ],
     "extracted": [
         "\bextracted\b"
@@ -321,23 +327,29 @@ seed_patterns = {
     "reproduction": [
         "\breproduction\b"
     ],
-    "transférer": [
-        "\btransférer\b"
+    "solvent": [
+        "\bsolvent\b"
+    ],
+    "production of nickel": [
+        "\bproduction\ of\ nickel\b"
+    ],
+    "production of lithium": [
+        "\bproduction\ of\ lithium\b"
     ],
     "bromine": [
         "\bbromine\b"
     ],
-    "sterilization": [
-        "\bsterilization\b"
+    "treated": [
+        "\btreated\b"
     ],
-    "Hydrolysis": [
-        "\bHydrolysis\b"
+    "mitochondrial membrane": [
+        "\bmitochondrial\ membrane\b"
     ],
-    "intramolecular": [
-        "\bintramolecular\b"
+    "maintenance of oxidation": [
+        "\bmaintenance\ of\ oxidation\b"
     ],
-    "binding": [
-        "\bbinding\b"
+    "Desilylation": [
+        "\bDesilylation\b"
     ],
     "migration": [
         "\bmigration\b"
@@ -345,14 +357,8 @@ seed_patterns = {
     "Oxygenation": [
         "\bOxygenation\b"
     ],
-    "Oxidation": [
-        "\bOxidation\b"
-    ],
-    "mitochondrial DNA": [
-        "\bmitochondrial\ DNA\b"
-    ],
-    "maintenance of the environment": [
-        "\bmaintenance\ of\ the\ environment\b"
+    "infection": [
+        "\binfection\b"
     ],
     "isolation": [
         "\bisolation\b"
@@ -360,20 +366,14 @@ seed_patterns = {
     "substitution": [
         "\bsubstitution\b"
     ],
+    "binding": [
+        "\bbinding\b"
+    ],
     "purification": [
         "\bpurification\b"
     ],
     "trapping": [
         "\btrapping\b"
-    ],
-    "melting": [
-        "\bmelting\b"
-    ],
-    "treated": [
-        "\btreated\b"
-    ],
-    "conducting": [
-        "\bconducting\b"
     ],
     "deprotection": [
         "\bdeprotection\b"
@@ -384,17 +384,20 @@ seed_patterns = {
     "generated": [
         "\bgenerated\b"
     ],
+    "conducting": [
+        "\bconducting\b"
+    ],
     "inhibited": [
         "\binhibited\b"
     ],
-    "Nebenwirkungsverhalten": [
-        "\bNebenwirkungsverhalten\b"
+    "transférer": [
+        "\btransférer\b"
+    ],
+    "substrate": [
+        "\bsubstrate\b"
     ],
     "Removal": [
         "\bRemoval\b"
-    ],
-    "interaction with oxygen": [
-        "\binteraction\ with\ oxygen\b"
     ],
     "converted": [
         "\bconverted\b"
@@ -405,7 +408,7 @@ seed_patterns = {
     "transféring": [
         "\btransféring\b"
     ],
-    "solvents": [
-        "\bsolvents\b"
+    "failure": [
+        "\bfailure\b"
     ]
 }

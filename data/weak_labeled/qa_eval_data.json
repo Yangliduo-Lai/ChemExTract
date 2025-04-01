@@ -1,1042 +1,52 @@
 [
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Only in the case of urethane was the desired product 29g formed , albeit in only 33 % yield.",
+        "context": "Synthesis of the (R)-(GHHD) side chain was performed using the same procedures but starting from the reaction of propargyl alcohol 14 with 1-bromodecane to give alkyne 21 , which was subsequently isomerized and protected to give the terminal alkyne 12.20 Reaction of 12 with epoxyalcohol (S)-10 and subsequent manipulation as described above for the longer side chain gave [(R)-9] in 24 % yield over the 6 steps ( Scheme 4 ) .",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Unsubstituted 1-borobutadiene 5 reacted eﬃciently with nitrosobenzene to give the corresponding pyrrole 3h in 78 % yield ( entry 1 , Table 2 ).",
+        "context": "this process , the anti-1,2-diamine 3x was prepared in 85 % yield by combining N-PMP α-silylamine 1m and N-DPP imine 2c in the presence of KHMDS ( Scheme 3 ).",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Acidolysis of 10a with methanolic HCl followed by treatment with K2CO3 yielded the 3-O-benzyl derivative 11a of 1 in 76 % yield.",
+        "context": "As shown in Table 2 , treatment of (R)- 1a − g with tBuOK followed by addition of 1-bromo-2,4- hexadiene at room temperature gave the corresponding ether products (R)-2a − g in 50 − 86 % yield.",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Acetal 15 did not require any speciﬁc deprotection and underwent reduction with sodium borohydride to give diol 16 as a single stereoisomer in 87 % yield.",
+        "context": "In this case , the reaction was terminated after 5 days and the product 5h was isolated in 61 % yield .",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Phenyl diethanolamine-boronate 1b was converted to PhBF3K 1a in good yield under standard conditions ( Table 1 , entry 1 ).",
+        "context": "Benchmark monomer BDP - NHBz was obtained by reaction of BDP - NH2 with benzoic acid , under analogous conditions as for 3-BDP and 4-BDP , to provide the desired product in 80 % yield ( Scheme 6 ) .",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the next step , treatment of benzamide 7 and tosylamide 9 with LiHMDS in THF , to achieve dehydrobromination , smoothly led to the formation of new diﬂuorinated enamides 8 and 10 ( 82 − 85 % yield ) .",
+        "context": "In addition , alkynylation of the corresponding 2- naphthamide smoothly occurred at the less hindered position , aﬀording 3l in 88 % yield.",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Compound 8 was ﬁrst protected with an acetyl group followed by nitration to obtain C4 - substituted compound 11 , according to the procedure reported by Morie and co-workers.11 Oxidation of the aldehyde and reduction of the nitro group to an amino group proceeded quantitatively , and subsequent Sandmeyer reaction gave 4-chloro-2-hydroxy-3- methoxybenzoic acid 14.",
+        "context": "In the re- action under neat conditions , 20 % of 3a was obtained ( entry 5 ).",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "4‑(methylthio)benzaldehyde was allowed to react with hydroxylamine hydrochloride in DMSO to aﬀord the 4‑(methylthio)benzonitrile ( 1 ) in 84 % yield via aldehyde oxime formation and spontaneous dehydratization at a temperature of 100 ° C as described by Chill and Mebane for other nitriles.25 The oxidation with m-chloroperbenzoic acid formed 2a in a yield of 77 % .",
+        "context": "Finally , the deprotection of two silyl groups of 9 gave the desired tri-n-butylstannyl precursor 5 in 48 % yield ( two steps ) .",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Indeed , treatment of aceanthren-1-one12 ( 5 ) with TiCl4 in reﬂuxing o-dichlorobenzene ( ODCB ) gave tribenzodecacyclene 3 , a red , crystalline solid that was easily isolated in 16 % yield ( chieﬂy because it is brightly colored and the least polar product in the reaction mixture ).",
+        "context": "Sterically hindered isopropyl ketone 7j was examined and yielded 8j in excellent yield.",
         "answer": "Yield"
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The corresponding carbamate 2b was isolated in an almost quantitative yield of 98 % ; however , the synthesis of the corresponding chloroformate is quite complicated and time- consuming and can be synthesized with only 40 % yield.7 CSI also works very well with multivalent alcohols such as 2,2- dinitropropane-1,3-diol ( 1c ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In addition , 2-naphthaldehyde reacted to furnish 7r in good yield , which upon recrystallization in MeOH − CH2Cl2 ( 1 : 1 ) gave single crystals whose structure was conﬁrmed by X-ray analysis ( see Supporting Information ).",
-        "answer": "Recrystallize, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As hypothesized , the reaction provided C1-aroylated product ( 1d ) but in a low yield of 26 % ( Table 1 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Next , we hydrolyzed the diastereoisomerically pure complex (S,S)-3a under acidic conditions and obtained(S)-phenylglycine (S)-4a in 90 % yield and > 99 % ee ( Scheme 2 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Subsequently , reaction with BF3 the TIPS could be easily converted to a phenyl group to yield 8c in 95 % yield through the Sila − Sonogashira coupling reaction , which means other aryl substituents could be similarly introduced.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After cyclization reaction with AcONa in ethanol , the synthetic precursor 3 was obtained.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "mediated conditions failed to generate the expected furotro- it yielded a 2,3′-bifuran pone 3t ; however , to our surprise , derivative 4 in 78 % yield in a mechanism described in Scheme 5.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "amide 4aaa was obtained in 40 % yield after 24 h ; however , the hydrolysis product 5aa6c was also obtained in 20 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "We were unable to obtain enamine 3as in Ph2O ( most likely due to poor solubility of benzidine ) , but it was isolated in excellent yield after the reaction mixture was heated in THF.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Synthesis began with acylation of Evans ’ (R)-phenylalanine - derived oxazolidi- none with known carboxylic acid 1722 under mixed anhydride conditions to aﬀord N-acyloxazolidinone 18 in 93 % yield.",
-        "answer": "MakeSolution, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Subsequent reduction of 19 by LiAlH4 provided 6-deoxysugar 20 in 85 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction of Boc- protected valinamide 21 furnished the corresponding product 22 in 62 % yield and with a 2 : 1 diastereoselectivity .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "formed through a SNAr - based reaction of sodium arylsulﬁnates with aryl chloride in some reaction systems.21 With the present protocol , it is noteworthy that when p-nitrochlorobenzene ( 2i ) and m-nitrochlorobenzene ( 2j ) were employed as substrates , 1a reacted exclusively with the nitro group to give the products 3ai and 3aj in 93 % and 96 % yield , respectively ( Table 2 , entries 9 and 10 ) , demonstrating good selectivity.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "2-Methyl and 2,3-fused pyrroles , sterically demanding pyrrole derivatives , underwent smooth reaction to give the product 5a and 5e in 67 % and 76 % yield , respectively.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "If thioacetic acid was ﬁrst treated with TBAOH and the isolated TBA - thioacetate salt ( 5 ) was added to PFAA 1 , amide product 3 was obtained in quantitative yield without any aniline byproduct ( Scheme 2 ).",
-        "answer": "Add, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As outlined in Scheme 3 , the dianion of 3-methyl-3- butene-1-ol ( 5 ) , generated in tetrahydrofuran with n-butyl lithium and TMEDA , was trapped with 3-bromo-(1-trimethyl- silyl)-1-propyne ( 6 ) to give 7 in 50 % yield.19 The resulting alcohol 7 was protected as a THP ether and treated with tetrabutylammonium ﬂuoride in tetrahydrofuran to aﬀord the terminal alkyne 9.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Glucopyranoside 1815 was treated with tosyl chloride , leading to regioselective tosylation of the C- 6 hydroxyl group to form 19 in 95 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "For this purpose , chemoselective deprotection of the six- membered isopropylidene group of 7 was achieved using pyridinium p-toluenesulfonate ( PPTS ) in MeOH to aﬀord diol 13 ( 81 % yield ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Thus , 1a could be selectively reduced to 3a in 92 % · yield by using 20 equiv of NaBH4 in the presence of NiCl2 6H2O ( 10 mol % ) ( eq 2 , Scheme 2 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As expected , the desired product 3ab was formed in 30 % yield ( Table 4 , entry 1 ) under the standard conditions ( I2 10\nNotably , when 5-methoxy-3-phenylbenzofuran ( 4b ) was treated with 4-methylbenzenesulfonohydrazide ( 2b ) under the catalysis of I2 , disulfenylation product ( 5bb ) was obtained in 54 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Removal of the TBS moiety of 17 was carried out with TBAF / AcOH in MeCN at 60 ° C to give diol 20 in 86 % yield ( Scheme 6 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "the mechanism , the reaction of 1b with [PhCu] , generated in situ from PhMgCl and CuI , aﬀorded the amination product 3be in a comparable yield of 87 % .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "2′-N,N-Dialkylamine - substituted styrenes 4i , 4k , 4q , and 4r underwent tandem demethylation and cyclization to produce the corresponding isatins 2i , 2k , 2q , and 2r in good to excellent yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The silyl group in α-alkoxyamide 13 was removed , and the resulting alcohol 14 transformed into tosylate 11 in 98 % overall yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "quickly found iodobenzene 2c13 could furnish 50 % yield of the desired monoarylation product 3-1a , in which the phenyl group was incorporated into the β-position of alkyl carboxylic acid amide 1a.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Hence , the reaction of indole-3- carboxaldehyde ( 2.0 equiv ) with chlorosulphonyl azide , prepared in situ by the reaction of equimolar quantities of sodium azide and sulfuryl chloride in MeCN , gave indole-3-carboxaldehyde-1- sulphonyl azide I ( 40 % , obtained after aqueous workup and puriﬁcation by ﬂash column chromatography ) as a yellow solid ( mp 174 − 176 ° C ) ( Scheme 2 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Reaction with (phen)Cu(SCF3) ( phen = phenanthroline ) generated product 3a in moderate yield ( 55 % ; Table 2 , entry 2 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "By changing the catalyst the reaction conditions were optimized to aﬀord the product 5a in 81 % yield , with 3 mol % of rhodium catalyst and 10 mol % of AgSbF6 in tert-amyl alcohol at 120 ° C ( Scheme 3 and see Supporting Information ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When Cp*RhCl[(S,S)-TsDPEN] was used as an alternative catalyst , the product (S)-1-phenylethanol ( 4a ) was obtained in 96 % yield with 98 % ee .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "With the acid 40 in hand , amidation with the amine 9 led to 41 in 76 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "p-Fluoroaniline ( 2d ) provided high yield of pyrrolinone 4ad , and even anilines with stronger electron- withdrawing groups [ e.g.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Diazotization of 15 yielded the diazonium salt 16 , which was heated in acetonitrile to give 17 in 86 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After oxidation of the alcohol 21 to the aldehyde 22 , the hydroxylamine 23 was obtained as the single diastereomer by an intramolecular reductive coupling reaction promoted by SmI2.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the presence of TFA and formaldehyde , the reaction between 11 and 15 yielded the hybrid diastereoisomeric products 5 and 6 in 53 % yield ( isolated product ) , while the initial macrocycles were completely used up.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Notably , the reaction of heterocyclic 4- iodopyridin-3-amine ( 1h ) worked very well to furnish the corresponding 5-azaindoles ( pyrrolo[3,2-c]pyridines ) 3h in 85 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The produced diol 14 was then treated with methanesulfonyl chloride ( MsCl ) to give dimesylate 15.34 cis-DHSred ( 6 ) was obtained by selenation of 15 with sodium hydrogen selenide ( NaHSe ) and subsequent deprotection of the acetonide group.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "While the loading of Pd(OAc)2 was continuously increased to 15 mol % , the reaction resulted in slightly lower yield of 3a ( 77 % ) ( entry 7 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When the reactions of either a pyridyl aldehyde , which have a more sterically hindered portion around the nitrogen atom , 2-bromo-6-formylpyridine ( 8b ) , or 2-thiophenyl aldehyde ( 8c ) with malonate ester 2a were treated with our optimal conditions , the extended π-conjugate heteroaromatic compounds 9ba and 9ca were obtained in good yields ( entries 2 and 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the reaction of 4-methylbenzene- thiol ( 1b ) with terminal alkyne 2a , α-thioaldehyde ( 4ba ) was obtained as the major product in 59 % yield and alkenylsulﬁde ( 3ba ) as minor product in 32 % yield ( Table 3 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In view of determining the ee by chiral supercritical ﬂuid chromatography ( SFC ) , the enantioenriched carbinol (+)-11 was ﬁrst converted into the corresponding naphthyl carbamate 12 so as to maximize both UV detection and diastereo- diﬀerentiation on the chiral stationary phase.11 Analytical chiral SFC indicated an ee value of 81 % for 12 , comparable to what was previously obtained with (R)-BINOL.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In Pathway B , after elimination of HCl in 1 , the generated monoketene INT1 could undergo cyclization to deliver α- oxoketene , followed by [ 4 + 2 ] annulation with imine 2m to yield the 2,3-dihydro-1,3-oxazin-4-one derivative 3m.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "corresponding alcohol 8 , azide 9 was obtained after activation of the alcohol via the corresponding mesyl ester.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "By switching the solvent to the more polar acetonitrile , the reaction furnished 3-hydroxy-2,3-dihydroisoquinoline-1,4-dione ( the structure of which was unambiguously conﬁrmed through X-ray crystallo- graphic analysis ) as the major product in 10 % yield , with 80 % of the starting material recovered.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "treatment of 20 under the standard Wittig rearrangement conditions ( with n-BuLi in THF at − 78 ° C ) for 30 min aﬀorded 37 in 75 % yield as a single ( 9R ) stereoisomer via [2,3]-Wittig rearrangement ( Scheme 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Esteriﬁcation of 23 with acetic anhydride aﬀorded murrayamine K ( 8 ) in ﬁve steps and 42 % overall yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction of 4-methoxybenzaldehyde ( 1a ) with 2,5- dimethylpyrrole ( 2c ) under the conditions optimized for indole gave the tetraﬂuoroborate 3i in 70 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Heterocycles 5 were allowed to react with a range of halogenated derivatives R3−X ( iodomethane , iodoethane , 1-iodoheptane , benzyl chloride , 3,5- bis(triﬂuoromethyl)benzyl chloride , or 4-nitrobenzyl chloride ) to furnish the corresponding N - alkylated salts 3 in 68 − 100 % yield after a simple ﬁltration .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "coupling of 4-ﬂuorophenylboronic acid ( 12 ) and methyl 2- hydroxy-4-iodobenzoate ( 13 ) gave biaryl compound 14 in quantitative yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction of phenyl sulfonyl azide 3c occurred to produce 7t in 80 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "This α-amino ester was condensed with pivaldehyde to aﬀord an oxazolidine intermediate that was directly coupled with acetoacetic acid in the presence of EDC and DMAP , giving β- keto amide 28 in 77 % overall yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The low redox potential of dOG renders this nucleoside labile toward further oxidation to yield the hydantoins dSp and dGh ( Scheme 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The treatment of the tosyl derivative 4b with 10 mol % of G-II led to desired 6b in 53 % yield , while a lower amount of 6b ( 25 % ) was recovered when 5 mol % of catalyst was used ( entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As previously described,5 reaction of N-tert-butylsulﬁnamide (R)-1 with aldehyde 5 [ 97 : 3 dr , ( E ) : ( Z ) ratio]4,5,13 gave unsaturated N-tert-butylsulﬁnylimine 7 in 80 % yield and 97 : 3 dr [ (11Z):(11E) ratio].5 Under the optimized conditions for imino-aldol reaction , addition of MeMgBr to a solution of methyl phenylacetate 2 and MgBr2 in THF , followed by addition of imine 7 , furnished an ∼ 80 : 20 mixture of 23 and 24 , respectively.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Under the slightly modiﬁed conditions , 4 mmol of 1a , 4 mmol of 1b , and 6 mmol of 1t reacted smoothly with 9.3 equiv of nitromethane to provide the gram - scaled 3a , 3b , and 3t without any loss of yield or enantiomeric excesses.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As an example , compound 14 was allowed to react with methyl sulfonyl chloride to provide compound 15 in good yield ( 71 % ) ( Supporting Information Figures S25 and S26 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Heptenoate 15 was synthesized from pentenoate 13 in 68 % yield by hydroboration of the terminal alkene using 9-borabicyclo[3.3.1]nonane ( 9-BBN ) and cross- coupling to vinyl bromide using Pd2(dba)3 .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "silica bed and was treated with Cu(OAc)2 in EtOH to cleave the N − O bond , and the alcohol 5a was obtained in 69 % overall yield for the three steps.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After 6 h in acetonitrile at 50 ° C , the corresponding dipeptide 13 was obtained in 61 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "So , the previously reported alcohol 9,9 obtained from diol 8 in four steps including ones involving Negishi cross-coupling and intramolecular Diels − Alder cycloaddition reactions,10 was into acetate 10 and its converted , by conventional means , structure conﬁrmed by single - crystal X-ray analysis.11 Com- pound 10 could be diastereoselectively cis-dihydroxylated using the Sharpless modiﬁcation of the Upjohn conditions12 and so aﬀording the diol 11 and this then converted into the corresponding p-methoxyphenylbenzylidene acetal through its reaction with p-methoxybenzaldehyde dimethylacetal ( PMBDMA ) in the presence of p-toluenesulfonic acid ( p- TsOH ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "product 13 in 70 % yield together with bis-substituted product 14 in 8.6 % yield ( Figure 7 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "opening N-arylation to aﬀord 2-(diphenylamino)phenol ( 3aa ) in 98 % isolated yield ( entry 4 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": ", 3- phenylpropionaldehyde , proceeded smoothly to give 3t , 3u , and 3v in good ( 70 − 87 % ) yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Gratifyingly , furan-2- ylmethyl propiolate also reacted smoothly with 2a to give the desired (Z)-3-methyleneisoindolin-1-one 5i in an excellent\nIt is worthy to note that phenyl propiolate could also proceed with 2a to provide the corresponding (Z)-3-methyleneisoindolin-1-one 5j in the yield of 71 % .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Omitting Cs2CO3 from the reaction gave acetoxylation product 4aa exclusively in 36 % yield ( Table 1 , entry 12 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "To our delight , when the reaction was carried out in the presence of 20 mol % of CuI and 0.50 equiv of 1,8- diazabicyclo[5.4.0]undec-7-ene ( DBU ) in wet methanol at 100 ° C , the desired product , 5-(4-acetylphenyl)-2,2-dimethyl-4- (pyridin-2-yl)furan-3(2H)-one ( 3aa ) , was obtained in an excellent yield after 24 h ( entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After 18 h reaction 61 % 1a and 33 % unreacted 10 were witnessed by calibrated HPLC ( using internal standards ) ; however , no further 1a was formed after another 2 h , and following aqueous workup and column chromatography a 50 % isolated yield of 97.7 % -pure canagliﬂozin was obtained .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Finally , we investigated the protocol with 3-methyl-1,5- diphenyl-1H-pyrazole 17 and found that substrate resulted in a complex mixture of products from which we could isolate the 1-(2-hydroxyphenyl)pyrazole ( 18 ) product in 7 % yield only ( Scheme 9 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Utilization of standard IMDDA reaction conditions , along with 1,4-cyclohexadiene ( 10 equiv ) , aﬀorded a similar yield and 1 : 1.2 ratio of 31a and 31b when compared to reaction mixtures in which 1,4-cyclohexadiene was not present ( Scheme 7 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Further , reaction of the tricarbonyls 3q2 , 3r2 and 3s2 , which were obtained by the reaction of 3-formyl-2-furylcarbinols 3a1 , 3c1 and 3s1 , and ethyl acetoacetate 2c , respectively , in the\npresence of a catalytic amount of bismuth(III)chloride , under standard reaction conditions not only furnished the β- ketoesters 3q3 , 3r3 and 3s3 , but subsequently underwent in situ ethoxy decarbonylation , generating mono ( C-8 ) sub- stituted furotropones 3q , 3r and 3s , respectively , in good yields , the reaction can be interrupted Scheme 4.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Ring opening of epoxide 19 proceeded with somewhat lower regioselectivity to give a 75 : 25 mixture of triols 39 and 40 , respectively ( > 95 % mass return ) , which were isolated in 31 % and 8 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Using this method , the formation of diverse 2-(alkynyl)imidazo[1,2-a]pyridine-3- arylamines 3 has been previously described , along with their cyclization under basic conditions to obtain original substituted pyrido[2′,1′:2,3]-imidazo[4,5-b]quinolones 4.10 We report herein the formation of 2-(alkynyl)imidazo[1,2-a]pyridin-3- alkylamines 5 followed by an iodine - catalyzed intramolecular cyclization.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "provided compound 8 in good yield ( 81 % ) after puriﬁcation on silica gel ( Supporting Information Figures S7 and S8 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "25 This produced 2,3,4,5-tetrahydro-1-benzoxepine 19 more cleanly in 81 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Hemiacetal 25 ( α:β = 55 : 45 ) , obtained in 84 % yield from allyl glycoside 24 by a two - step procedure that entailed treatment with t-BuOK in dimethyl sulfoxide ( DMSO ) at 100 ° C and bromination with N-bromosuccinimide ( NBS ) in aqueous THF,17 was success- fully converted to diphenyl phosphate 9 ( α:β = 67 : 33 ) in 81 % yield via oxidation22 of the corresponding phosphite with potassium peroxymonosulfate (Oxone)23 in aqueous acetone.24\nAs expected , tetrasaccharide 8 was obtained as a sole product by the TMSOTf - promoted reaction of diphenyl phosphate 9 with alcohol 10 in the presence of 5 Å molecular sieves in CH2Cl2 at 0 ° C ; however , the yield was only 35 % even with 2 equiv of alcohol 10 ( Table 1 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Catalytic hydrogenolysis ( 10 % Pd / C ) in acidic methanol aﬀorded the iminosugar 24 in quantitative yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "rearrangement to 13 , was ruled out : when 9a was treated with NaOH under the reaction conditions of Table 2 , 11a was not detected in the reaction mixture.27\nIndeed , the reaction mixture ( procedure A ) containing crude 11b with 1 M H2SO4 ( 6 equiv ) at 60 ° C for 1.5 h aﬀorded 13b in 61 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The primary alcohol product of this reaction , 36 , was then converted to TBS ether 37 and then N-methyl amide 38 in 83 % yield over the two steps.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "ylidene)acetate ( 6 ) was formed in 90 % yield when the reaction was performed in DMF at 150 ° C for 2 h in the presence of Bu3P , while the (E)-ethyl 2-(5,6-dichloro-3-oxoisoindolin-1- ylidene)acetate ( 7 ) was formed in 65 % yield when K2CO3 was used as catalyst in DMF at 60 ° C for 2 h ( Scheme 3 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Terashima reported the IMDDA reaction of alkynone 22 , which provided only 23 in quantitative yield.29 Finally , Matsubara has reported an IMDDA reaction of silyl acetylene 24 that produced only the naphthalene product 25 in 80 % yield ; ten additional examples were reported.30 While this nearly exhaustive listing of research in the area of IMDDA reactions of this reaction,31 its potential has not been realized due to harsh reaction conditions , long reaction times , mixtures of naphthalene and dihydronaphthalene compounds , and the inability to predict which product will be obtained .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Alternatively , the combination of Pd(OAc)2 and P(n- Bu)3 ligand under an air condition gave 68 % yield of indoles 3a , which indicated that that oxygen is adverse to this trans- formation ( entry 17 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "To begin , the reaction of functionalized cyclopentene 14aa with 5 mol % each of gold(I) carbene complex ( IPrAuCl ) and AgOTf at rt for 3 days in dioxane aﬀorded substituted benzofuran 16aa in 50 % yield ( Table 6 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "With slight modiﬁca- tion of the standard reaction conditions , we could obtain the coupling product 9a in 80 % yield ( Scheme 5 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "A Mitsunobu reaction of major isomer 4 with 2-bromo-3- nitrophenol (6)15 using triphenylphosphine and diisopropyla- zodicarboxylate ( DIAD ) gave expected product 7 in 70 % isolated yield ( Scheme 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Consequently , (CH2Cl)2 was the most eﬃcient among the tested solvents including CH2Cl2 , CHCl3 , CH3CN , CH3NO2 , and THF ( entries 8 vs 1 and 10 − 13 ) , and the increased amount of 1,3,5-trimethoxybenzene to 4 equiv could improve the reaction eﬃciency to give 2a in 88 % yield ( entry 9 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the presence of DABCO , enynal / enynone interacts with intermediate I resulting in II ,\nThus , by using 10 mol % of PPh3 as a catalyst , reaction of ethyl-2,3- butadienoate ( 10a ) with (E)-2-benzylidene-4-phenylbut-3-ynal ( 9a ) provided 14aa and 15aa in a combined yield of 76 % in a 5 : 1 ratio ( Table 4 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "First , when the radical scavenger 2,2,6,6-tetramethyl-1-piperidinyloxy ( TEMPO ) was added to the reaction mixture , only a trace amount of 1 was observed by GC-MS ( Scheme 4a ) , whereas in the presence of hydroquinone the reaction was completely inhibited and the corresponding radical adducts were detected by GC-MS ( Scheme 4b ; for details , see the Supporting Information ).",
-        "answer": "Add"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The expected phenylpropanol 4a was obtained in 88 % yield , whereas the keto product 3a was not observed in this experiment.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Subsequent selec- tive phosphorylation of the triol , thus obtained , with 2,2,2-trichloroethyl phosphorodichloridate aﬀorded isomeric (R,S)-(P)- 4II,6II-cyclic phosphates , which were both obtained in crystalline form and fully characterized.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction carried out in THF under a N2 atmosphere led to the allyllic alcohol 9a in 70 % yield with high regioselectivity ( 9a:10a = 96 : 4 in the crude reaction mixture by NMR analysis ) ( Scheme 4 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Intermediate E releases an aryl aldehyde and a hydroxyl anion to yield pyrrolo[3,2-b]pyrrole intermediate F , which converted into the ﬁnal pyrrolo[3,2-b]pyrroles 6 through tautomerization ( Scheme 7 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Azide reduction by the Staudinger reaction and triﬂuoroacetylation of the resulting amine gave the corresponding triﬂuoroacetamide derivative 23 in 79 % yield over the two steps.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The alcohol 17 was then subjected to Mitsunobu reaction with protected hydroxylamine to yield compound 18.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The ﬁrst synthesis of ATPF has been carried out by coupling of ADP and ﬂuorophosphate tributylammonium salts using the Michelson method ( diphe- nylchlorophosphate in pyridine ) and isolated in about 35 % yield after quite complex chemoenzymatic workup.5a GTPF has been synthesized directly from GTP by treatment with isolated only in 5 − 10 % yield,5d dinitroﬂuorobenzene , but whereas ADPF has been synthesized in 25 % yield by reacting adenosine 5′-phosphomorpholidate and ﬂuoromonophosphate in pyridine.6a,8 Notably , all the reported procedures gave moderate to low yields and have been demonstrated only on a single target molecule.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Although this work deals mainly with the synthesis of the title compound , pyrazolo-pyrrolo-pyrazines 1 , we reacted compound 8a with AuCl3 in a mixture of MeOH / CH3CN at room temperature and observed the formation of an eight- membered heterocycle 9 in 77 % yield after chromatographic puriﬁcation ( Scheme 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "(R)-1b and (R)-1o were then subjected to transesteriﬁcation to provide the corresponding methyl esters (R)-6 and (R)-7 in 81 % and 86 % yield , respectively , which can be used for the synthesis of some\nsuperior to (S)-tetrahydroisoquinoline-3-carboxylic acid and L- proline - derived catalysts 1a and 1b , giving the adduct 3a in 99 % yield with 56 % ee.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "To obtain benzyl-protected CDB 6 , compound 14 was demethylated with the Lewis acid BBr3 ,\nThe carboxylic acid in 16 was converted to acid anhydride and selectively reduced with NaBH4 to obtain an alcohol 17.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Deprotection of the cyclic acetonide was performed using CeCl3 and oxalic acid in acetonitrile18 to aﬀord the diol intermediate , which was later dimethylated with a Purdie reagent ( Ag2O , MeI ) to provide a keto compound7b 16 in a 67 % yield over three steps.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When the condensation of 1a with the cyclic 1,3-diketone dimedone ( 2g ) was conducted under the optimal conditions , 1 : 2 adduct 7 ( a xanthenedione derivative ) was isolated as the sole product , which otherwise would have been produced via a further Michael addition of 2g to the ﬁrst Knoevenagel adduct and a subsequent intramolecular cyclodehydration.7g\nWhen 4-formylpyridine ( 8a ) was used as a substrate , the corresponding alkene product 9aa was obtained in 65 % yield ( entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "To acquire the necessary quantity of scaﬀold 5a for the peptide synthesis optimization , the reaction between ketone 1 and azide 2a was scaled up to 11 g of 1 , yielding 5a in 47 % yield\nWe ﬁrst used enynone 1a bearing a p-nitrophenyl group and p- anisidine ( 2a ) to optimize reaction conditions , and an excellent result was obtained immediately : corresponding enamine 3aa was isolated in nearly quantitative yield after an equimolar mixture of initial compounds was stirred in ethanol for 1 h at room temperature ( Table 1 ).",
-        "answer": "Stir, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In contrast , treatment of the bulky ketenimine 1a with DIBAL-H and subsequent addition of 1 equiv of phenyl isothiocyanate 14 gave the aluminum compound 16 after stirring at − 78 ° C ( 2 h ) and room temperature ( 1 h ) in 53 % yield.",
-        "answer": "Stir, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Treatment of 3 with 2.0 equiv of triethylamine in THF aﬀorded 2 in 68 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Quenching of 7 with aqueous solution of NaOH ( 2 M ) gave the unsaturated guanidine 8 in 55 % yield ( Scheme 4 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Methanesufonyl azide 3b underwent reaction to furnish the coumarin derivative 7s in 72 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Hydrolysis of rac-1a in the presence of Amano PS proceeded to give (+)-(P)-1b with 38 % ee in 59 % yield , and (−)-(M)-1a of 35 % ee was recovered in 41 % yield ( entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Under these conditions , a good yield of desired product 3a was obtained ( Scheme 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Next , rac-3a was resolved to each enantiomer by using (1S)-10-camphorsulfonyl chloride as a resolving agent.12 Treatment of rac-3a with (1S)-10- camphorsulfonyl chloride and Et3N in CH2Cl2 at room temperature led to a mixture of two diastereomeric helicene camphorsulfonates , (M,S)-10 and (P,S)-10 , in 87 % combined yield ( Scheme 4 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Phosphitylation of hemiacetal 19 with diethyl chlorophosphite in the presence of Et3N gave α-linked diethyl phosphite 11 in 82 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Subjecting 6a to DDQ in a biphasic solvent mixture of dichloromethane and saturated aqueous sodium bicarbonate in the presence of the phase transfer catalyst tetrabutylammonium iodide ( TBAI ) gave a 28 % yield of the product (±)-7a ( entry 1 ) , which could be increased by raising the temperature to reﬂux ( entry 2 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Biphenyl hexamer 24 was obtained by the Sonogashira coupling reaction of 23 with 5 in reﬂuxing THF in 74 % yield by keeping the concentration of the terminal alkyne 5 low.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction was complete in 4 h , relative to the 12 h typically reported for other stereoselective methods.19,20 A gram - scale reaction was performed with thioanisole , using 1 mol % of the rhodium catalyst and aﬀording the desired sulﬁlimine 3 in 88 % yield and 94 : 6 dr.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Naphthoquinone 1b can be simply isoprenylated with 2d to obtain 3d .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In presence of Ru(bpy)3Cl2 , Togni ’s reagent 2c , and to our delight , compound 1a was K2HPO4 transformed to product 3a in 36 % yield through an aryltriﬂuoromethylation / desulfonylation cascade reaction when 5 W blue LEDs were used as light source ( Table 1 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "It has been previously reported that a palladium - catalyzed Kumada cross-coupling reaction of diiodide 5 generated products 6 and 7 in 20 % and 21 % yield , respectively.15 We were motivated to revisit this reaction for two reasons.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the presence of LiCl at 160 ° C , 2H-furo[2,3-c]pyrrole easily gave 4a in good isolated yield ( 60 % ) after the selective mono-decarboxylation and tosyl group deprotection18 ( Scheme 4 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The observed low activity of PdCl2(PPh3)2 led us to screen several palladium catalysts , and Pd(PPh3)4 gave the best results , aﬀording 3a in 80 % yield ( entry 20 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Zemplén de-O-acylation of 5α gave tetraol 6 in virtually quantitative yield , and subsequent isopropylidenation ( 2,2- dimethoxypropane and camphorsulfonic acid in DMF at 45 ° C ) gave selectively the 3II,4II-O-isopropylidene derivative 7.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The expected 3- Cs2CO3 base and PCy3 arylisoquinoline N-oxide 3Aa was formed as the major product ( Table 1 , entry 1 ) of a mixture of isomers , 3Aa and the 1-aryl isoquinoline N-oxide 3Ba arising from the protodecarboxyla- tive30−32 / direct C − H arylation side sequence.33 Interestingly , we found that the reaction is fully selective at the C-3 position using DMF as solvent ( Table 1 , entry 2 ) which was further\nUnder this K2CO3-assistance , the 3-arylated isoquinoline 3Aa was selectively produced in 90 % yield without the formation of the other isomer 3Ba.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As expected , enamine 3as smoothly underwent cyclization upon heating in standard conditions leading to the bis-pyrrolone derivative 4as in 72 % yield .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "This type of reactivity has already been reported.6 By using LiAlH4 as reducing agent , degradation of the reaction mixture was observed ( Table 1 , entry 3 ) , but treatment of compound 1 with 1.5 equiv of diisobutylaluminium hydride in THF at room temperature provided the desired imidazo[1,2-a]- imidazole derivative 2 in a good yield of 74 % ( Table 1 , entry 4 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "cleavage of the silyl ether , isomers 5 and 6 could be separated and pure murrayamine E ( 6 ) was obtained in 54 % yield based on 17.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "desired 4-bromo-3,5-diphenyl-3H-oxazol-2-one 2a was ob- tained in 41 % yield along with nonhalo product 3,5-diphenyl- 3H-oxazol-2-one 2a′ in 12 % yield ( Table 1 , entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Encouragingly , a 70 % yield of 3a was obtained when the reaction was conducted in 1,2-dichloroethane.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Puriﬁcation of the crude reaction mixture via Amberlite CG- 400 ion - exchange chromatography ( 100 − 200 mesh , OH− form ) , followed by further puriﬁcation via ﬂash column chromatography on silica gel , gave 17 ( possessing the reported relative conﬁguration within nakinadine D)2 in 60 % yield and > 99 : 1 dr.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "in a mixture of dioxane / MeOH ( 2 / 1 ) , a fast and complete dehalogenation was observed under microwave irradiation , and 9 was isolated in 85 % yield .",
-        "answer": "Microwave, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The employment of 4.0 equiv of CuBr2 gave the highest yield ( 91 % ) of 2a ( Table 1 , entry 18 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Triazole ( 2n ) having a n-butyl group at 4-position turned out reaction conditions , delivering the desired pyrazine 3an in 50 % yield without β-hydride elimination .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "We observed that PdCl2 and Pd(PPh3)4 also produced the dibenzofuran 6c in DMA in the presence of 3 equiv of K2CO3 ( ∼ 90 % yield ) along with the inseparable byproduct 7 ( from GC analysis ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Then , the obtained ester 5a and 5b could be transformed into the hydrochloride salts of baclofen and paroxetine , respectively , according to ref 7 , and a reductive\nThe Re face of pyrazolamide 1a was shielded by the neighboring 2,6-diisopropylphenyl group of the ligand L-PiPr2 , and the nucleophile attacked from the Si face predominantly to give the S-conﬁgured product 3a.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "the same procedure the desired product 8n was obtained in 78 % yield with a 4 : 1 diastereoisomeric ratio value.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Similarly , the treatment of 3a with sodium methoxide aﬀorded the hydrolyzed product 6 in good yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Among all palladium catalysts , Pd(TFA)2 displayed excellent performance , providing bicyclic adduct 3a in good yield ( 75 % ) with high diastereoselectivity ( Table 1 , entry 6 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "p-Fluorophenylmethyl azide ( 1m ) was capable of converting to the corresponding 3-bromoquinoline\nTo avoid this decomposition , I2- promoted oxidation16 ( condition B ) was applied instead which could provide the desired product 3r in 26 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Microwave heating of 11 in the presence of catalytic amounts of palladium(II) acetate and copper(II) acetate as reoxidant led to the protected carbazole 12.",
-        "answer": "Microwave"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The o- boronatophenylphosphine 10 also reacts with the β-iodo-α- amino acid 9b by heating in acetonitrile to directly aﬀord the corresponding phosphonium salt 4b bearing a free carboxylic acid function in 70 % yield ( entry 2 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The C2 - cyanation of N-(2-pyridyl)indole 1a with NCTS ( 2 equiv ) was performed in the presence of [Cp*RhCl2]2 ( 1 mol % ) as a catalyst and AgSbF6 ( 10 mol % ) as an additive in toluene at 100 ° C for 36 h.21 To our delight , 2-cyano-N-(2-pyridyl)indole 3a was observed in 20 % isolated yield ( Table 1 , entry1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Conversion of cyclooctene was also complete at room temperature in 24 h to give 20 in 99 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "1-Naphthaldehyde also showed good reactivity to deliver 3v in 81 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In mode B , the coupling reactions occur in the methylene of ODEs ( 1 ) , providing pyrazolo[5,1- a]isoquinolines ( 3′ ) through a Hurtley coupling reaction.26c Under our reaction conditions only 3 were obtained exclusively , and 3′ were not observed , which suggested that our protocol shows high chemoselectivity .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Puriﬁcation of the crude product by ﬂash chromatography ( PE : EA = 100 : 1 , Rf = 0.6 ) on silica gel aﬀorded 8a as a colorless oil with 72 % yield ( 56.8 mg ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": ", methyl 4-aminobenzoate ( 2e ) and p- triﬂuoromethylaniline ( 2f ) ] furnished the corresponding pyrrolinones 4ae and 4af in 68 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Allyl alcohol was converted to 2,3-dibromopropan-1-ol ( 11 ) in 90 % yield in 24 h at room temperature.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "For the meta analogue 11 , the diazonium coupling reaction took place directly , instead of the nucleophilic attack by the nitrile , to give benzo[c]cinnoline in 85 % yield , presumably due to the double activation of the substituents ( Scheme 2b ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "We prepared the 6- phenylbenzofuro[3,2-c]quinoline by a Cu promoted intra- molecular cyclization of C-3-(2-bromoaryl) product 3d in 75 % yield ( Scheme 2 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When 2.0 equiv of I2 was used , iodoisatin 3a was obtained as an exclusive product in good yield ( Table 1 , entry 8 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "equiv of PIFA was used , the starting material 1a was completely consumed with the product 2a being obtained in 42 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The C-dialiphatic ketenimines 1d − f were readily obtained by chlorination of the corresponding secondary amides 3 with phosphoryl chloride via established procedures to give imidoyl chlorides 4 , followed by their triethylamine18,21 dehydrochlorination using an excess of ( Scheme 2 , Route B ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When the reaction of enamide 10 with phenol was repeated and the reaction mixture was puriﬁed via ﬂash column chromatography ( SiO2 ) , a mixture of isomers 11b and 12b was isolated in 32 % total yield ( ratio 11b:12b = 8 : 2 ) ( Table 1 , entry 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "On the other hand , the somewhat less bulky carbanion of ethyl dichloroacetate reacts with p-chloronitrobenzene 7 , giving VNS product in position ortho to the nitro group in good yield.8a We have , therefore , attempted to synthesize o-nitroaryl substituted cyclopropane in the reaction of this product with acrylonitrile.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "17 Reaction of 7 with carbon tetrabromide and triphenylphosphine provides geminal dibromide 8 , and subsequent addition of n- butyllithium in the presence of paraformaldehyde aﬀords propargyl alcohol 9 in high chemical yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Interestingly , aliphatic α-keto acids also underwent the decarboxylation to give the corresponding products 19 and 20 in 52 % and 38 % yield , respectively.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Therefore , 6i was demethylated using BBr3 in DCM to give the 4-hydroxy- phenyl-substituted dihydropyrrolo[3,2,1-hi]indole 6j in 91 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "For example , the reaction conducted at 0 ° C in THF using 1.6 equiv of 12a ( entry 7 ) gave rise to products 9a and 10a with noticeably improved yield ( 50 % ) and the intact , good stereoselectivity.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Although the related double bond isomer (Z)-10c ( m = 1 , n = 2 ) underwent iodolactamization to provide iodoindolizidi- none 1 in 86 % yield using I2 in THF at 80 ° C ( Figure 1),8a treatment of unsaturated macrocyclic lactam (Z)-10e ( m = 2 , n = 1 ) under analogous conditions only caused removal of the Dmb group to provide lactam (Z)-11e.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Conversion of 21 to 1a was achieved using Pd(OH)2 supported on carbon ( Evonik E101 ) under hydrogen at 60 psig.16 The same conditions did not give complete conversion of 24 to 1b , and a transfer hydrogenation using the same catalyst and ammonium formate in 2-propanol was used.21 From mesylate 11 , pyrimidine 1a was generated in 60 % yield over four steps ; purine analogue 1b ( which comprises an extra amide - forming step ) was generated in 38 % yield over ﬁve steps .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Under our recently developed one - pot conditions for TMS group removal and Sonogashira coupling,19 reaction of diiodide 8 with TMS- protected enyne 9a proceeded smoothly and also led to the elimination of HI that gave the desired terminal dioleﬁn 10 in high yield ( 79 % , Scheme 1 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The reaction provided desired hexa-functionalized derivative 14 with moderate yield ( 53 % ) ( Supporting Information Figures S19 and S20 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "(4-tolyl)sulﬁnic acid ( 3a ) was attempted in CH2Cl2 with room temperature , the desired product 4aaa was not obtained , and 5aa was instead recovered ( eq 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Following our reported5 selective monoborylation of pyrene to aﬀord 2-(Bpin)pyrene and conversion of this compound to 2-bromopyrene in high isolated yield,2 a copper- mediated amination with diethylamine and stoichiometric CuI was attempted ; however , no reaction had occurred after 4 days at 80 ° C in N-methyl-2-pyrrolidone.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the case of mesitylboronic acid , formation of the corresponding product 3r was not observed , which may be due\nAdditionally , tert-butyl-substituted cyclohexadienone 1b was tested for domino cyclization under similar conditions with 9-phenanthrocenylboronic acid and 4-chlorophenylbor- onic acid to furnish compounds 3u and 3v , respectively , albeit in low yield ( Scheme 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "1-Octene was brominated in 12 h at 65 ° C to yield the corresponding dibromooctane 12 in 86 % isolated yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In the case of 2-benzyloxyacetaldehyde , the corresponding 1,2-amino alcohol 19d could be isolated in 77 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Stronger Lewis acids , InI3 and In(OTf)3 , showed a similar catalytic eﬀect and provided alkene 3aa in 79 % ( with 8 % of diacetate 4a ) and 82 % yields , respec- tively ( entries 7 and 8 ) ; however , In(OH)3 and In(OAc)3 produced neither the corresponding alkene 3aa nor diacetate\n10 β-Ketoamide 2d aﬀorded desired product 3ad in a rather low yield11 at an extended reaction time of 30 h , possibly because a decrease in the nucleophilicity of the methylene moiety by an the amino group hindered the electron - donating eﬀect of reaction of It was remarkable , however , that when the condensation was carried out with malonic acid ( 2e ) , 2-benzylidene-malonic acid ( 3ae ) was obtained in 79 % yield without a Doebner - type decarbox- ylation.12 Also , when the reaction of malononitrile ( 2f ) was carried out in toluene , only 15 % ( NMR yield ) of the product was obtained.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After complete conversion of the substrate ( 6 h ) , the reaction was stopped and analysis of the only product readily showed that intramolecular photodirect- arylation had occurred , leading to compound 5a in 92 % yield ( Table 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The substrate with 1-cyclohexenyl at R2 position was used in the reaction with 2a to give product 3t in a much lower 26 % yield , indicating that an aromatic R2 - group may be required for the process , in line with the π-allyl-Pd - intermediate proposed in the mechanism .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In addition to this coupling reaction , 5 also proved to be an active catalyst for the C − C / C − N coupling between 1a and 2a to aﬀord 4a in 82 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "However , the experiment performed with a catalytic 20 % of titanocene reagent ( Scheme 8 , second row ) provided only the cyclopropane 13 , in a 36 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Similarly , when 2-(pent-1-yn-1-yl)phenol ( 1ao ) was used as the coupling reagent , the annulation products 6b ( 66 % ) and 7b ( 19 % ) were obtained , respectively.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Particularly noteworthy is the completely regioselective α-hydroxymethylation of an ω-keto- aldehyde to aﬀord keto acid 45 in 87 % yield and 96 % ee .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In contrast , glycosylation in a mixture of DMF and dichloromethane using 6 equiv of donor 9 ( 6 equiv ) activated with copper(II) bromide and tetrabutylammonium bromide at room temperature gave the desired pentasaccharide 25 in 76 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Oxidation of the latter led to diphenic acid in 85 % yield in 18 h , while the hydroxy-analogue reacted much faster yielding the same product in 12 h ( Table 2 , entries 6 and 5 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "On the other hand , the propargylaniline 4c aﬀorded the phenylpyrrole 6c in good yield ( entry 2 ) , while the benzyl- derivative 4e was recovered unreacted from the reaction mixture and no pyrrole 6e was observed ( entry 4 ) .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "8 For instance , when (Z)-1m , which contains a terminal alkynyl moiety , was subjected to the methoxycarbo- the product 2ma was obtained with only 88 : 12 nylation , dr.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "A proton at C-8 of dimeric compound 3 was abstracted and trapped by bromobutane to give compound 4 in 14 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The benzyl pyrrole intermediate ( 9 ) ( Scheme 1 ) was obtained very easily after simple work up from its corresponding salt of carboxylic acid at room temperature as a pure solid and can be stored in a refrigerator for a few weeks.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Treatment of 1 with 2.0 equiv of 1-ethylpiperidine in THF gave 2H-naphtho[1,2-b]pyran ( 2 ) in 48 % yield ( entry 1 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In addition to a signiﬁcant amount of starting material , a low yield of the allylated pyrrolidine 13 having an intact Boc-group was isolated.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "By using sodium borohydride in ethanol , the expected compound 2 was not obtained.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The electron - donating methyl group bearing aromatic ring 1c increased the rate of the reaction to provide isatin 2c in excellent yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "compound 3 , which forms ( monitored with thin - layer chromatography ) instantly on reﬂuxing 1 ( R1 = H ) and 2 ( Ar = Ph ) in ethanol , was not isolated and used directly with chroman-2,4-dione ( 4-hydroxy coumarin ) 4 in the presence of various acid catalysts under reﬂuxed conditions.",
-        "answer": "PH"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Although the reaction in 1,2-dichloroethane was quite slow , ligands the neutral coordinative ligand Inda - Pybox L4 was superior to the others , giving product 3 with the highest enantiomeric excess of 82 % and a yield of 60 % ( Table 1 , entry 4 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Subjecting pure (±)-7a to DDQH2 in THF gave 6a in good yield at 60 ° C ( Scheme 4B ) , proving that the desired product does indeed undergo reductive cleavage.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "By switching the oxidant to the less potent PIDA , A was converted to N′-benzoyl-N,N′-dimethoxybenzohy- drazide B14 and N-acetoxy-N-methoxybenzamide C , in 70 % and 20 % of the total yield , respectively15 ( Scheme 1a ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "As an example , the ﬁnal deprotection of activated amine 10a with the tosyl group using magnesium in reﬂuxing methanol allowed the recovery of (R)-3-methyl-3,4- dihydro-2H-benzo[b][1,4]oxazine ( 4a ) in 80 % isolated yield after 2 h .",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Hydrolysis of the methyl ester 24L by potassium carbonate in aqueous dioxane gave the N-benzyl acid 35L ( 43 % ) from which the benzyl group was removed by hydrogenolysis in the presence of palladium on charcoal to produce the azetidine carboxylic acid\nThe lactol derived from hydrolysis of 26 was reduced by sodium borohydride in methanol to give the meso-diol 42 ( 40 % ) ; alternatively , sodium borohydride reduction of the ester 24L gave 42 in 90 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Readily available diol 2a was regioselectively protected with TBSCl to give 3a in 97 % yield.12 Williamson\nsynthesis of alcohol 3a with α-chloroacetamide 4 ether provided α-alkoxyamide 5a in 85 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Performing the reaction in DCE ( 1 , 2-dichloroethane ) aﬀorded 2a in 39 % yield ( Table 1 , entry 7 ) , whereas the yield dropped sharply when MeCN , DMSO , DMF , CF3CH2OH , or THF was used as solvent ( Table 1 , entries 2 − 6 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When the aliphatic alkyne derived propargylic ether (R)-3c was treated with the Rh(I) catalyst under the same conditions as the reaction of (R)-3a , a similar tetracyclic product 4c was also obtained as a single diastereomer with 60 % yield and 88 %\nCoordination of (R)-3a with [RhCl(CO)2]2 can generate the intermediate 5.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Furthermore , the reaction in sealed tube without microwave irradiation aﬀorded 7a in 34 % yield ( entry 7 ) .",
-        "answer": "Microwave, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "It was noteworthy that triazole bearing 3-thiophenyl group was also successfully applied to the current Rh - catalyzed reaction conditions , producing 3al in 54 % yield.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In order to introduce the N1 nitrogen atom in the tetracyclic framework , the carboxylic acid was converted to amide 13 through the intermediate mixed anhydride.11 Dihydroxylation of the trans-disubstituted double bond in 13 aﬀorded the diol 14 as a mixture of diastereomers ( dr = 2 : 1 ) in 73 % yield , which was subjected to another oxidation in the presence of TEMPO to produce the desired cyclic aminal 12 as a 6 : 1 mixture of diastereomers.12\nof isatisine was conducted under modiﬁed amidation conditions,11 originally developed by Buchwald.14 Upon exposure of 11 to the modiﬁed Cu(I) - mediated amidation conditions , previously used in our syntheses of macrocyclic lactam natural products , the tetracyclic intermediate 15 was successfully generated in 80 % yield .",
-        "answer": "Add, MakeSolution, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "After conversion of the acetal 12 to aldehyde 14 , the intramolecular 31,32,49,50 was reductive coupling reaction promoted by SmI2 attempted ; hydroxylamine 15 was obtained as the single diastereomer.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Next , 5-HO-dG undergoes acyl migration to reduced - dSp ( dSpred ) that hydrates at C8 and ring opens to yield d2Ih ( Scheme 5A ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The N-monosubstituted β- ketothioamide 1q can also be transformed to the corresponding product 3qa in lower yield when KOAc was added.",
-        "answer": "Add, Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "The obtained optically active diphenylmethyl ketones 10a and 10b were stereospeciﬁcally reduced with L-Selectride at − 50 ° C , and then the resultant β-amino alcohols were cyclized by reﬂuxing in K2CO3 / MeOH to give oxazolidin-2-one 11a in 63 % and 67 % yields , respectively ( Scheme 7 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Delightedly , the insertion - cyclization between 2-iodophenylethanone ( 4a ) and t-butyl isonitrile ( 2a ) was conducted in 1,4-dioxane at 80 ° C using 10 mol % of Pd(OAc)2 and 20 mol % of P(n-Bu)3 ligand , generating the expected 3-t-butylamino inden-1-one ( 5a ) in 20 % yield together with lots of unreacted starting material.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "When organic solvents such as THF , acetone , DMF , and dioxane were used , very little desired product 3a was isolated ( 4 − 23 % yield , Table 2 , entries 1 − 4 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In case of compound 1b , after addition of 9a the aluminum compound 11 was formed almost quantitatively and was isolated in 85 % yield after crystallization from the concentrated reaction mixture.",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "14 2-(N-Fmoc-amino)but-3-enoic acid ( vinylglycine 19 ) was synthesized as previously described.21,22 Dipeptides 6 and 7 were synthesized by coupling ester 16 and acids 17 and 18 using HATU and N-ethylmorpholine in 70 − 80 % yield ( Scheme 3 ).",
-        "answer": "Yield"
-    },
-    {
-        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "Notably , the reaction between alkyl sub- stituted MBH carbonate and phthalide proceeded smoothly and gave alkyl substituted product 3j in good yield and excellent enantioselectivity , albeit with diminished diastereose- lectivity.",
+        "context": "Delightfully , the present system is also applicable to 2-(pyridin-2-yl) aceto- nitrile , and the nitrile substituted products 3t and 3u were obtained in 50 % and 54 % yield.",
         "answer": "Yield"
     },
     {
@@ -1046,7 +56,997 @@
     },
     {
         "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
-        "context": "In addition , the reaction of the boronato − phosphonium amino acid and peptide derivatives 4a − f and 13 with ﬂuoride cleanly aﬀords the corresponding triﬂuoroborates 5a − f and 14 in approximately 1 h in isolated yields up to 90 % , without signiﬁcant degradation by hydrolysis in a phosphate buﬀer pH 7.",
+        "context": "Similarly , carrying out the reaction in the presence of 2,2,6,6-tetramethyl-1- piperidinyloxy ( TEMPO ) , a radical scavenger , gave 3a in 88 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "However , attempts to perform the catalytic hydro- genation of 4 only led to reduction of the bromide to yield O- acetylated mandelonitrile .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "23 After signiﬁcant optimization , an eﬃcient two - step protocol involving condensation of amino acetonitrile 9 with DMF·DMA to give azadiene 10 , followed by an N- methylaniline - catalyzed addition of methylamine , prepared imidazole 11 in good overall yield and excellent purity.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "It is highlighted here that only (E)-3-methyleneisoindolin-1- one 4a was given in 73 % yield when the reaction was performed in DMF at 60 ° C for 4 h using inorganic base K2CO3 as catalyst , and the sole product 5a was formed in 74 %\nWe found that compound 3a could be eﬀectively transformed to (E)-3-methyleneisoindolin-1-one 4a in the presence of a catalytic amount of both K2CO3 and Bu3P at 60 ° C , while it was fully transformed to (Z)-3-methylene- isoindolin-1-one 5a at 150 ° C in the presence of Bu3P or at 100 ° C in the presence of K2CO3.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Utilization of standard IMDDA reaction conditions , along with 1,4-cyclohexadiene ( 10 equiv ) , aﬀorded a similar yield and 1 : 1.2 ratio of 31a and 31b when compared to reaction mixtures in which 1,4-cyclohexadiene was not present ( Scheme 7 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "This reaction gave the C3 - arylated product 3b in 70 % yield ( Scheme 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "It is worth noting that the β-2,2-dimethyl-propyl group substituted aliphatic amide could also be converted smoothly to a more remote Csp3−H bond arylation and provided the corresponding γ-phenyl substituted product ( 3-2m ) in 52 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Puriﬁcation via exhaustive ﬂash column chroma- tography gave 23 in 60 % yield and 97 : 3 dr [ ( Z ) : ( E ) ratio].5,16\nWhen the temperature of the reduced to 70 ° C , complete hydrolysis consumption of 26 occurred after 80 h with no evidence of competing hydration , and puriﬁcation of the crude reaction mixture via Serdolit CG - 400 I ion - exchange chromatography ( 100 − 200 mesh , OH− form ) , followed by further puriﬁcation via ﬂash column chromatography , gave 27 ( the reported in 56 % yield , ∼ 95 % stereostructure of nakinadine F)2 diastereoisomeric purity,18 and > 98 % ee [ based upon the enantiomeric purity of (R)-1].",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Among other 1,3-azoles , only N-methylbenzimidazole gave the corresponding biaryl 3bj , albeit with 28 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In contrast , the reaction between 1b and 2a produced the mixed product 5c in comparable yield to that of 5a ( 27 % ).",
+        "answer": "MakeSolution, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Phenylboronic acid - catalyzed reaction of the 2-hydroxycarba- zole 13 and citral ( 16 ) in toluene provided the silyl-protected mahanine 17 in 75 % yield.15 The transformation of 2-hydroxy- 3-methylcarbazole into cyclomahanimbine , which corresponds to the transformation of 13 into 17 , is known to proceed only in moderate yield with citral in pyridine ( 35 % ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "We have found that the reaction of BQ derivatives 1 and allylboronates 2 in a 2 : 1 ratio ( method A ) results in allyl-BQs 3 in high yield and in most cases with high selectivity ( Scheme 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Finally , the triﬂuoroacetyl protecting group was removed under basic conditions to aﬀord 8-azidooctyl 4-amino-4,6-dideoxy-galacto- pyranoside ( 9 ) in 96 % yield .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "We were excited to ﬁnd that , with 2.0 equiv of copper acetate and DMSO as the solvent , 2-(3-(methylthio)naphthalen-2-yl)pyridine ( 2b ) was obtained as a single product in 89 % yield at 125 ° C ( Table 1 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "First , NHPI can easily convert into the oxygen - centered radical PINO , which then quickly added to styrene to give radical A.",
+        "answer": "Add"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The use of MIDA with base ( K2CO3 ) provided the PhB(mida) derivative 1c in greater yield than employing the MIDA disodium salt ( Table 4 , entry 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Treatment of the β-hydroxy 20 furnished the desired anti-diol ketone 11 with NaBH(OAc)3 27 in 95 % yield as a single diastereomer , as judged by its 1H NMR spectrum , which was clearly diﬀerent from that of the syn-diol 14.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Next , benzamide 23a was treated with 1 equiv of KOtBu , leading to a selective conversion toward the envisioned benzoxazine 26a , which could be isolated in 80 % yield ( Table 2 , entry 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Thus , removal of the N-tert-butylsulﬁnyl group from 9 ( > 99 : 1 dr ) using HCl ( 1.25 M in MeOH)9 and treatment of 13 with either 312,13 or 43,13 in the presence of NaB(OAc)3H gave 15 and 16 in 63 % and 62 % yield ( from 9 ) , respectively , and in > 99 : 1 dr in both cases.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "On the other hand , the reaction using a stoichiometric amount of the bimetallic complex generated from (R)-5,5′,6,6′,7,7′,8,8′- octahydro-1,1′-bi-2-naphthol ( 5 ) , Me2Zn , and MeMgBr ex- hibited higher selectivity to provide 3a and 3b in a ratio of 9.9 : 1 in 98 % yield ( entry 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "During the reaction , the TES group was partially cleaved probably by the nucleophilic attack of the chloride anion derived from FeCl3 on the silicon atom , and the 2-benzyl-4-hydro-1-naphthol derivative ( 2hb shown in eq 1 ) was obtained as a byproduct .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "3- Phenylbenzofuran ( 1r ) coupled with 2a eﬃciently to form 3ra in 90 % yield , while the reaction of 2-phenyl isomer 1s did not give 3sa at all.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "However , the inductively electron- withdrawing -F or -Cl substituent bearing phenylacetylenes 1d and 1e decreased the rate of the reaction and corresponding isatins 2d and 2e , respectively , were obtained in good yields.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The absolute conﬁguration of 16 was conﬁrmed by comparing its optical rotation and spectral data with the reported values.11,4b Jones oxidation of the primary alcohol group in 16 and hydrogenolysis of the crude product gave the N-Boc derivative 17 of 4 in 60 % yield ( Scheme 5 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": ", 3- phenylpropionaldehyde , proceeded smoothly to give 3t , 3u , and 3v in good ( 70 − 87 % ) yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Late - stage Ley oxidation ( TPAP / NMO ) and then Pinnick oxidation straightforwardly aﬀorded acid precursor 47 in 80 % yield over two steps.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction proceeds cleanly in the presence of the radical inhibitor 2,6-bis(1,1-dimethylethyl)-4-methylphenol ( BHT , 1.0 equiv ) to aﬀord the desired product 3a in 93 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "was found in the reaction of 2a with 5a , which gave 6a in more than 99 % ee , > 20 : 1 dr ratio , and 77 % yield ( Scheme 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Gratifyingly , in most cases , this procedure worked well and the corresponding product 3 could be obtained in moderate to good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When this PFAA was mixed with thioacetic acid in methanol at 25 ° C in the presence of 1.3 equiv of 2,6-lutidine for 15 min , amide 3 ( 74 % ) together with a small amount of aniline 4 ( 7 % ) was observed by 19F NMR ( entry 1 , Table 1 ).",
+        "answer": "MakeSolution"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "As depicted in Scheme 5 , 1.130 g ( 4.0 mmol ) scale of 1f could be converted to 3f in 75 % yield under the optimized reaction\nNext , conversion of the directing amide group was also illustrated by treating 3f with Schwartz ’s reagent , providing the corresponding aldehyde 8a in 82 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For example , hydrogenation of alkyne 8aa , prepared in 83 % ee using (R,R)-BnBox as resulted in 2- phenethylchroman ( 9 ) in 87 % yield and 82 % ee ( eq 2 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Unsubstituted 1-borobutadiene 5 reacted eﬃciently with nitrosobenzene to give the corresponding pyrrole 3h in 78 % yield ( entry 1 , Table 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "THF and the oxidation of the resultant alcohol with Dess− Martin periodinane provided the requisite enone 5 in 80 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Finally , cyclic ketone , 1- tetralone 7k provided tetrahydronaphthoxasilole 8k in 85 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Interestingly , the use of a mixture of Rh2(cap)4 and NBS , previously reported to produce the corresponding Rh(II)−Rh(III) complex,36 af- forded the same yield of sulﬁlimine 3 ( entry 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The methyl- substituted porphyrinogens ( 7e and 7f ) were oxidized with chloranil , and meso-unsubstituted porphyrinogens ( 7g and 7h ) were oxidized with 0.1 % aqueous FeCl3 in CHCl3 at room temperature to obtain 16π-conjugated systems 5e in 6 % , 5f in 7 % , 5g in 5 % , and 5h in 4 % yields ( Scheme 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For example , an IMDDA reaction of the all- carbon tether precursor 26 aﬀorded the naphthalene product in 27a quantitative yield , whereas reaction of the tosylamide tether - containing substrate 30 produced the dihydronaphtha- lene 31b in 56 % yield and the naphthalene 31a in 30 % yield when reacted under identical conditions ( entries 1 and 3 , Table 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Indeed , treatment of aceanthren-1-one12 ( 5 ) with TiCl4 in reﬂuxing o-dichlorobenzene ( ODCB ) gave tribenzodecacyclene 3 , a red , crystalline solid that was easily isolated in 16 % yield ( chieﬂy because it is brightly colored and the least polar product in the reaction mixture ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Decarboxylation of 40 in toluene at reﬂux aﬀorded ester 48 as a 1 : 1 mixture of diastereoisomers in 78 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "14 As the amount of water in the system was changed , the product mixtures of rearrangement product 4a , desilylation product 5a , and cyclization product 6a could be obtained in diﬀerent ratios.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "After oxidation of the alcohol 21 to the aldehyde 22 , the hydroxylamine 23 was obtained as the single diastereomer by an intramolecular reductive coupling reaction promoted by SmI2.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Readily available diol 2a was regioselectively protected with TBSCl to give 3a in 97 % yield.12 Williamson\nsynthesis of alcohol 3a with α-chloroacetamide 4 ether provided α-alkoxyamide 5a in 85 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Along this line , we have also performed the Pd - catalyzed C − H arylation of substrate 1a with 1.8 equiv of 2a by using Bull ’s reaction conditions,15c which gave the C3 - arylated product 3a in 50 % yield ( Table 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The Wittig condensation of these two compounds furnished the tolyl-substituted cyclotetramer 5b in only 3 % yield as the sole macrocyclic product.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "was Treatment of tosylate 11 with KHMDS smoothly produced the 2,6-cis-disubstituted THP cis-10 and its diastereomer trans-\nTo start with , alkenol 5d was treated with 1.2 equiv of boron triﬂuoride etherate in dichloromethane at room temperature for 5 h , and 2-methyl-2- phenyl-4-tosylmorpholine 6d was obtained in 90 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Moreover , a heteroaryl-substituted nitroalkene also produced the corresponding furan ( 3ah ) in moderate yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Contrary to the failure met with the CuI / bipy system,6a the present method remarkably accom- plished the conversion of N-ethyl acetate - substituted 2′- aminostyrene 4m to isatin 2m in good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Finally , the use of 3.5 equiv of nitrosobenzene ( entry 8 , Table 3 ) was required in order to achieve the complete conversion of both stereoisomers of diene 8 , resulting in the formation of pyrrole 3k and a 36 % isolated yield .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The α-silylamines 1a − l were prepared by nucleophilic addition of PhMe2Si− MgiPr·LiCl or PhMe2Si − Bpin ( pin = pinacolato ) to the corresponding aryl aldimines45−51 and then used in the coupling protocol to aﬀord aryl vicinal diamines in 58 − 93 % yield with diastereoselectivities ranging from 6 : 1 to > 20 : 1 ( entries 13 − 23 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Aminohexyl glycoside 4 was obtained ( 75 % ) as the ammonium acetate salt after puriﬁcation on the Biogel P2 column eluted with 0.05 M ammonium acetate and repeated freeze - drying from Milli-Q water.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When the reaction temperature was increased from 40 ° C to reﬂux , the yield of the desired product 3aa was dramatically improved to 71 % but was still accompanied by 23 % of byproduct 4aa ( entry 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Encouragingly , a 70 % yield of 3a was obtained when the reaction was conducted in 1,2-dichloroethane.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For example , a 74 % yield of product 3a was obtained when 1a was employed in a reaction with CuCl2.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In addition to a signiﬁcant amount of starting material , a low yield of the allylated pyrrolidine 13 having an intact Boc-group was isolated.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Trichoaurantiolide D ( 4 ) was obtained from synthetic 3 by acetylation [ Ac2O , DMAP , CH2Cl2 ( 80 % )].",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Treatment of this acetylenic alcohol with 6.5 equiv of potassium 3-aminopropylamide ( KAPA ) in 3- aminopropylamine in the acetylenic zipper reaction21 gave the required terminal alkyne 16 in 80 % yield and the resulting primary alcohol was then protected as a TBDPS ether to give 11 in 83 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "On the other hand , the use of a stoichiometric amount of CuSO4 led to 6a in only 18 % yield ( entry 6 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The annulative coupling between bis(2-thiophenyl)acetylene and 1a took place to aﬀord 3ai in only 33 % yield , indicative of limitation of the alkyne.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The expected phenylpropanol 4a was obtained in 88 % yield , whereas the keto product 3a was not observed in this experiment.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction with sterically hindered pivaloyl amide proceeded in a chemoselective manner , and the amidoalkylated product 10k was obtained in 66 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Pd(OAc)2 aﬀorded 2 in excellent yield ( entry 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Mitsunobu reaction conditions were utilized for the conversion of 40 to styrene − yne 41 in 86 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Oxidation of 2,3-dihydroxynaphthalene led to caboxy- lactone in 50 % yield over a period of 14 h ; 2,3-dihydroxy-1,4- naphthoquindione was isolated in 15 % yield ( entry 13 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "We observed that when the reaction was carried out with PIDA in the presence of 5 equiv of acetic acid in dichloroethane at 80 ° C , 3b was obtained in 45 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Similarly , the treatment of 3a with sodium methoxide aﬀorded the hydrolyzed product 6 in good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Interestingly , using N-Cbz-ethanolamine , we obtained only 3-benzylindole , which probably formed by the borrowing hydrogen reaction of indole with benzyl alcohol generated by an intramolecular cyclization to the corresponding oxazolidinone.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Although the catalytic use ( 5 mol % ) of triﬂuoroacetic acid ( TFA ) as a Brønsted acid was less eﬀective ( entry 4 ) , the stoichiometric amount ( 1 equiv ) of TFA eﬃciently facilitated the desired reaction to give 5a in 78 % yield ( entry 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Using FeCl2 as the catalyst precursor , the reaction provided the desired product 2 in 81 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Furthermore , with arene 2e , only one isomer 5ge was obtained in a 16 % yield , whereas 57 % of oleﬁn 1g remained intact.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction of γ-butyrolactone ( 1a ) with benzylamine ( 2a ) using the reported Ir catalyst12 aﬀorded the corresponding lactam 1- benzyl-2-pyrrolidinone ( 3aa ) in 39 % yield instead of the aminoamide ( entry 5 , Table 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When the oxidation of cholesteryl acetate ( 1 ) was extended to 2 days , the yield of 5α,6β-diol 2 dropped to 50 % and the more oxidized product , 3β-acetoxy-5α-hydroxycholestan-6-one ( 43 % ) , appeared.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Although cyanation in solvents like chlorobenzene and 1,2- tAmOH gave the DCE was inferior to cyanation in toluene , formation of product 3a in 82 % isolated yield with complete conversion of 1a in 18 h ( Table 1 , entres 5 − 7 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In the event , phenol 1e reacted well and the corresponding adducts 4d , 4l , 5d , and 5l were obtained.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In contrast , glycosylation in a mixture of DMF and dichloromethane using 6 equiv of donor 9 ( 6 equiv ) activated with copper(II) bromide and tetrabutylammonium bromide at room temperature gave the desired pentasaccharide 25 in 76 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "A steric bulk presented by the acetonide moiety enabled the mono protection of 10 at C1 hydroxy with TBSCl in CH2Cl2 in the presence of triethylamine to aﬀord TBS ether 11 in 78 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "As determined by GC , the photosylate of 1a + 8 contains 11 % of 4a-Ph , 1a + 7 gives 5 % of 4a-Cl , and 1b + 8 yields 6 % of 4b- Ph.",
         "answer": "PH"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Using quinine - derived thiourea I , product 3a was obtained with high enantioselectivity ( 98 % ee ) but moderate diastereoselec- tivity ( 5 : 1 dr ) ( entry 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When we performed the reaction at this temperature using 1.5 equiv of MeMgBr , branched product 2a was formed with very good regioselec-\n4- tert-Butylbenzyl azide ( 1c ) could also provide the quinoline product 3c in moderate yield ( 57 % , entry 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "After 6 h in acetonitrile at 50 ° C , the corresponding dipeptide 13 was obtained in 61 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The discrepancy between conversion and yield ( Table 1 ) is mainly explained by the formation of two side products : the bis(3-indolyl)methane species 4 and tryptophol ( 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "This was coupled with commercially available N,N′-bis(tert-butoxycarbonyl)-1H-pyra- zole-1-carboxamidine ( 22 ) in the presence of Hünig ’s base , and this gave guanidine 23 in 75 % yield over the two steps.26,27 Finally , removal of the Boc-protecting groups using TFA completed the 10-step synthesis of hypotensive agent 4 in 40 % overall yield from commercially available 4-chloro-2-hydrox- ybenzaldehyde ( 5i ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Subsequently , an oxidative addition of B into Ph-I took place to aﬀord C , which eventually generated product 3 after reductive elimination.",
+        "answer": "PH"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "N-Hetero- cyclic carbene ( NHC ) ligands have been successfully applied in various transition - metal - catalyzed reactions due to their strong bonding to metal centers and good stability toward air and moisture.12 As shown in Figure 1 and Table 1 , the use of the NHC ligands L3−L6 in the Pd - catalyzed coupling reaction of terminal alkyne 1 and MBH carbonate 2a in water provided the desired product 3a in 38 − 54 % yield , respectively ( entries 6 − 9 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Subsequent reduction of 19 by LiAlH4 provided 6-deoxysugar 20 in 85 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Speciﬁcally , aryl methyl ketones having electron - withdrawing groups ( F- and CF3- ) at meta- and para-substitution sites gave phenylpropanol products 4 in high yield ( Table 2 , entries 7 and 9 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In the next step , treatment of benzamide 7 and tosylamide 9 with LiHMDS in THF , to achieve dehydrobromination , smoothly led to the formation of new diﬂuorinated enamides 8 and 10 ( 82 − 85 % yield ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In addition to this coupling reaction , 5 also proved to be an active catalyst for the C − C / C − N coupling between 1a and 2a to aﬀord 4a in 82 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "To acquire the necessary quantity of scaﬀold 5a for the peptide synthesis optimization , the reaction between ketone 1 and azide 2a was scaled up to 11 g of 1 , yielding 5a in 47 % yield\nWe ﬁrst used enynone 1a bearing a p-nitrophenyl group and p- anisidine ( 2a ) to optimize reaction conditions , and an excellent result was obtained immediately : corresponding enamine 3aa was isolated in nearly quantitative yield after an equimolar mixture of initial compounds was stirred in ethanol for 1 h at room temperature ( Table 1 ).",
+        "answer": "Stir, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Overwhelming desilylation was also observed when KHMDS and 2a were added stepwise to the THF solution of 1a , which failed to give any 1,2-diamine 3a ( eq 2 ).",
+        "answer": "Add"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Ulterior reduction of 23 with sodium borohydride gave compound 1 in excellent yield ( Scheme 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In case of compound 1b , after addition of 9a the aluminum compound 11 was formed almost quantitatively and was isolated in 85 % yield after crystallization from the concentrated reaction mixture.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In addition , the electrophile PhS − SO2Ph provided the 1-phenyl- thio tetrahydro-β-carboline product 3f in good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "conditions , doubly reduced silyl ether intermediates ( 5 ) were ﬁrst produced , which underwent subsequent C − H silylation to yield benzoxasiloles ( 6 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Indeed , driven by precipitation of the corresponding silver(I) - halides , 5-iodo- ( 3a ) and 5-bromo- 1,2,3-triazoliums ( 2b and 3b ) were obtained in very good yields ( 86 − 93 % ) after treatment of the silver(I)-carbene complex with iodine or bromine ( Scheme 5 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Compound 17 was treated with 4 M hydrochloric acid in dioxane to give desired 18 in 79 % yield ( Scheme 3 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Similarly , the C3- arylated THF scaﬀolds 3h and 3i were obtained from the Pd-\nThen we performed the reaction of the substrate 1g with phenyl iodide in the presence of AgOAc ( 2.2 equiv ) and 10 mol % of the Pd(OAc)2 catalyst , which successfully gave the C3 - arylated product , cis 2,3-disubstituted 1,4-benzodioxane scaﬀold 4a ( neolignan analogue ) , in 65 % yield ( Scheme 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "guanidino-3-hydroxypentadecanoyl ( GHPD ) side chain.15 ·OEt2 promoted alkylation of terminal alkyne 11 Brieﬂy , BF3 with the chiral epoxide (S)-10 gave the secondary alcohol (R)- 17 in 63 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "16 Cleavage of the silyl ether provided mahanine ( 3 ) in ﬁve steps and 56 % overall yield based on the protected 3-bromophenol 9.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Fluorination of 26 with DAST gave 27 in 61 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "It should be noted that diethyl acetylenedicarboxylate displayed good reactivity and aﬀorded product 3aj in 85 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Then the reaction of α-bromostyrene 1q with 2a was carried out , and β-oxosulﬁde 4q was isolated in 44 % yield ( Table 3 , entry 3 ) , while the reaction of β-bromostyrene 1r with 2a gave the β-oxythioacetal 4r in 15 % yield ( Table 3 , entry 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The desired annulation precursor 13 was ﬁnally obtained by hydrogenolytic cleavage of the benzyl ether .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In the presence of DABCO , enynal / enynone interacts with intermediate I resulting in II ,\nThus , by using 10 mol % of PPh3 as a catalyst , reaction of ethyl-2,3- butadienoate ( 10a ) with (E)-2-benzylidene-4-phenylbut-3-ynal ( 9a ) provided 14aa and 15aa in a combined yield of 76 % in a 5 : 1 ratio ( Table 4 , entry 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "As shown in Scheme 1 , treatment of commercially available 1,3-dibromobenzene with lithium diisopropylamide ( LDA ) at − 78 ° C generated the transient 3-bromobenzyne ( 3 ) , which upon warming to ambient temperature in the presence of excess 2-methylfuran was trapped to give 59 % yield of a 3 : 2 ( 1H NMR ) mixture of separable 1,4-dihydro-1,4-epoxynaphthalenes 4 and 5.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "To further probe the eﬀect of temperature on this reaction process , the iodoacetox- ylation of 1c was performed at elevated temperature ( 60 ° C ) in an attempt to generate the cis-adduct ; however , once again the trans-isomer of 2c was formed as the major product ( 83 % yield , E / Z = 40 : 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Notably , the dioxole part in nitrostyrene 1e was unaﬀected in the present reaction conditions , and the desired furan 3ae was obtained in moderate yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The addition of 1 equiv of isocyanate in a second step and ﬁnally of 2 equiv of acid chloride 2c in a third step gave the N-imido-substituted enamides 21a,b in a one - pot reaction\nThe route begins with 6,6-dimethylfulvene , which was allowed to react neatly with dimethylacetylene dicarboxylate ( DMAD ) to yield the trienediester 3.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Subjecting pure (±)-7a to DDQH2 in THF gave 6a in good yield at 60 ° C ( Scheme 4B ) , proving that the desired product does indeed undergo reductive cleavage.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Deprotection gave an intermediate triol 56 , which aﬀorded\nWe overcame these diﬃculties by the selective cleavage of the primary OTBS ether of 55 to give 60 of Scheme 9 , followed by oxidation to produce the butyrolactone , which was immediately treated with TBAF to yield allylic alcohol 61.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "arylation of substrate 1a with 1 equiv of 2a gave the C3 - arylated product 3a in low yield ( 35 % , entry 1 , Table 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Furthermore , the reaction in sealed tube without microwave irradiation aﬀorded 7a in 34 % yield ( entry 7 ) .",
+        "answer": "Microwave, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The synthesis was started with the construction of building blocks 2 and 3 from iodobenzene 5 , which was prepared through an established method.12 After unsuccessful attempts to methylate 5 with dimethyl sulfate , it was then methylated with iodomethane in a to give dimethyl ether 6 in excellent yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In the case of mesitylboronic acid , formation of the corresponding product 3r was not observed , which may be due\nAdditionally , tert-butyl-substituted cyclohexadienone 1b was tested for domino cyclization under similar conditions with 9-phenanthrocenylboronic acid and 4-chlorophenylbor- onic acid to furnish compounds 3u and 3v , respectively , albeit in low yield ( Scheme 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "α-Methylstyrene can deliver the corresponding product 3g in moderate yield ( 54 % ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Nevertheless , heating the reaction to 70 ° C did result in complete conversion of PhB(aam) 1e to the triﬂuoroborate 1a ( Table 1 , entry 4 , 72 % isolated yield ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The same reaction , conducted starting from 7b , provided nucleoside 8b with a slightly better yield ( 37 % ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "However , pyridine 13 emerged in 28 % yield from 2 and 3 over 2 steps , after chromatography , upon slow addition ( 3 h , syringe pump ) of a solution of crude 12 in a 4 : 1 mixture of 2,2,2- triﬂuoroethanol and acetic acid into a solution of NH4OAc ( 12.5 equiv ) and PPTS18 ( 1 equiv ) in the same solvent system , maintained 60 ° C under an O2 atmosphere ( balloon ) , followed by stirring for 14 h at 60 ° C.",
+        "answer": "Stir, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "of this procedure are summarized in Table 3 : products were obtained as single isomers in satisfactory overall yield and , besides arylboronic acids , also potassium β-stiryltriﬂuoroborate 8f aﬀorded the target lactone 12i ( entry 7 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Highly polar impurities were washed away from the cartridge using a solution ( 5.0 mL ) of sterile saline and propylene glycol ( 90 : 10 ) , and then the desired 11C - labeled fursultiamine [11C]-2 was eluted using a solution ( 2.0 mL ) of sterile saline and propylene glycol ( 70 : 30 ).",
+        "answer": "Wash"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Interestingly , benzaldehyde dimethyl acetal underwent smooth spiro cyclization in the presence of TMSOTf in dichloromethane at 0 ° C to room temperature aﬀording desired product 6j in 88 % yield ( Table 2 entry 10 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Subsequent selec- tive phosphorylation of the triol , thus obtained , with 2,2,2-trichloroethyl phosphorodichloridate aﬀorded isomeric (R,S)-(P)- 4II,6II-cyclic phosphates , which were both obtained in crystalline form and fully characterized.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For example , the use of 1,10-phenanthroline gave 10H-phenothiazine in 70 % yield , whereas DABCO , bis-pyridyl and L-proline provided much lower yields of 11 % , 19 % and 14 % , respectively ( Table 1 , entries 12 − 15 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Pleasingly , heating 10 and 6 equiv of Ph3Al ( 1.0 M in n-Bu2O ) in dioxane ( Table 3 , entry 1 ) produced over a 66 h period a 73 % HPLC yield of 1-C-phenyl- β-D-glucoside ( β-3d ) , along with 1.8 % of the α-anomer α-3d , providing proof of concept.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Intermediate E releases an aryl aldehyde and a hydroxyl anion to yield pyrrolo[3,2-b]pyrrole intermediate F , which converted into the ﬁnal pyrrolo[3,2-b]pyrroles 6 through tautomerization ( Scheme 7 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Aldehydes bearing strong electron-with- drawing groups such as −CF3 and −NO2 gave relatively lower yields ( 3g′ , 50 % ; 3o , 30 % ) , while 4-formylbenzonitrile showed good reactivity to aﬀord product 3q in 89 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Consequently , (CH2Cl)2 was the most eﬃcient among the tested solvents including CH2Cl2 , CHCl3 , CH3CN , CH3NO2 , and THF ( entries 8 vs 1 and 10 − 13 ) , and the increased amount of 1,3,5-trimethoxybenzene to 4 equiv could improve the reaction eﬃciency to give 2a in 88 % yield ( entry 9 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Arylmethyl azide with mildly electron - withdrawing group , p- substituent ( 1e ) furnished the corresponding 3- phenyl bromoquinoline in good yield ( 75 % , entry 5 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "We found that conversion of 13 to epoxide 12 could be achieved using a modiﬁed one - pot tosylation / substitution procedure giving 12 in 93 % yield.19 Full character- ization ( including single - crystal X-ray analysis ) veriﬁed the structure and stereochemistry of 12.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "the optimized reaction conditions , 1-phenyl-but-1-yne 6a , 1-phenyl-pent-1-yne 6b , and 1-phenyl-hex-1-yne 6c yielded the corresponding naphthalene compounds 7a − c in good 66 − 70 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Puriﬁcation of the crude product by ﬂash chromatography ( PE : EA = 10 : 1 , Rf = 0.3 ) on silica gel aﬀorded 3f with 75 % yield .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "To begin , the reaction of functionalized cyclopentene 14aa with 5 mol % each of gold(I) carbene complex ( IPrAuCl ) and AgOTf at rt for 3 days in dioxane aﬀorded substituted benzofuran 16aa in 50 % yield ( Table 6 , entry 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Removal of the TBS moiety of 17 was carried out with TBAF / AcOH in MeCN at 60 ° C to give diol 20 in 86 % yield ( Scheme 6 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "11 Subsequent reaction of the lactam 5 with Boc2O ( di-tert-butyl dicarbonate ) aﬀorded intermediate 6 in 97 % yield.12 The product was analyzed with chiral HPLC , and no racemization was observed.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In the case of 1,3- dimethoxybenzene and 1,4-dihexoxybenzene , a mixture of two [ 2 + 2 ] products ( 5 and 6 ) was obtained in 53 % total yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Reactions involving 5-hydroxypentyne ( 2o ) and 4-hydroxybutyne ( 2p ) also gave alkenylsuﬁdes 3o and 3p as the sole products in 77 % and 17 % yield , respectively ( Table 2 , entries 15 and 16 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For example , a conjugated aldehyde , (E)-cinnamal- dehyde ( 8d ) , reacted with the malonate ester to aﬀord α , β , γ , δ-unsaturated carbonyl compound 9da in 79 % yield , which retained the double - bond geometry ( entry 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Notably , the reaction between alkyl sub- stituted MBH carbonate and phthalide proceeded smoothly and gave alkyl substituted product 3j in good yield and excellent enantioselectivity , albeit with diminished diastereose- lectivity.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Gratifyingly , iodothiophene and N-(1-oxy-pyridin-2-yl)-propionamide 1a could also aﬀord the corresponding mono- and bis- thiophenylation products 3-1m and 3-1n in an overall yield of 55 % yield .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Attempts to increase the rate of the reaction by the use of pure acetic acid as the solvent were unsuccessful and led to only 17 % yield of 4aa ( Table 1 , entry 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In addition , highly functionalized amides are suitable substrates for this three - component reaction , Thus , the reaction of the protected valinamide 7 provided the amino acid derivate 8 in 63 % yield ( Scheme 2 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Selenophene diol 3a reacts with an excess of pyrrole to give 16-selenatripyrrane ( 4a ) in 75 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "We were pleased to obtain the expected 1-arylated isoquinoline N-oxide 3Ba in 64 % yield without trace of the 3-arylated isomer 3Aa.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Similar the CuI - catalyzed hydro- alkoxylation formed exocyclic enol ether 7a , which was subsequently captured by 3a or 8a to form the spiroketal 4d or 6a.16 Because of the high syn conﬁguration diastereose- lectivity obtained , we propose that the reaction should proceed through transition state I or II ( Scheme 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Intriguingly , 2′-aminopyridyl acetylene 1f containing a highly deactivated aromatic ring provided pyrrolopyridine-2,3-dione 2f in good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The observed low activity of PdCl2(PPh3)2 led us to screen several palladium catalysts , and Pd(PPh3)4 gave the best results , aﬀording 3a in 80 % yield ( entry 20 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The more sterically congested ortho-substituted ketone 7j also gave desired product 8j with good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "the crotyl amide 10 underwent cyclopropanation and aﬀorded the 6-methyl cyclopropanation product 11 ( as determined by 2D - NMR analysis ) in quantitative yield and a dr of 4 : 1 ( Scheme 7b ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Finally , the reaction of 3-nitropyridine ( 2s ) also proceeded smoothly to give sulfonamide 3as in 93 % yield ( Table 2 , entry 19 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When the reaction mixture was stirred in 1 mL of PhCl at 120 ° C for 10 h under air , 3-phenyl-4(3H)-quinazolinone ( 2a ) was obtained in 20 % yield ( Table 1 , entry 1 ).",
+        "answer": "Stir, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "By switching the solvent to the more polar acetonitrile , the reaction furnished 3-hydroxy-2,3-dihydroisoquinoline-1,4-dione ( the structure of which was unambiguously conﬁrmed through X-ray crystallo- graphic analysis ) as the major product in 10 % yield , with 80 % of the starting material recovered.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Further , with CuCl2 as the catalyst , a chlorinated product , 2-chloro phenylpyridine ( 2aa ) , was isolated in 50 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Ag2CO3 as an additive instead of AgOAc also gave the product 3a in 69 % yield ( entry 5 , Table 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Just one exception is 2-methylpyr- idine N-oxide , and the corresponding product 3ka was detected in only 4 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Silyloxybutadiene 13 ( Scheme 1 ) was prepared from crotonaldehyde in 78 % yield through modiﬁcation of the reported procedure16b using TBSOTf.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Alternatively , the reduction of 10d with LiBHEt3 at − 20 ° C and following cyclization gave 11c in 74 % yield with a 97 / 3 of cis / trans ratio.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction provided compound 10 in good yield ( 76 % ) ( Supporting Information Figures S11 and S12 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "By changing the catalyst the reaction conditions were optimized to aﬀord the product 5a in 81 % yield , with 3 mol % of rhodium catalyst and 10 mol % of AgSbF6 in tert-amyl alcohol at 120 ° C ( Scheme 3 and see Supporting Information ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The benzannulation of symmetrical alkynes 6g and 6h led to naphthalenes 7g and 7h in 46 % and 49 % yield , respectively.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Subsequently , various copper salts such as cupric oxide , cuprous bromide , and copper acrylate were tested as the catalysts , copper acrylate was proved to be the best choice , and the target product 3a was selectively achieved in 60 % yield with an E conﬁguration ( entries 2 − 7 , Table 1 and SI ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction of 1a was carried out in the presence of [(IPr)AuCl] ( IPr = 1,3-bis(diisopropylphenyl)- imidazol-2-ylidene ) ( 0.5 mol % ) in MeOH / H2O ( 2 : 1 ) at 80 ° C for 6 h to aﬀord acetophenone ( 2a ) in 88 % yield with complete regioselectivity.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Stronger bases such as t-BuOK and t-BuOLi were then tried , and 1.0 equiv of t-BuOK gave the target product 5a in 52 % yield ( entry 7 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "mediated conditions failed to generate the expected furotro- it yielded a 2,3′-bifuran pone 3t ; however , to our surprise , derivative 4 in 78 % yield in a mechanism described in Scheme 5.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "When KI was used with TBAB ( serves as a phase transfer catalyst ) and TBHP , a 10 % yield of 5a was achieved ( entry 4 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Trichoaur- antianolide C ( 3 ) was obtained in 21 steps from the known allylic acetate 21 , and these eﬀorts conﬁrm the original assignment of absolute conﬁguration by the groups of Steglich and Vidari.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "To our delight the reaction provided a 30 % yield of 3-arylated product 3a ( Table 1 , entry 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reaction of 1 equiv of unsymmetrical diols ( 9a ) with 1 equiv of corresponding 16- selenatripyrranes ( 4a ) in dichloromethane ( method A ) gave porphomethenes 6a in 9 % yield ( Scheme 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Tetramethylphos- phorodiamidate 12 was prepared by condensing a lithium alkoxide derived from 8a with bis(dimethylamino)-\nIn the presence of 0.2 equiv of Tf2NH , the glycosylation of alcohol 13 with diethyl phosphite 9a did not proceed beyond a 50 % conversion , providing disaccharide 14 in 22 % yield ( entry 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Anthracene 11 was coupled with TMSA in reﬂuxing Et2NH under PdCl2(PPh3)2 / CuI catalysis to obtain the silylated derivative 13 in excellent yield.32 Diels− Alder addition of benzyne , generated in situ from anthranilic acid and isoamyl nitrite , to anthracene 13 aﬀorded the desired silylated triptycene 14.33 Both trimethylsilyl groups were removed in an almost quantitative yield using either K2CO3 in the mixture of THF and methanol33 or TBAF in THF.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Hydrogenation of 10 catalyzed by Pd / C resulted in intermediate 11 , which was subsequently protected with Fmoc- OSu without puriﬁcation.15 The ﬁnal product 3 was obtained in 67 % yield from 10 over two steps.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The resultant amino alcohol was Boc-protected to aﬀord 27 in 89 % yield over two steps.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Alternatively , hydro- genation of enone 30 using Pd / C furnished cyclopentanone 27 in 98 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Addition of iodomethane gave product 3a ( 84 % yield ) but with poor enantioselectivity ( 56 : 44 er ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The use of CsF as ﬂuoride source and acetonitrile as solvent at 30 ° C turned out to be the best conditions , aﬀording the desired product 3aa in 64 % yield ( Table 1 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Pleasingly , conditions were also found that enabled selective ﬂuorolysis of the B(aam) group in the B(aam) / B(mida) bis- boronate 22 , generating the aryl-BF3K / B(mida) bisboronate 23 in reasonable yield , despite the B(aam) group being only slightly more reactive under ﬂuorolysis conditions than the B(mida) group.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "After transforming the hydroxyl group of 3 into a bromine with PBr3 , bromide 9 was then reacted with building block 2 in the presence of K2CO3 and 18-crown-6 to form two ether bonds simultaneously without protecting its less acidic hydroxyl group , providing ﬁrst - generation dendron 10 in a 72 % yield over sequential bromination with PBr3 and Williamson ether synthesis with\nBromination of dendron 14 followed by Williamson ether synthesis with 4 , 4′,4″-(ethane-1,1,1-triyl)- triphenol 4 provided dendrimer 1 on a gram scale.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The reverse reaction occurs upon irradiation of a solution of dimer 7 in chloroform at 303 nm for 48 h using a ﬂuorometer equipped with a 150 W xenon lamp , giving monomer 4 in 41 % yield and recovered 7 in 54 % yield ( Scheme 6 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "treatment of 20 under the standard Wittig rearrangement conditions ( with n-BuLi in THF at − 78 ° C ) for 30 min aﬀorded 37 in 75 % yield as a single ( 9R ) stereoisomer via [2,3]-Wittig rearrangement ( Scheme 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Omitting Cs2CO3 from the reaction gave acetoxylation product 4aa exclusively in 36 % yield ( Table 1 , entry 12 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In a similar way , the diimines 19a and 19b were obtained by treating the ketenimine 1e or 1b with DIBAL-H and afterward with a second equivalent of the ketenimine 1b or 1e.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "2-Methyl and 2,3-fused pyrroles , sterically demanding pyrrole derivatives , underwent smooth reaction to give the product 5a and 5e in 67 % and 76 % yield , respectively.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "For the yield to be improved further , the reaction of 3a ( 400 mg , 1.02 mmol ) with 5a ( 0.149 mL , 1.22 mmol ) under catalysis by CuI ( 5 mol % ) and DIPEA ( 10 mol % ) at room temperature under inert reaction conditions was screened for a variety of organic solvents to aﬀord 6a in good to signiﬁcant yields.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Pleasingly , NOESY experiments ( see the Supporting Information ) showed that the major product ( 70 % isolated yield ) was the desired intermediate 11 and the minor product ( 8 % isolated yield ) was the undesired stereoisomer ( 29 ) where the hydroxyl and methoxy groups are cis.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The synthesis of electrophilic cyclization of diacetylene 11 gave the mixture of TMS-substituted ethynyl benzothiophene 12 and the desily- lated derivative 13 in high combined yield ( 90 % ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "There was a notable absence of any oxazine cycloadducts , and the re- action was complete after 5 h to aﬀord 3a in 82 % isolated yield ( Table 1 , entry 3 ) .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "However , the experiment performed with a catalytic 20 % of titanocene reagent ( Scheme 8 , second row ) provided only the cyclopropane 13 , in a 36 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Compound 10 was easily hydrolyzed by treatment with LiOH in THF and water at room temperature to aﬀord acid 44 in 92 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Continuing stirring of the solution for several days resulted in conversion of the intermediates to ﬂuorinated oxazolidinone 14 in 39 % yield ﬁnally , together with some unidentiﬁed side products.",
+        "answer": "Stir, Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Reaction of acetoxyprenal ( 21 ) in the presence of titanium(IV) isoprop- oxide aﬀorded a mixture of the silyl-protected murrayamine I 24 and the corresponding deacetyl derivative 25 in only low yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "In line with previous data,32 treatment of 4a with Hg(OAc)2 in a H2O / THF mixture followed by one - pot addition of NaBH4 to the reaction mixture yielded alcohol 5a as the only isomer in a good 83 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "4‑(methylthio)benzaldehyde was allowed to react with hydroxylamine hydrochloride in DMSO to aﬀord the 4‑(methylthio)benzonitrile ( 1 ) in 84 % yield via aldehyde oxime formation and spontaneous dehydratization at a temperature of 100 ° C as described by Chill and Mebane for other nitriles.25 The oxidation with m-chloroperbenzoic acid formed 2a in a yield of 77 % .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Similarly , when 2-(pent-1-yn-1-yl)phenol ( 1ao ) was used as the coupling reagent , the annulation products 6b ( 66 % ) and 7b ( 19 % ) were obtained , respectively.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "However , no diarylated product was observed when 1,4- dimethoxybenzene 2d was employed as coupling partner , the reaction yielding only the trisubstituted oleﬁn 3ad in an 83 % yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "First , oxidative addition of 1 to the Pd(0) catalyst results in the palladium complex A , followed by isocyanide insertion8 to yield palladium complex B.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "the mechanism , the reaction of 1b with [PhCu] , generated in situ from PhMgCl and CuI , aﬀorded the amination product 3be in a comparable yield of 87 % .",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The MnO2 cycloadduct 5 was obtained as the only product in high yield\nCatalytic hydrogenolysis ( 10 % Pd / C ) in acidic methanol furnished the iminosugar 6 in high yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "The novel diﬂuorinated nucleoside 2′,3′-dideoxy-2′,3′-FF- xylo 31 was synthesized from 2′-ﬂuoroadenosine 2820 by trityl protection to provide 29 , and subsequent treatment with DAST furnished 31 in 62 % overall yield ( Scheme 3 ).",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Signiﬁcantly , with a stoichiometric amount of I2 , compound 4a produced iodoisatin 3a in good yield.",
+        "answer": "Yield"
+    },
+    {
+        "question": "Identify the reactants, reagents, reaction conditions, and any other relevant factors in this sentence. Additionally, what chemical operations are described in this sentence?",
+        "context": "Regioselective PMB protection16 of the secondary alcohols of adenosine 18 provided a 3 : 1 mixture of 2′-OPMB adenosine 19 and 3′-OPMB adenosine 20 in 75 % yield.",
+        "answer": "Yield"
     }
 ]

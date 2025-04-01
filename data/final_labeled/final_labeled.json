@@ -25,7 +25,7 @@
     },
     {
         "sentence": "Gratifyingly , furan-2- ylmethyl propiolate also reacted smoothly with 2a to give the desired (Z)-3-methyleneisoindolin-1-one 5i in an excellent\nIt is worthy to note that phenyl propiolate could also proceed with 2a to provide the corresponding (Z)-3-methyleneisoindolin-1-one 5j in the yield of 71 % .",
-        "operation": "yield of 71 %"
+        "operation": "yield"
     },
     {
         "sentence": "ylidene)acetate ( 6 ) was formed in 90 % yield when the reaction was performed in DMF at 150 ° C for 2 h in the presence of Bu3P , while the (E)-ethyl 2-(5,6-dichloro-3-oxoisoindolin-1- ylidene)acetate ( 7 ) was formed in 65 % yield when K2CO3 was used as catalyst in DMF at 60 ° C for 2 h ( Scheme 3 ) .",
@@ -41,7 +41,7 @@
     },
     {
         "sentence": "Irradiation of CBr4 produces an electrophilic • radical , CBr3 , which , upon addition to DMF , generates the radical intermediate 5.",
-        "operation": "electrophilic"
+        "operation": "transmission"
     },
     {
         "sentence": "22 Diynediol ( 2a ) reacts with Na2Se in the presence of silver acetate to give 2,5-bis[hydroxy(dimethyl)methyl]- selenophene ( 3a ).",
@@ -53,7 +53,7 @@
     },
     {
         "sentence": "The methyl- substituted porphyrinogens ( 7e and 7f ) were oxidized with chloranil , and meso-unsubstituted porphyrinogens ( 7g and 7h ) were oxidized with 0.1 % aqueous FeCl3 in CHCl3 at room temperature to obtain 16π-conjugated systems 5e in 6 % , 5f in 7 % , 5g in 5 % , and 5h in 4 % yields ( Scheme 2 ).",
-        "operation": "Oxygen"
+        "operation": "obtained"
     },
     {
         "sentence": "The reaction of 1 equiv of unsymmetrical diols ( 9a ) with 1 equiv of corresponding 16- selenatripyrranes ( 4a ) in dichloromethane ( method A ) gave porphomethenes 6a in 9 % yield ( Scheme 1 ).",
@@ -69,7 +69,7 @@
     },
     {
         "sentence": "BrN3 was ﬁrst synthesized from Br2 gas and −HCl− solid NaN3,3 which was modiﬁed by Hassner [ Br2 NaN3]10,13,18 into a somewhat hazardous procedure that nevertheless achieved some subsequent use.50−52 Other approaches have involved the in situ generation of toxic and explosive hydrazoic acid [ NXS − HN3 , X = I , Br ] ; 53,54 the use of Br2 solution in the presence of sodium azide under neutral or basic conditions55,56 avoids that particular hazard , albeit with diminished yields and the formation of other side products.",
-        "operation": "toxic"
+        "operation": "toxic and explosive"
     },
     {
         "sentence": "The latter species either undergoes rearrangement reaction with dissolved oxygen , producing peroxynitrous acid (ONO2H)86 ( Scheme 1 ).",
@@ -129,7 +129,7 @@
     },
     {
         "sentence": "opening N-arylation to aﬀord 2-(diphenylamino)phenol ( 3aa ) in 98 % isolated yield ( entry 4 ).",
-        "operation": "opening"
+        "operation": "opening N-arylation"
     },
     {
         "sentence": "In the optimized condition ( entry 9 in Table 1 ) , the reaction was performed in a screw- capped vial , and formed the ring - opened double - arylated product 3aa , as the sole product.",
@@ -181,7 +181,7 @@
     },
     {
         "sentence": "Along this line , we have also performed the Pd - catalyzed C − H arylation of substrate 1a with 1.8 equiv of 2a by using Bull ’s reaction conditions,15c which gave the C3 - arylated product 3a in 50 % yield ( Table 2 ).",
-        "operation": "chemical reactions"
+        "operation": "yield"
     },
     {
         "sentence": "Similarly , the C3- arylated THF scaﬀolds 3h and 3i were obtained from the Pd-\nThen we performed the reaction of the substrate 1g with phenyl iodide in the presence of AgOAc ( 2.2 equiv ) and 10 mol % of the Pd(OAc)2 catalyst , which successfully gave the C3 - arylated product , cis 2,3-disubstituted 1,4-benzodioxane scaﬀold 4a ( neolignan analogue ) , in 65 % yield ( Scheme 3 ).",
@@ -189,7 +189,7 @@
     },
     {
         "sentence": "Thenceforth , we capitalized on this success and synthesized a wide range neolignan - type cis 2,3-disubstituted 1,4-benzodioxane scaﬀolds 4b − q ( 40 − 83 % ) from Pd - catalyzed direct arylation of the methylene sp3 C(3)−H bond of the 1,4-benzodioxane system 1g by using the corresponding aryl iodides , such as mono- and\nThe X-ray structure of the representative compound 4p ( see SI for the X-ray structure of 4p16 ) clearly conﬁrmed that the C − H arylation of the substrate 1g was highly regio- and stereoselective and the direct C − H arylation occurred only at the C3 - position of the substrate 1g and selectively gave the 2,3-disubstituted 1,4-benzodioxanes 4a − q with cis stereo- chemistry ( C2 and C3 stereocenters ).",
-        "operation": "Conductive and thermally efficient"
+        "operation": "Transmission"
     },
     {
         "sentence": "Similarly , the C − H arylation of substrates 1h and 1i with 2-iodothiophene gave the products 5h ( 2R,3S , major isomer ) and 6h ( 2S,3R , major isomer ) in 81 and 90 % yields , respectively ( Scheme 4 ).",
@@ -209,7 +209,7 @@
     },
     {
         "sentence": "Removal of the TBS moiety of 17 was carried out with TBAF / AcOH in MeCN at 60 ° C to give diol 20 in 86 % yield ( Scheme 6 ).",
-        "operation": "disinfection"
+        "operation": "Removal of the TBS moiety of 17"
     },
     {
         "sentence": "18 Treatment of 20 with TESOTf / 2,6-lutidine , followed by selective removal of the primary TES moiety , provided secondary TES ether 21.",
@@ -221,7 +221,7 @@
     },
     {
         "sentence": "Thus , selective protection of the primary hydroxy the diol 20 with TESCl / imidazole yielded the group of secondary alcohol , which was subjected to the TPAP oxidation19 to aﬀord ketone 23 ( Scheme 7 ).",
-        "operation": "secondary alcohol"
+        "operation": "disinfection"
     },
     {
         "sentence": "Diastereoselective reduction of 23 with NaBH4 proceeded successfully to provide the desired alcohol 24 in 98 % yield as the sole diastereomer.",
@@ -253,7 +253,7 @@
     },
     {
         "sentence": "The alcohol 28 , which was the key synthetic intermediate toward 2c , was converted to ketone 30 through the selective silylation of the primary alcohol and TPAP oxidation19 of the secondary alcohol.",
-        "operation": "selective silylation"
+        "operation": "selective silylation of the primary alcohol and TPAP oxidation19"
     },
     {
         "sentence": "The ketone 30 was reduced with NaBH4 to give alcohol 31 as the sole diastereomer.",
@@ -261,7 +261,7 @@
     },
     {
         "sentence": "Acetonide 32 , which was synthesized from the alcohol 31 in 54 % overall yield\n17 to provide the in four steps , was deprotected with TiCl4 fourth target molecule 2d in 47 % yield.",
-        "operation": "alcohol 31"
+        "operation": "Krebs cycle"
     },
     {
         "sentence": "Indeed , driven by precipitation of the corresponding silver(I) - halides , 5-iodo- ( 3a ) and 5-bromo- 1,2,3-triazoliums ( 2b and 3b ) were obtained in very good yields ( 86 − 93 % ) after treatment of the silver(I)-carbene complex with iodine or bromine ( Scheme 5 ) .",
@@ -277,7 +277,7 @@
     },
     {
         "sentence": "The tandem isomer- ization − aldol reaction with aldehyde 28 gave 29 , as a 83 : 17 mixture of syn and anti aldols.",
-        "operation": "tandem isomer- ization"
+        "operation": "transfére"
     },
     {
         "sentence": "After protection as its TBS ether , the transformation of acylsilane 34 into aldehyde 35 was successfully performed using the same photolytic conditions.",
@@ -349,7 +349,7 @@
     },
     {
         "sentence": "The isomer- ization of 21 into 22 was accomplished with DBU at room\nThe best result was obtained from a reaction of 1a ( 1.0 equiv , 0.2 mmol ) with 2a ( 1.5 equiv ) using Rh2(Oct)4 ( 2.0 mol % ) in ethyl acetate at 120 ° C for 16 h , producing ethyl 3-(4- nitrophenyl)-5-phenylpyrazine-2-carboxylate ( 3aa ) in 70 % isolated yield ( entry 10 ).",
-        "operation": "isolated"
+        "operation": "producing ethyl 3-(4-nitrophenyl)-5-phenylpyrazine-2-carboxylate ( 3aa ) in 70 % isolated yield ( entry 10 )"
     },
     {
         "sentence": "When the present reaction was conducted with Rh2(OAc)4 ( 2.0 mol % ) at or below 100 ° C , dihydropyrazines 4 and 5 were produced ( entries 8 and 9 ).",
@@ -381,7 +381,7 @@
     },
     {
         "sentence": "Addition of 2H-azirine 1 to the carbene center of B produces the rhodium - bound zwitterionic intermediate C.",
-        "operation": "mitochondrial function"
+        "operation": "transmission"
     },
     {
         "sentence": "Then , a ring - opening reaction through the release of an electron pair from anionic rhodium of C provides dihydropyr- azine 5 ( pathway b ).",
@@ -401,7 +401,7 @@
     },
     {
         "sentence": "The control experiment with the parent quinoline under otherwise identical conditions resulted in no formation of 3aa ( entry 18 ).",
-        "operation": "failure"
+        "operation": "separation"
     },
     {
         "sentence": "Just one exception is 2-methylpyr- idine N-oxide , and the corresponding product 3ka was detected in only 4 % yield.",
@@ -433,7 +433,7 @@
     },
     {
         "sentence": "Synthesis of 2′-Deoxy-2′-ﬂuoroisocytidine ( 1c ) via Tosylation of 2′-Deoxy-2′-ﬂuorouridine (4)a\nintroduced in the 5′-position ( → 9 ) , and an acetyl group was used for 3′-protection to acquire compound 10.9a,22b,c Then , the 5′-O-DMT group was removed and the resulting compound 1122b,c was 5′-O-tosylated using p-toluenesulfonyl chloride to give 12 ( 88 % yield ).",
-        "operation": "obtained"
+        "operation": "obtained by Tosylation of 2′-Deoxy-2′-fluorouridine (4)a"
     },
     {
         "sentence": "Treatment of 12 with DBU in reﬂuxing CH3CN furnished the 3′-O-acetylated 2,5′-anhydro nucleoside 13 ( 79 % ) , which after treatment with K2CO3 in MeOH gave 8 ( 86 % ) ( Scheme 2 ).",
@@ -449,7 +449,7 @@
     },
     {
         "sentence": "Control experiments revealed that a photocatalyst , 4 and visible light were essential for the eﬃcient conversion of 1a into 2a ( entries 7 − 10 ).",
-        "operation": "photocatalyst"
+        "operation": "optically"
     },
     {
         "sentence": "Notably , the highest yield of 2a was obtained when the reaction was catalyzed by Ru(bpy)3(PF6)2 under base - free conditions ( entry 12 ).",
@@ -509,7 +509,7 @@
     },
     {
         "sentence": "entry 1 ) , which provided the desired trans,trans,cis-tetrahy- drofuran 6a in moderate yield albeit with excellent diaster- eoselectivity ( > 20 : 1 ).",
-        "operation": "concentrator"
+        "operation": "disinfection"
     },
     {
         "sentence": "2b Similarly , a series of evaluations utilizing other Lewis acids , such as In(OTf)3 and Sc(OTf)3 , aﬀorded 6a in moderate yields ( entries 2 and 3 ).",
@@ -517,7 +517,7 @@
     },
     {
         "sentence": "The series of reactions using Brønsted acids , such as trichloroacetic acid ( TCA ) , triﬂuoroacetic acid ( TFA ) , and camphorsulfonic acid ( CSA ) , also provided the tetrahydrofuran 6a in moderate yield.",
-        "operation": "reactions"
+        "operation": "Krebs cycle"
     },
     {
         "sentence": "The reactions employing aliphatic aldehydes 9b − e provided the desired product 10b − e with attenuating diastereoselectivities regardless of the presence of α-substitutents.",
@@ -525,7 +525,7 @@
     },
     {
         "sentence": "In order to introduce the N1 nitrogen atom in the tetracyclic framework , the carboxylic acid was converted to amide 13 through the intermediate mixed anhydride.11 Dihydroxylation of the trans-disubstituted double bond in 13 aﬀorded the diol 14 as a mixture of diastereomers ( dr = 2 : 1 ) in 73 % yield , which was subjected to another oxidation in the presence of TEMPO to produce the desired cyclic aminal 12 as a 6 : 1 mixture of diastereomers.12\nof isatisine was conducted under modiﬁed amidation conditions,11 originally developed by Buchwald.14 Upon exposure of 11 to the modiﬁed Cu(I) - mediated amidation conditions , previously used in our syntheses of macrocyclic lactam natural products , the tetracyclic intermediate 15 was successfully generated in 80 % yield .",
-        "operation": "interaction of the two compounds"
+        "operation": "fermentation"
     },
     {
         "sentence": "In this approach , the more nucleophilic styrene - like oleﬁn in 18 chemoselectively underwent dihydrox- ylation using 1.0 equiv of NMO to furnish diol 20 as a 1.5 : 1 mixture of diastereomers.",
@@ -533,7 +533,7 @@
     },
     {
         "sentence": "Removal of the carbonate protecting group in 22 under basic ( hydrolysis ) conditions also resulted in the cleavage of the methyl ester to form the intermediate dihydroxy acid 23 , which underwent spontaneous lactonization to give the bicyclic lactone 24 ( Scheme 8 ).",
-        "operation": "mitochondrial membrane"
+        "operation": "condensation"
     },
     {
         "sentence": "Treatment of this material with a solution of anhydrous NH3 in MeOH provided intermediate amide 25 , which was subjected to oxidation with TEMPO and NaOCl at room temperature.12 As anticipated , the oxidation of the dihydroxy amide 25 resulted in a spontaneous cyclization to aﬀord the key advanced intermediate hydroxyl lactam 19 , which possessed the required oxidation states to be converted to the natural product .",
@@ -549,7 +549,7 @@
     },
     {
         "sentence": "Subsequent cleavage of the methyl ether5b,21 and acetonide with an excess amount of 1.0 M solution of BBr3 in CH2Cl2 in the presence of 15-crown-5 and NaI ( 3.0 equiv ) successfully provided (+)-isatisine A ( 1 ) in 80 % yield .",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "To prove this hypothesis , reaction of commercially available biphenyl-2-carboxaldehyde ( 1a ) with 4-tert-butylani- line ( 2a ) and diacetyl ( 3 ) in the presence of catalytic amount of TsOH aﬀorded the desired product 4a in 48 % yield ( Table 1 ) , which was subjected to intramolecular oxidative aromatic coupling.49 The use of the classical one - electron oxidant , i.e.",
@@ -617,7 +617,7 @@
     },
     {
         "sentence": "In this case , the unexpected formation of a 61 : 39 mixture of the desired alcohol (±)-5e and the structural isomer 2-(2,3-diﬂuoro-6- nitrophenoxy)propan-1-ol ( 11 ) was observed.",
-        "operation": "formation"
+        "operation": "formation of a 61 : 39 mixture of the desired alcohol ()-5e and the structural isomer 2-(2,3-difluoro-6- nitrophenoxy)propan-1-ol ("
     },
     {
         "sentence": "After 53 h , total selectivity toward the formation of the (R)- alcohol was attained , obtaining (S)-acetate 6e in 84 % ee and the desired enantiopure (R)-alcohol 5e in 45 % isolated yield.",
@@ -685,15 +685,15 @@
     },
     {
         "sentence": "With regard to the synthesis of 8 , disconnection of the amide bond leads to amine 9 and N-methyl lactam 14.",
-        "operation": "N-methyl lactam 14."
+        "operation": "conduct chemical transformation"
     },
     {
         "sentence": "Glucopyranoside 1815 was treated with tosyl chloride , leading to regioselective tosylation of the C- 6 hydroxyl group to form 19 in 95 % yield.",
-        "operation": "disinfection"
+        "operation": "treated with tosyl chloride"
     },
     {
         "sentence": "Subsequent reduction of 19 by LiAlH4 provided 6-deoxysugar 20 in 85 % yield.",
-        "operation": "production of nickel"
+        "operation": "production of glucose"
     },
     {
         "sentence": "temperature , provided , in 85 % overall yield , azide 21.",
@@ -701,7 +701,7 @@
     },
     {
         "sentence": "Azide reduction by the Staudinger reaction and triﬂuoroacetylation of the resulting amine gave the corresponding triﬂuoroacetamide derivative 23 in 79 % yield over the two steps.",
-        "operation": "stabilize the amine"
+        "operation": "yield"
     },
     {
         "sentence": "The anomeric allyl group in 23 was then removed by treatment with a catalytic amount of PdCl2 in a solution of methanol and CH2Cl2 to aﬀord the hemiacetal , which , upon exposure to trichloroacetonitrile , Cs2CO3 , and 4 Å molecular sieves in anhydrous CH2Cl2 , gave the desired trichloroacetimidate donor.",
@@ -721,7 +721,7 @@
     },
     {
         "sentence": "Iodosobenzenediacetate- mediated oxidation of 28 in methanol provided the α-methoxy- β-keto amide 12 in 90 % yield.",
-        "operation": "mitochondrial membrane"
+        "operation": "production"
     },
     {
         "sentence": "Pleasingly , NOESY experiments ( see the Supporting Information ) showed that the major product ( 70 % isolated yield ) was the desired intermediate 11 and the minor product ( 8 % isolated yield ) was the undesired stereoisomer ( 29 ) where the hydroxyl and methoxy groups are cis.",
@@ -749,7 +749,7 @@
     },
     {
         "sentence": "debenzylation and reduction of 42 was achieved in a mixture of methanol , water , and acetic acid ( 10 : 1 : 0.1 ) under a H2 atmosphere with 10 % Pd / C as the catalyst to give an 89 % yield of 5 .",
-        "operation": "catalyst"
+        "operation": "disinfection"
     },
     {
         "sentence": "Ley oxidation ( TPAP / NMO ) aﬀorded aldehyde 39 in 84 % yield ; subsequent Pinnick oxidation easily oxidized 39 to carboxylic acid 40 in 92 % yield.",
@@ -761,7 +761,7 @@
     },
     {
         "sentence": "The methyl ester was then hydrolyzed by treatment with LiOH to furnish 42 ( 96 % yield ).",
-        "operation": "disinfection"
+        "operation": "hydrolyzed"
     },
     {
         "sentence": "Compound 10 was easily hydrolyzed by treatment with LiOH in THF and water at room temperature to aﬀord acid 44 in 92 % yield.",
@@ -769,7 +769,7 @@
     },
     {
         "sentence": "TBTU - promoted amidation of 44 with amine 9 led to a 67 % yield of 45.",
-        "operation": "fabrication"
+        "operation": "Nebenwirkungsvermögen"
     },
     {
         "sentence": "Late - stage Ley oxidation ( TPAP / NMO ) and then Pinnick oxidation straightforwardly aﬀorded acid precursor 47 in 80 % yield over two steps.",
@@ -785,7 +785,7 @@
     },
     {
         "sentence": "Hydroylsis of 48 by treatment with LiOH in THF and water aﬀorded the corresponding carboxylic acids 49 ( also as an inseparable mixture of diastereomers ) , which were coupled with amine 9.",
-        "operation": "mitochondrial membrane"
+        "operation": "interaction of amine"
     },
     {
         "sentence": "The resulting two amidation products , 50 and 51 , were separated by column chromatography to give major and minor products in a 4 : 1 ratio.",
@@ -829,7 +829,7 @@
     },
     {
         "sentence": "tert-Butyl N-phenyl-N-(naphthalen-2-ylethynyl)- carbamate 1d also worked well , leading to 4-bromo-5- (naphthalen-2-yl)-3-phenyl-3H-oxazol-2-one 2d in 68 % yield ( Table 2 , entry 4 ).",
-        "operation": "carbamate 1d"
+        "operation": "production"
     },
     {
         "sentence": "For example , a 74 % yield of product 3a was obtained when 1a was employed in a reaction with CuCl2.",
@@ -857,11 +857,11 @@
     },
     {
         "sentence": "The formation of 5c likely occurs by intramolecular N- vinylation of formed by initial substitution reaction of bromo-diene 3c with allylamine .",
-        "operation": "interaction of bromine"
+        "operation": "formation of 5c"
     },
     {
         "sentence": "The reaction proceeded tediously when isobutyric anhydride was used as the acylating agent in diisopropyl ether at room temperature for 12 h , providing unreacted (R)-alcohol ( yield : 38 % ; ee : 84.2 % ) , (S)-acylated product 2a ( yield : 44 % ; ee not determined ) , and small quantities ( 15 % yield ) of byproduct 3 ( Scheme 1 ).",
-        "operation": "reaction"
+        "operation": "disinfection"
     },
     {
         "sentence": "oxygen atom and the acylated An - PIQ , substrate 1o , with one more carbon than 1m , was subjected to the KR and found to give an improved S value equal to 24 , providing corresponding unreacted (R)-1o in 99.1 % ee.",
@@ -877,7 +877,7 @@
     },
     {
         "sentence": "The nitro group was reduced by NaBH4 / NiCl2,16 giving the monoprotected diamines 5 in 91 % yield and 94 % ee.",
-        "operation": "monoprotected"
+        "operation": "disinfection"
     },
     {
         "sentence": "The key intermediate 3 was prepared using a previously published method.12 First , the starting material 1 was protected by the acetyl group to obtain 2.",
@@ -897,7 +897,7 @@
     },
     {
         "sentence": "The intermediate 6 was synthesized in three steps from the starting material 4.",
-        "operation": "intermediate 6"
+        "operation": "intermediate 6 was synthesized in three steps from the starting material 4."
     },
     {
         "sentence": "Compound 5 that was prepared by acetylation of 4 reacted with TFAA via the Friedel − Crafts reaction and then was deacetylated by HCl in THF leading to\nThe synthesis of enaminones from ketones and DMF − DMA is well precedente , and this intermediate was used for hydro- genation − hydrogenolysis reaction without chromatographic puriﬁcation.16 As a starting point , hydrogenation experiments were performed using 10 mol % of Pd / C in the presence of H2 ( balloon ) for 12 h at rt , giving the phenylpropanol 4a.",
@@ -945,7 +945,7 @@
     },
     {
         "sentence": "When A alone was subjected to these reaction conditions , a small amount ( 21 % ) of 3aa was obtained ( Scheme 1 ).",
-        "operation": "reactions"
+        "operation": "reaction"
     },
     {
         "sentence": "Aminoamide B was eﬃciently transformed to 3aa in quantitative yield under the reaction conditions.",
@@ -953,7 +953,7 @@
     },
     {
         "sentence": "In addition , the reductive coupling of γ-butyrolactone ( 1g ) with 2a under conditions a mainly gave ring - opening γ-hydroxy ketone 3g , while the reduction under conditions b yielded cyclic enol ether 5 as the major product ( Scheme 4 ).",
-        "operation": "catalyst"
+        "operation": "transmission"
     },
     {
         "sentence": "Since 1h and 1i were reactive substrates for the reductive coupling with 2a , the reaction proceeded even at 0 ° C to give 3h and 3i\nconditions a , diaryl(hydroxy)methyl ketones 3j and 3k were mainly formed ( runs 1 and 3 ) , whereas 3l was the minor product and further reduced ketone 4l was the major product ( run 5 ).",
@@ -965,7 +965,7 @@
     },
     {
         "sentence": "These results show that the further reduction of 3l to 4l proceeded even at 0 ° C.",
-        "operation": "injection"
+        "operation": "removal"
     },
     {
         "sentence": "Next , the reductive coupling of N-Moc-(S)-alanine methyl ester ( 8c ) with 2a under the same conditions as run 4 in Table 7 produced optically active diphenylmethyl ketone 10c in 55 % yield with more than 20 % recovery of 8c ( Table 8 , run 1 ).",
@@ -1045,7 +1045,7 @@
     },
     {
         "sentence": "Omitting Cs2CO3 from the reaction gave acetoxylation product 4aa exclusively in 36 % yield ( Table 1 , entry 12 ).",
-        "operation": "reaction"
+        "operation": "Oxygen"
     },
     {
         "sentence": "In the end , the optimal reaction conditions to obtain arylation product 3aa were PdCl2(CH3CN)2 ( 10 mol % ) , PhI(OAc)2 ( 2.5 equiv ) , and Cs2CO3 ( 4.0 equiv ) in mesitylene at 110 ° C .",
@@ -1057,15 +1057,15 @@
     },
     {
         "sentence": "Subsequently , an oxidative addition of B into Ph-I took place to aﬀord C , which eventually generated product 3 after reductive elimination.",
-        "operation": "fabrication"
+        "operation": "production"
     },
     {
         "sentence": "the synthesis of 2-(3′-indolyl)tetrahydrofuran (±)-7a by the oxidative cycloetheriﬁcation of indole-3-butanol (6a)10 was attempted.",
-        "operation": "mitochondrial phosphorylation"
+        "operation": "Krebs"
     },
     {
         "sentence": "Encouraging early results showed that DDQ promoted the conversion of 6a to (±)-7a under a variety of conditions , albeit in low yield.",
-        "operation": "conversion"
+        "operation": "production"
     },
     {
         "sentence": "Subjecting pure (±)-7a to DDQH2 in THF gave 6a in good yield at 60 ° C ( Scheme 4B ) , proving that the desired product does indeed undergo reductive cleavage.",
@@ -1073,7 +1073,7 @@
     },
     {
         "sentence": "Subjecting 6a to DDQ in a biphasic solvent mixture of dichloromethane and saturated aqueous sodium bicarbonate in the presence of the phase transfer catalyst tetrabutylammonium iodide ( TBAI ) gave a 28 % yield of the product (±)-7a ( entry 1 ) , which could be increased by raising the temperature to reﬂux ( entry 2 ).",
-        "operation": "catalyst"
+        "operation": "melting"
     },
     {
         "sentence": "The cyclization precursors 6b − f were readily prepared in racemic form by the addition of various Grignard reagents to the Weinreb amide 11,15 followed by\n32,33 Thus , bromination of known formyldipyrromethane 520 with 1 or 2 equivs of NBS provides 1-bromo-9-formyldipyrromethane 6-Br ( 94 % yield ) or 1,2-dibromo-9-formyldipyrromethane 6-Br2 ( 67 % yield ) , re- spectively.",
@@ -1105,7 +1105,7 @@
     },
     {
         "sentence": "Solvent screening indicated that the reaction in dimethylformamide ( DMF ) aﬀorded β-hydroxysulﬁde 3a as a major product in 70 % yield , accompanied by byproducts β- oxosulﬁde 4a , benzaldehyde , and diphenyldisulﬁde ( Table 1 , entry 5 ).",
-        "operation": "interaction"
+        "operation": "yield"
     },
     {
         "sentence": "Thus , using DMF as solvent , the ratio of 1a / 2a , TBHP loading , temperature , and time were screened ( Table 1 , entries 10 − 21 ) ; optimum reaction conditions were determined to be styrene ( 1a , 1.0 equiv ) and thiophenol ( 2a , 2 equiv ) in DMF at 25 ° C for 48 h ( Table 1 , entry 15 ) to aﬀord the selective β-hydroxysulﬁde 3a in 74 % yield .",
@@ -1121,7 +1121,7 @@
     },
     {
         "sentence": "Then the reaction of α-bromostyrene 1q with 2a was carried out , and β-oxosulﬁde 4q was isolated in 44 % yield ( Table 3 , entry 3 ) , while the reaction of β-bromostyrene 1r with 2a gave the β-oxythioacetal 4r in 15 % yield ( Table 3 , entry 4 ).",
-        "operation": "reaction"
+        "operation": "isolated"
     },
     {
         "sentence": "Also , the reaction of α-phenylstyrene 1s with 2a was performed , and the corresponding β-hydroxysulﬁde 3s was isolated in 71 % yield ( Table 3 , entry 5 ).",
@@ -1133,7 +1133,7 @@
     },
     {
         "sentence": "p-Methoxybenzenethiol 2e and o-amino- benzenethiol 2f gave no desired β-hydroxysulﬁdes 3ae and 3af ( Table 4 ).",
-        "operation": "obtained"
+        "operation": "obtained by p-Methoxybenzenethiol 2e and o-amino- benzenethiol 2f"
     },
     {
         "sentence": "The arylthiols bearing F and Cl groups reacted with 1a to aﬀord the expected β-hydroxysulﬁdes 3ag , 3ah , and 3ai in moderate yields ( Table 4 ) , while the NO2 derivative did not react ( Table 4 , 3aj ).",
@@ -1153,11 +1153,11 @@
     },
     {
         "sentence": "It reacts with O2 to form peroxy radical 8 , followed by reacting with 2a to form hydroperoxide 9 , and thiyl radical 6 is regenerated.",
-        "operation": "hydroperoxide"
+        "operation": "Hydroperoxide"
     },
     {
         "sentence": "9 reacts with thiophenol 2a to give radical 10 , which then obtains a hydrogen atom from 2a to aﬀord product 3 and to regenerate thiyl radical 6 , which continues to drive the reaction further .",
-        "operation": "regenerate"
+        "operation": "regenerate thiyl radical"
     },
     {
         "sentence": "The combined organic fractions were dried over anhydrous Na2SO4 and concentrated under vacuum to yield the crude product , which was puriﬁed by column chromatography ( silica gel , petroleum ether / EtOAc = 40 : 1 ) to give 1- phenyl-2-(phenylthio)ethan-1-ol ( 3a ) .",
@@ -1201,7 +1201,7 @@
     },
     {
         "sentence": "Possibly due to steric hindrance and side reaction of 1- nitronaphthalene ( 2r ) with NaHSO3,22 the reaction of 1a with 2r aﬀorded corresponding 3ar in a moderate yield of 51 % ( Table 2 , entry 18 ).",
-        "operation": "interaction of nitronaphthalene and NaHSO3,22"
+        "operation": "transmission"
     },
     {
         "sentence": "Finally , the reaction of 3-nitropyridine ( 2s ) also proceeded smoothly to give sulfonamide 3as in 93 % yield ( Table 2 , entry 19 ).",
@@ -1209,7 +1209,7 @@
     },
     {
         "sentence": "of sodium bezenesulﬁnate ( 1b ) with nitrobenzene , p-nitro- toluene , and p-chloronitrobenzene gave the desired products 3ba , 3bb , and 3bi in excellent yields ( Table 3 , entries 1 − 3 ).",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "The reaction of sodium 4-methoxybenzenesulﬁnate ( 1c ) with nitrobenzene furnished 3ca in 92 % yield ( Table 3 , entry 4 ).",
@@ -1257,7 +1257,7 @@
     },
     {
         "sentence": "After examination of the reaction conditions , we found that α-(sulﬁnyloxy)amide derivatives 4 were oxidized by mCPBA easily and cleanly in CH2Cl2 to aﬀord the corresponding α-(sulfonyloxy)amide derivatives 6 in good to high yields ( Table 3 ).",
-        "operation": "catalyst"
+        "operation": "maintenance of the environment"
     },
     {
         "sentence": "A three - component reaction of 1 , 2 , and 3a in CH2Cl2 , followed by addition of mCPBA , gave the α-(sulfonyloxy)amides 6 in moderate to good yields .",
@@ -1281,7 +1281,7 @@
     },
     {
         "sentence": "With the key intermediate (+)-7 in hand , cyclophellitol and epi-cyclophellitol benzylated derivatives (+)-5 and (+)-6 were obtained as shown in Scheme 3.",
-        "operation": "Pharmacological"
+        "operation": "transmission"
     },
     {
         "sentence": "The epoxidation of the tetraol (+)-7 with m-CPBA was directed20 by the free allylic hydroxyl group to furnish exclusively 1,6-epi-cyclophellitol (20),29,30 which was then benzylated to aﬀord tetra-O-benzyl derivative (+)-6.31 To reverse the facial selectivity of the epoxidation step , a protection − deprotection sequence of secondary hydroxyl groups was developed ( Scheme 3 ).",
@@ -1313,7 +1313,7 @@
     },
     {
         "sentence": "Preparation of GalNAc donor 11 began with protection of known alcohol 1416 with BnBr , aﬀording benzyl ether 15 in 96 % yield ( Scheme 2 ).",
-        "operation": "preparation"
+        "operation": "preparation of GalNAc donor 11"
     },
     {
         "sentence": "the p-methoxybenzyl ( PMB ) group was oxidatively removed with 2,3-dichloro-5,6-dicyanobenzoquinone (DDQ)18 to give diol 17 in 74 % overall yield for the three steps.",
@@ -1337,7 +1337,7 @@
     },
     {
         "sentence": "After separation of the anomers , azide 23 was transformed to acetamide 24 in 97 % yield by treatment with Ph3P in aqueous THF , followed by acetylation with Ac2O in pyridine.",
-        "operation": "separation"
+        "operation": "separation of the anomers"
     },
     {
         "sentence": "Hemiacetal 25 ( α:β = 55 : 45 ) , obtained in 84 % yield from allyl glycoside 24 by a two - step procedure that entailed treatment with t-BuOK in dimethyl sulfoxide ( DMSO ) at 100 ° C and bromination with N-bromosuccinimide ( NBS ) in aqueous THF,17 was success- fully converted to diphenyl phosphate 9 ( α:β = 67 : 33 ) in 81 % yield via oxidation22 of the corresponding phosphite with potassium peroxymonosulfate (Oxone)23 in aqueous acetone.24\nAs expected , tetrasaccharide 8 was obtained as a sole product by the TMSOTf - promoted reaction of diphenyl phosphate 9 with alcohol 10 in the presence of 5 Å molecular sieves in CH2Cl2 at 0 ° C ; however , the yield was only 35 % even with 2 equiv of alcohol 10 ( Table 1 , entry 1 ).",
@@ -1397,7 +1397,7 @@
     },
     {
         "sentence": "N-(2-Quinolyl)indole and N-(2- pyrimidyl)indole underwent smooth reaction to aﬀord the products 3n and 3o in 71 % and 46 % yield , respectively.",
-        "operation": "fabrication"
+        "operation": "yield"
     },
     {
         "sentence": "Initial attempts with N-(pyridyl)- pyrrole 4a aﬀorded only moderate yield of 2-cyano-N- (pyridyl)pyrrole 5a.",
@@ -1429,7 +1429,7 @@
     },
     {
         "sentence": "As shown in Scheme 5 , compound 2 reacted with ethyl propiolate to give the corresponding pyrazole as a mixture of regioisomers 24a,b in low yield.",
-        "operation": "compound 2 reacted with ethyl propiolate"
+        "operation": "yield"
     },
     {
         "sentence": "Pd(OAc)2 aﬀorded 2 in excellent yield ( entry 3 ).",
@@ -1441,7 +1441,7 @@
     },
     {
         "sentence": "Speciﬁcally , the coupling reaction of 1a with 1,4-dichlorobenzene provided sydnone dimer 27 in excellent yield.",
-        "operation": "coupling reaction"
+        "operation": "fabrication"
     },
     {
         "sentence": "Moreover , the cycloaddition of 27 with phenylacetylene proceeded smoothly to aﬀord 28 as a judged by 400 MHz 1H NMR single regioisomer ( as spectroscopy ) , albeit in moderate yield ( Scheme 6 ).",
@@ -1457,11 +1457,11 @@
     },
     {
         "sentence": "It was found that diglyme was an optimal solvent , aﬀording 3a in 64 % yield ( Table 1 , entry 7 ).",
-        "operation": "maintenance"
+        "operation": "yield"
     },
     {
         "sentence": "Reaction with (phen)Cu(SCF3) ( phen = phenanthroline ) generated product 3a in moderate yield ( 55 % ; Table 2 , entry 2 ).",
-        "operation": "reaction with (phen)Cu(SCF3)"
+        "operation": "production"
     },
     {
         "sentence": "Similar behaviors were also observed in the previously reported triﬂuoromethyl- thiolation of aryl iodides.33 Moreover in the case of the Cu(I) catalyzed triﬂuoromethylthiolation using the [Bu4N][SCF3] reagent , the reaction produced a lower yield of 3a ( 30 % ; Table 2 , entry 3 ).",
@@ -1477,7 +1477,7 @@
     },
     {
         "sentence": "Similarly , carrying out the reaction in the presence of 2,2,6,6-tetramethyl-1- piperidinyloxy ( TEMPO ) , a radical scavenger , gave 3a in 88 % yield.",
-        "operation": "transport"
+        "operation": "carrying out the reaction"
     },
     {
         "sentence": "To our delight , the desired sulfenylation product 3aa was obtained in 75 % yield in the presence of 0.1 equiv of I2 as the catalyst at 120 ° C ( Table 1 , entry 1 ).",
@@ -1505,7 +1505,7 @@
     },
     {
         "sentence": "Attempts to increase the rate of the reaction by the use of pure acetic acid as the solvent were unsuccessful and led to only 17 % yield of 4aa ( Table 1 , entry 2 ).",
-        "operation": "solvent"
+        "operation": "production"
     },
     {
         "sentence": "An oleﬁn substrate containing an isatin moiety underwent a smooth reaction , resulting in the formation of 4fa in 55 % yield.",
@@ -1521,7 +1521,7 @@
     },
     {
         "sentence": "Reaction of 1g with arene 2d did not deliver the desired product 5gd , the starting materials being mostly recovered and no identiﬁable byproduct being detected.",
-        "operation": "contamination"
+        "operation": "detected"
     },
     {
         "sentence": "Furthermore , with arene 2e , only one isomer 5ge was obtained in a 16 % yield , whereas 57 % of oleﬁn 1g remained intact.",
@@ -1537,7 +1537,7 @@
     },
     {
         "sentence": "For example , treatment of (R)-2a with nBuLi followed by addition of MeI gave the methylated product (R)-3-Me.",
-        "operation": "interaction with aqueous substances"
+        "operation": "interaction with a molecule"
     },
     {
         "sentence": "The TMS group was also placed back on the alkyne unit to give compounds (R)-3a − g in good yields.",
@@ -1569,7 +1569,7 @@
     },
     {
         "sentence": "The cyclopentadienone unit of the intermediate 7 is expected to be highly reactive , which readily undergoes an intramolecular endo-DA cycloaddition to give the tetracyclic product 4a.",
-        "operation": "mitochondrial membrane"
+        "operation": "intramolecular"
     },
     {
         "sentence": "Unexpectedly , aliphatic substituted products 3l and 3m were obtained with moderate yields and enantioselectivities.",
@@ -1577,7 +1577,7 @@
     },
     {
         "sentence": "·2H2O in [C2OHmim] with the combination of PdCl2 and CuCl2 Cl at 100 ° C , the desired product 3aa was obtained in 23 % yield ( Table 1 , entry 1 ).",
-        "operation": "fabrication"
+        "operation": "production"
     },
     {
         "sentence": "Unfortunately , a lower yield of 3aa was obtained when the reaction was performed under 1 atm of pressure of O2 ( Table 1 , entry 8 ).",
@@ -1605,7 +1605,7 @@
     },
     {
         "sentence": "Ultimately , when 4-methyl-N-(2-(phenylethynyl)phenyl)benzenesulfonamide ( 9c ) was employed to react with 2a under the standard con- ditions , only a trace amount of 1-tosyl-1H-indole 10c was detected by GC − MS ( Scheme 4 ) .",
-        "operation": "reaction"
+        "operation": "detected by GC  MS ( Scheme 4 ) ."
     },
     {
         "sentence": "For instance , the Suzuki − Miyaura cross-coupling reactions of 4l with phenylboronic acid delivered arylated compounds 11a in moderate yield.16 Furthermore , the desulﬁtative coupling of 4l occurred uneventfully as well , providing the arylated compounds 11b in 68 % yield.17 To our satisfaction , 4l underwent the Negishi coupling to produce the highly functionalized benzofuran derivative 11c in 63 % yield.16\nThe oxidative coupling of 3-phenylthiophene with alkenes 5 also proceeded smoothly in the presence of a same catalyst system to form the corresponding 2′-alkenylated product 6 ( Scheme 1c ).",
@@ -1621,7 +1621,7 @@
     },
     {
         "sentence": "In the case with 1u , a mixture of regioisomers 3ua and 3ua′ was formed.",
-        "operation": "formation"
+        "operation": "formation of regioisomers"
     },
     {
         "sentence": "6-(Thiophen-3-yl)quinoline ( 1w ) could also be employed for the annulation with 2a to selectively form tetracyclic product 3wa.",
@@ -1669,7 +1669,7 @@
     },
     {
         "sentence": "Finally radical C is oxidized by Fe3+ and loses a proton to aﬀord product 3 .",
-        "operation": "fabrication"
+        "operation": "production"
     },
     {
         "sentence": "In entry 1 , when TBAB ( tetrabutylammonium bromide ) was used with less than a 5 % yield of expected product 5a was TBHP , produced.",
@@ -1685,7 +1685,7 @@
     },
     {
         "sentence": "When solvent was changed to CH3CN , a combination of NaI with TBAB and TBHP generated 75 % yield of 5a ( entry 5 ).",
-        "operation": "disinfection"
+        "operation": "production"
     },
     {
         "sentence": "CuBr , CuCl2 , and Cu(OAc)2 with TBHP gave the expected product 5a in yields of 45 % , 60 % , and 55 % , respectively ( entries 6 , 7 , 8 ).",
@@ -1705,7 +1705,7 @@
     },
     {
         "sentence": "Isolated yield of product 5a was based on the reactant N-methyl-N- phenylacrylamide 1a.",
-        "operation": "catalyst"
+        "operation": "production"
     },
     {
         "sentence": "t-BuOO and t-BuO transform sulfonylhydrazide 4 into a sulfonyl radical A.",
@@ -1717,7 +1717,7 @@
     },
     {
         "sentence": "The reaction of 1a was carried out in the presence of [(IPr)AuCl] ( IPr = 1,3-bis(diisopropylphenyl)- imidazol-2-ylidene ) ( 0.5 mol % ) in MeOH / H2O ( 2 : 1 ) at 80 ° C for 6 h to aﬀord acetophenone ( 2a ) in 88 % yield with complete regioselectivity.",
-        "operation": "reaction"
+        "operation": "Transmission"
     },
     {
         "sentence": "It was observed that the product 2a could be obtained in 99 % yield when the temperature of reaction was enhanced to 110 ° C.",
@@ -1765,7 +1765,7 @@
     },
     {
         "sentence": "This catalytic system was also successfully applied to phenylacetylenes bearing an electron - donating group , such as methyl ( 1j,k ) , ethyl ( 1l ) , propyl ( 1m ) , methoxy ( 1n ) , and amino ( 1o ) , aﬀording the desired products 3j − o in 80 − 93 % yield with 93 − 98 % ee , although a longer time ( 24 h ) is required ( Table 2 , entries 9 − 14 ).",
-        "operation": "fabrication"
+        "operation": "yield"
     },
     {
         "sentence": "For 2-ethynylnaphthalene ( 1p ) and 2-ethynylthiophene ( 1q ) , reactions proceeded smoothly to give the corresponding products 3p and 3q in 92 % yield with 92 % ee and in 91 % yield with 98 % ee , respectively ( Table 2 , entries 15 and 16 ) .",
@@ -1773,11 +1773,11 @@
     },
     {
         "sentence": "Homolysis of TBHP gave HO• and t-BuO•,13 which could abstract a hydrogen radical from HOAc , then release AcO• , followed by oxidative addition of HO• and AcO• to form Pd(IV) intermediate B.",
-        "operation": "Oxygen"
+        "operation": "Hydrolysis"
     },
     {
         "sentence": "Among those reported methods,6c,7d,g,10 it was found that the use of an equivalent of HIO4 and H2SO4 in the cosolvent of MeCN / H2O ( v : v = 1 : 1 ) as a reaction condition could aﬀord the best result,7g where the PMP protection group of (S)-4-methoxy-N-(2,2,2-triﬂuoro-1- phenylethyl)aniline could be removed readily to give (S)- 2,2,2-triﬂuoro-1-phenylethanamine with the slightly decreased enantioselectivity in 72 % isolated yield , as shown in Scheme 2 .",
-        "operation": "reaction"
+        "operation": "disinfection"
     },
     {
         "sentence": "Hence , the reaction of indole-3- carboxaldehyde ( 2.0 equiv ) with chlorosulphonyl azide , prepared in situ by the reaction of equimolar quantities of sodium azide and sulfuryl chloride in MeCN , gave indole-3-carboxaldehyde-1- sulphonyl azide I ( 40 % , obtained after aqueous workup and puriﬁcation by ﬂash column chromatography ) as a yellow solid ( mp 174 − 176 ° C ) ( Scheme 2 ) .",
@@ -1813,7 +1813,7 @@
     },
     {
         "sentence": "Conversion of potassium phenyltriﬂuoroborate 1a to the corresponding hexylene glycol boronate 1f was initially optimized , with variation of the amount of diol and TMS-Cl and the type of base employed.",
-        "operation": "maintenance"
+        "operation": "maintenance of hexylene glycol"
     },
     {
         "sentence": "The use of pinacol or pinanediol under similar conditions ( 2 equiv TMS-Cl and K2CO3 ) gave the corresponding boronate esters 1g and 1h in excellent yields ( Table 4 , entries 1 and 2 ) .",
@@ -1821,7 +1821,7 @@
     },
     {
         "sentence": "The conversion of phenyltriﬂuoroborate 1a to the N - based boronate derivatives was next Incorporating diaminonaphthalene as the bis-nucleophile generated the PhB(dan) derivative 1d in excellent yield ( Table 4 , entry 3 ).",
-        "operation": "Bis-nucleophile"
+        "operation": "yield"
     },
     {
         "sentence": "The use of MIDA with base ( K2CO3 ) provided the PhB(mida) derivative 1c in greater yield than employing the MIDA disodium salt ( Table 4 , entry 5 ).",
@@ -1853,7 +1853,7 @@
     },
     {
         "sentence": "Pleasingly , conditions were also found that enabled selective ﬂuorolysis of the B(aam) group in the B(aam) / B(mida) bis- boronate 22 , generating the aryl-BF3K / B(mida) bisboronate 23 in reasonable yield , despite the B(aam) group being only slightly more reactive under ﬂuorolysis conditions than the B(mida) group.",
-        "operation": "disinfection"
+        "operation": "producing aryl-BF3K / B(mida) bisboronate 23"
     },
     {
         "sentence": "Lastly , following conversion of the aryl-B(pin) / B(mida) bis-boronate 24 to the corresponding monotriﬂuor- oborate 23 , subsequent treatment with TMS-Cl in the presence of anthranilamide gave the corresponding B(aam) / B(mida) bis-\nTo this end , compound 8 was transformed into the triazolide 12 with 1,2,4-triazole and POCl3 ( Scheme 2 ).",
@@ -1861,11 +1861,11 @@
     },
     {
         "sentence": "Treatment of 12 with ammonia then aﬀorded the 5- methlytricyclocytidine 13 in 60 % yield over two steps.",
-        "operation": "mitochondrial function"
+        "operation": "maintenance of sulphuric acid"
     },
     {
         "sentence": "N4- Benzoylation of 13 with Bz2O yielded the two nucleosides 14 and 15 that diﬀered only by the presence or absence of the 3′- O-TMS group.",
-        "operation": "mitochondrial membrane"
+        "operation": "nucleosides"
     },
     {
         "sentence": "The optically active binaphthyl-based ligands BBHA 2a and 2b were synthesized from (S)-1,1′- binaphthyl-2,2′-dicarboxylic acid and N-substituted-O-trime- thylsilyl (TMS)-protected hydroxylamines via a one - pot , three- step procedure.",
@@ -1905,7 +1905,7 @@
     },
     {
         "sentence": "Importantly , 1-heptyne also proved to be a suitable substrate and gave the corresponding dithiane 3q in satisfactory yield based on the recovered starting material .",
-        "operation": "digestion"
+        "operation": "recovered starting material"
     },
     {
         "sentence": "1c Very recently , Cheng and Li , respectively , reported the iron - catalyzed radical arylmethylation of activated alkenes using di-tert-butylperoxide ( DTBP ) or DCP as the methyl source , leading to the biologically active product 3- ethyl-3 - substituted indolin-2-one ( Scheme 1c ).",
@@ -1917,7 +1917,7 @@
     },
     {
         "sentence": "When 2-(methylamino)-N-phenylbenzamide 4 and 2-amino-N-methyl-N-phenylbenzamide 5 were carried out under the standard reaction conditions , the desired product 2a was obtained in 50 and 15 % yield , respectively.",
-        "operation": "reaction"
+        "operation": "production"
     },
     {
         "sentence": "The intermediate 4 then generates radical A1 via a SET process in the presence of Cu2+.",
@@ -1937,7 +1937,7 @@
     },
     {
         "sentence": "However , we found that very little alkylation occurred unless the temperature was raised to 0 ° C , at which point we did obtain a somewhat larger proportion of the desired product ( 3 ) as a mixture of diastereoisomers , together with a small amount of the monomethyl ether 4 .",
-        "operation": "condensation"
+        "operation": "melting"
     },
     {
         "sentence": ", 84 % yield ) in a case where experiments with DDQ and Pd - black were unsuccessful.4,5 Treatment of the silyl ether 5 with I2 in reﬂuxing MeOH gave the silyl ether 6 in 84 % yield ( Scheme 2 ).",
@@ -1969,11 +1969,11 @@
     },
     {
         "sentence": "In the ﬁrst , a tandem Mizoroki − Heck reaction and double - bond isomerization between a previously known allyl alcohol intermediate and a hindered 2-(2-halophenyl)propan-2-ol secured direct access to the 3-(2-(2-hydroxypropan-2-yl)phenyl)-1- phenylpropan-1-one moiety in the product.",
-        "operation": "double - bond isomerization"
+        "operation": "Double - bond isomerization"
     },
     {
         "sentence": "A signiﬁcant drawback of this approach is the methyl Grignard reagent addition to the aryl ester 5 that leads to the dimethyl aryl carbinol 6.",
-        "operation": "carbinol 6"
+        "operation": "interaction with a cyclotron"
     },
     {
         "sentence": "The acetate 12 proved to be a reactive partner in the Mizoroki − Heck reaction with allyl alcohol 3 , and in the presence of Pd(OAc)2 and P(o-tol)3 , the desired acetate - protected keto-carbinol 13 was obtained , albeit with varying amounts of an isomeric impurity ( Table 1 ).",
@@ -2013,7 +2013,7 @@
     },
     {
         "sentence": "Terashima reported the IMDDA reaction of alkynone 22 , which provided only 23 in quantitative yield.29 Finally , Matsubara has reported an IMDDA reaction of silyl acetylene 24 that produced only the naphthalene product 25 in 80 % yield ; ten additional examples were reported.30 While this nearly exhaustive listing of research in the area of IMDDA reactions of this reaction,31 its potential has not been realized due to harsh reaction conditions , long reaction times , mixtures of naphthalene and dihydronaphthalene compounds , and the inability to predict which product will be obtained .",
-        "operation": "contamination"
+        "operation": "production"
     },
     {
         "sentence": "Additionally , dihydronaphthalenes 29b and 31b were obtained in 15 % and 56 % yields , respectively for styrene − yne 30 ( entries 2 and 3 , Table 1 ).",
@@ -2057,11 +2057,11 @@
     },
     {
         "sentence": "Mitsunobu reaction conditions were utilized for the conversion of 40 to styrene − yne 41 in 86 % yield.",
-        "operation": "conversion"
+        "operation": "conversion of 40 to styrene  yne 41 in 86 % yield"
     },
     {
         "sentence": "Finally , to the lithium acetylide of 41 was added either N-methoxy-N- methylacetamide ( 36 ) or methyl chloroformate , producing alkynone 42 and alkynoate 43 in 80 or 55 % yield , respectively .",
-        "operation": "production"
+        "operation": "production of lithium"
     },
     {
         "sentence": "As a result of our mechanistic studies , we postulate that dihydronaphthalene formation occurs via an initial [ 4 + 2 ] cycloaddition reaction of 30 to produce the tetraene 50 ( Scheme 6A ).",
@@ -2121,7 +2121,7 @@
     },
     {
         "sentence": "In the next step , radical B reduces to the corresponding anion by a second equivalent of titanocene , yielding intermediate C , which after workup provides the isolated cyclization products 2a and 2b.",
-        "operation": "interaction"
+        "operation": "isolated cyclization products 2a and 2b"
     },
     {
         "sentence": "However , the experiment performed with a catalytic 20 % of titanocene reagent ( Scheme 8 , second row ) provided only the cyclopropane 13 , in a 36 % yield.",
@@ -2141,7 +2141,7 @@
     },
     {
         "sentence": "Pleasingly , a 45 % yield of product 3a was\nTrace amounts of 3a were observed in the presence of tert-butyl hydroperoxide ( TBHP ) and H2O2 ( Table 1 , entries 5 and 6 ).",
-        "operation": "exposure to heat"
+        "operation": "Transmission"
     },
     {
         "sentence": "Encouragingly , a 70 % yield of 3a was obtained when the reaction was conducted in 1,2-dichloroethane.",
@@ -2169,7 +2169,7 @@
     },
     {
         "sentence": "Allyl alcohol was converted to 2,3-dibromopropan-1-ol ( 11 ) in 90 % yield in 24 h at room temperature.",
-        "operation": "transférer"
+        "operation": "converted to 2,3-dibromopropan-1-ol ( 11 ) in 90 % yield in 24 h at room temperature"
     },
     {
         "sentence": "1-Octene was brominated in 12 h at 65 ° C to yield the corresponding dibromooctane 12 in 86 % isolated yield.",
@@ -2185,7 +2185,7 @@
     },
     {
         "sentence": "N-Allyl benzotriazoles gave compounds 18 and 19 in good yields.",
-        "operation": "yield"
+        "operation": "yields"
     },
     {
         "sentence": "Conversion of cyclooctene was also complete at room temperature in 24 h to give 20 in 99 % yield.",
@@ -2213,7 +2213,7 @@
     },
     {
         "sentence": "To our disappointment , when R1 is an ester or aliphatic group ( 1p and 1q ) , corresponding cyclization products 3p and 3q were obtained with low yields and bad enantioselectivities\nWhen R3 is a benzyl group , [4+2] cycloaddition product 3v was isolated in an almost racemic fashion in very low yield.15 To explore the substrate scope of the [4+2] cycloaddition , diﬀerent substituted allenoates ( 2b − d ) were further examined.",
-        "operation": "contaminants"
+        "operation": "contamination"
     },
     {
         "sentence": "Heterocycles 5 were allowed to react with a range of halogenated derivatives R3−X ( iodomethane , iodoethane , 1-iodoheptane , benzyl chloride , 3,5- bis(triﬂuoromethyl)benzyl chloride , or 4-nitrobenzyl chloride ) to furnish the corresponding N - alkylated salts 3 in 68 − 100 % yield after a simple ﬁltration .",
@@ -2225,7 +2225,7 @@
     },
     {
         "sentence": "shock protein 90 inhibitors,23 serotonin 5-HT ligands,24 farnesyltransferase inhibitors,13a and maxi-K channel openers.25 6a ( R5 = H ) and 6c ( R5 = Cl ) were directly obtained according to a reported protocol from 2-mercaptobenzimida- zole , which is commercially available.22c N-(p-Chloro)benzyl 4b ( R3 = p-Cl-Bn , R5 = H ) , N-benzyl 4e ( R3 = Bn , R5 = Cl ) , and\nWe hypothesized that this was probably due to the lower basicity of the involved nitrogen atom and / or the iodine counterion which could provide a demethylation reaction.26 To tackle this issue , methyl p-toluenesulfonate was chosen as alkylating agent , and the desired salts 4a ( R3 = Me , R5 = H ) and 4c ( R3 = Me , R5 = Cl ) were isolated in 77 % and 87 % yield , respectively , after puriﬁcation.",
-        "operation": "separation"
+        "operation": "disinfection"
     },
     {
         "sentence": "A preliminary attempt on 4c was carried out at 70 ° C and furnished a mixture of 2c ( R3 = Me , R4 = Me , R5 = Cl ) and 2d ( R3 = Me , R4 = Et , R5 = Cl ).",
@@ -2249,7 +2249,7 @@
     },
     {
         "sentence": "The treatment of the tosyl derivative 4b with 10 mol % of G-II led to desired 6b in 53 % yield , while a lower amount of 6b ( 25 % ) was recovered when 5 mol % of catalyst was used ( entry 1 ).",
-        "operation": "catalyst"
+        "operation": "treated"
     },
     {
         "sentence": "The benzoyl compound 4d aﬀorded the pyrrole 6d in moderate yield ( entry 3 ).",
@@ -2265,7 +2265,7 @@
     },
     {
         "sentence": "For that purpose , phenolic trimer 3 has been fully methylated in the ﬁrst step to yield trimethoxy derivative 4 , which was subsequently treated with paraformaldehyde , zinc bromide , and hydrogen bromide in acetic acid ( Scheme 2 ).",
-        "operation": "disinfection"
+        "operation": "production"
     },
     {
         "sentence": "To yield the smallest possible cycle during reaction , we used a high dilution apparatus21 applying the principle of Ziegler and Ruggli.22 With this concept , title compounds 1 and 2 were synthesized in moderate to good yields ( 58 % and 18 % , respectively ).",
@@ -2345,7 +2345,7 @@
     },
     {
         "sentence": "23,24 Dehydroamino acid analogue 20 failed to react using the ﬁrst generation of the Grubbs catalyst , but could be converted to dehydroazepinone 21 with the Grubbs second- generation catalyst ( Scheme 4 ).",
-        "operation": "contamination"
+        "operation": "chemical reactions"
     },
     {
         "sentence": "25 In spite of the acid sensitivity of the Dmb group , the Boc group could be selectively removed from macrocycle 9g using 50 % TFA in DCM for 2 h to aﬀord the corresponding amine , which was converted to its Fmoc counterpart 10g using Fmoc-OSu and Na2CO3 ( Scheme 3 ).",
@@ -2365,7 +2365,7 @@
     },
     {
         "sentence": "It was found that diversely substituted 1-bromo-2-(2,2-dibromovinyl)- benzenes 1 reacted smoothly with various aryl aldehydes 2 and aqueous ammonia 3 to give a series of 9H-pyrimido[4,5- b]indoles 5 irrespective of the electronic and steric nature of the substituents ( Table 3 , entries 1 − 21 ) .",
-        "operation": "reactions"
+        "operation": "disinfection"
     },
     {
         "sentence": "To our surprise , the reaction of acetaldehyde with 1a and 3 under condition B aﬀorded 2- methyl-9H-pyrido[2,3-b]indole ( 6a ) rather than the expected 2,4-dimethyl-9H-pyrimido[4,5-b]indole.",
@@ -2389,7 +2389,7 @@
     },
     {
         "sentence": "Finally , oxidative aromatization of XIV gives 5a as the ﬁnal product ( Scheme 3 ) .",
-        "operation": "Oxygen"
+        "operation": "disinfection"
     },
     {
         "sentence": "As for the formation of 6a , it should start with the reaction of 1a with 3 under condition B to give intermediates III , IX , and X sequentially.",
@@ -2401,7 +2401,7 @@
     },
     {
         "sentence": "Finally , oxidative dehydro- genation of XVIII aﬀords 6a ( Scheme 4 ).",
-        "operation": "maintenance"
+        "operation": "maintenance of oxidative dehydro- genation"
     },
     {
         "sentence": "Second , III was treated with 2a and 3 under condition B to give 5a in 68 % yield ( Scheme 6 ).",
@@ -2425,7 +2425,7 @@
     },
     {
         "sentence": "When 2,6-lutidine was absent , aniline 4 was formed as the major product ( entry 2 ) , likely the result of reduction of the PFAA by thioacetic acid .",
-        "operation": "mitochondrial function"
+        "operation": "production"
     },
     {
         "sentence": "If thioacetic acid was ﬁrst treated with TBAOH and the isolated TBA - thioacetate salt ( 5 ) was added to PFAA 1 , amide product 3 was obtained in quantitative yield without any aniline byproduct ( Scheme 2 ).",
@@ -2433,7 +2433,7 @@
     },
     {
         "sentence": "As shown in Table 3 , the reactions in water ( entry 1 ) or in pH 7.4 buﬀer ( entry 3 ) were completed within 2 h to give amide 7 in > 90 % yield.",
-        "operation": "reactions"
+        "operation": "yield"
     },
     {
         "sentence": "For example , oxododecano-ate 17a was quantitatively converted into dodecan-4-olide 17b ( 84 % ee , entry 16 ) , which is a small natural product involved in many biological processes ( Figure 1 ).",
@@ -2441,7 +2441,7 @@
     },
     {
         "sentence": "Hexyl 5-oxohexanoate ( 27a ) was reduced to 27b with 91 % ee ( entry 9 ) , which can be hydrolyzed to chiral 5-hydroxy-1-hexanol as an intermediate of receptor antagonists.16a Terminal branched angiotensin II\nThe Suzuki − Miyaura coupling of a 2-bromo- aniline ( 1a − c ) and a 3-dialkylaminophenylboronic acid ( 2a − c ) furnished a biphenyl ( 3a − e ) , catalyzed by Pd(PPh3)4 diazotization of which with NaNO2 in acidic aqueous medium at 0 ° C generated the corresponding benzo[c]cinnoline derivative ( 4a − e ).",
-        "operation": "hydrolysis"
+        "operation": "Hydrolysis"
     },
     {
         "sentence": "Thus , 5-arylidenehydantoin derivatives 1 − 5 were synthesized from the condensation of hydantoin and diﬀerent aromatic aldehydes in an acetic acid / ammonium acetate mixture in good yields ( 70 − 80 % , see Supporting Information for synthetic details ) according to a previously reported method.48 The disubstituted 1,3-dimethyl-5-arylide- nehydantoins 6 − 11 were obtained in two diﬀerent ways.",
@@ -2481,7 +2481,7 @@
     },
     {
         "sentence": "The eﬀectiveness of the boronato − phosphonium derivatives 4 in peptide coupling was demonstrated by reaction of the amino derivative 4g with the benzyl-β-pentaﬂuorophenate L-aspartate 12 , leading to the corresponding dipeptide 13 in 61 % yield.",
-        "operation": "interaction of boronato  phosphonium derivatives 4"
+        "operation": "interaction of the boronato  phosphonium derivatives 4"
     },
     {
         "sentence": "In addition , the reaction of the boronato − phosphonium amino acid and peptide derivatives 4a − f and 13 with ﬂuoride cleanly aﬀords the corresponding triﬂuoroborates 5a − f and 14 in approximately 1 h in isolated yields up to 90 % , without signiﬁcant degradation by hydrolysis in a phosphate buﬀer pH 7.",
@@ -2525,7 +2525,7 @@
     },
     {
         "sentence": "· Treatment of 12 with thiophenol in the presence of BF3 OEt2 gave 13 as a pure β-anomer.",
-        "operation": "mitochondrial"
+        "operation": "disinfection"
     },
     {
         "sentence": "Glycosylation of 4 using 14 in the presence of NIS and TMSOTf , followed by deacetylation , gave compound 15.",
@@ -2537,7 +2537,7 @@
     },
     {
         "sentence": "with thiophenol Deacetylation followed by benzylation gave 20.",
-        "operation": "mitochondrial function"
+        "operation": "disinfection"
     },
     {
         "sentence": "Glycosylation of 23 with the known phenylthio donors 24a16 and 24b17 gave the compounds 25a\nThe preparation of FG12 and FG13 started with selective benzylation of 2218 aﬀording a mixture of regioisomers ( 27a and 27b ) ( Scheme 6 ).",
@@ -2545,7 +2545,7 @@
     },
     {
         "sentence": "Alkylation of the free hydroxyl group in each regioisomer , the cyclo- hexylidene protecting group , gave compounds 28a and 28b as an inseparable mixture.",
-        "operation": "binding"
+        "operation": "disinfection"
     },
     {
         "sentence": "Glycosylation of 28a and 28b with the donor 24a aﬀorded 29a and 29b , which upon Staudinger reduction , hydrogenolysis , and ion exchange gave a mixture of FG12 and FG13 .",
@@ -2569,7 +2569,7 @@
     },
     {
         "sentence": "The reaction using silver acetate and iodine in DCE provided 2a in modest yield ( 58 % , entry 2 ) with a signiﬁcant amount of benzil ( 3 ) also identiﬁed from over oxidation.",
-        "operation": "maintenance"
+        "operation": "maintenance of oxidation"
     },
     {
         "sentence": "The use of iodobenzene diacetate and iodine to generate the reactive iodine monoacetate led to the formation of 2a in excellent yield of 82 % with the trans-isomer formed as the major product ( Table 1 , entry 3 ).",
@@ -2577,7 +2577,7 @@
     },
     {
         "sentence": "the inclusion of 4Å molecular sieves suppressed the side reaction , the oxidation of diphenylacetylene to 3 ( entry 5 ).",
-        "operation": "inhibited side reaction"
+        "operation": "suppressed side reaction"
     },
     {
         "sentence": "For the iodoacetoxylation of the ynamide derivative 4a , at elevated temperatures the thermodynamic pathway was favored leading to formation of a higher portion of the cis-isomer 5a′ ; however , at 0 ° C the kinetic pathway predominates to aﬀord almost exclusively the trans-isomer 5a.",
@@ -2589,7 +2589,7 @@
     },
     {
         "sentence": "The iodoacetoxylation of 1f was then conducted at − 20 ° C to observe if the kinetic pathway to form the trans- isomer could be favored ; however , the cis-isomer of 2f was again isolated as the major product ( 86 % yield , E / Z = 1 : 12 ).",
-        "operation": "interaction"
+        "operation": "yield"
     },
     {
         "sentence": "To further highlight the value of the products obtained using the method described herein , vinyl iodide 2a was subjected to Suzuki cross-coupling with 3,5-dimethylphenyl boronic acid to aﬀord tetrasubstituted alkene 6 which was subsequently\nFor example , using 1a and 2a as coupling partners gave the desired vicinal diamine 3a in 80 % yield with 10 : 1 dr after quenching with 1 N HCl ( Scheme 2 ; only the major diamine diastereomer is shown in eq 1 ).",
@@ -2597,7 +2597,7 @@
     },
     {
         "sentence": "Overwhelming desilylation was also observed when KHMDS and 2a were added stepwise to the THF solution of 1a , which failed to give any 1,2-diamine 3a ( eq 2 ).",
-        "operation": "contamination"
+        "operation": "Desilylation"
     },
     {
         "sentence": "To conﬁrm that migration actually occurred , we quenched the reaction with aqueous NaHCO3 rather than 1 N HCl solution and obtained the N-silyl diamine 4a ( eq 1 ).",
@@ -2649,7 +2649,7 @@
     },
     {
         "sentence": "The best chiral discrimination was observed with cyclo- hexylmethyl thioether , producing sulﬁlimine 26 in 92 % yield\nIn the absence of an additive , in isopropyl acetate , sulﬁlimine 3 was isolated in 85 % yield and 75 : 25 dr ( Table 3 , entry 1 ).",
-        "operation": "isolated"
+        "operation": "production"
     },
     {
         "sentence": "Conversely , Rh2(cap)4 ( E1 / 2 = 11 mV , quasi-reversible ) produced sulﬁlimine 3 in good yields , albeit with no selectivity ( entry 3 ).",
@@ -2697,7 +2697,7 @@
     },
     {
         "sentence": "In the case of 2,5-disubstituted quinones ( R4 ≠ H ) , the addition product ( 3′ ) was formed by mixing equimolar amounts of the reaction components ( Scheme 1 ) .",
-        "operation": "interaction"
+        "operation": "interaction of the reaction components"
     },
     {
         "sentence": "Benzoquinone 1a ( BQ ) reacted readily with cinnamylboro- nate 2a to give BQ - derivative 3a with high yield and excellent regio- and stereoselectivity ( Table 1 ).",
@@ -2729,7 +2729,7 @@
     },
     {
         "sentence": "Reaction of 1.5 g ( 10 mmol ) of benzoylformic acid with 2.0 equiv cinnamic acid ( 2a ) under the standard reaction conditions generated 1 ( 1.29 g ) in 62 % yield ( Scheme 3 ) .",
-        "operation": "reactions"
+        "operation": "reaction"
     },
     {
         "sentence": "First , when the radical scavenger 2,2,6,6-tetramethyl-1-piperidinyloxy ( TEMPO ) was added to the reaction mixture , only a trace amount of 1 was observed by GC-MS ( Scheme 4a ) , whereas in the presence of hydroquinone the reaction was completely inhibited and the corresponding radical adducts were detected by GC-MS ( Scheme 4b ; for details , see the Supporting Information ).",
@@ -2777,11 +2777,11 @@
     },
     {
         "sentence": "We were pleased to ﬁnd that the optimized reaction conditions used for indole substrates also worked well for oxindole 6a and produced the spirooxindole 7a in 83 % yield , although requiring a signiﬁcantly longer reaction time ( Table 1 , entry 1 ).",
-        "operation": "enzymes"
+        "operation": "production of spirooxindole"
     },
     {
         "sentence": "Interestingly , when EtOH was used as the solvent , only the compound 2-(1-ethoxy-3- phenylprop-2-yn-1-yl)phenol was isolated in 92 % yield ( Table 1 , entry 15 ).",
-        "operation": "disinfection"
+        "operation": "isolated"
     },
     {
         "sentence": "As expected , the desired product 2-(3-oxo-1-phenylbutyl)phenyl acetate was obtained in 80 % yield .",
@@ -2797,11 +2797,11 @@
     },
     {
         "sentence": "cis-Hydroxyproline 12 was synthesized from 6.",
-        "operation": "synthesized"
+        "operation": "synthesized from 6."
     },
     {
         "sentence": "The product 28 was obtained in almost quantitative yield and 70 % ee.",
-        "operation": "quantitative"
+        "operation": "yield"
     },
     {
         "sentence": "ABSTRACT : Tetrahydro[60]fullerene epoxides C60(O)- Arn(NR2)4−n , n = 1 , 2 , have been prepared by treating 1,4- adducts C60(OH)Ph and C60(Tol)2 with cyclic secondary amines.",
@@ -2825,7 +2825,7 @@
     },
     {
         "sentence": "in ODEs ( 1 ) participates in an Ullmann coupling reaction with 3-(2-bromoaryl)-1H-pyrazoles ( 2 ) providing benzo[e]pyrazolo- [1,5-c][1,3] thiazines ( 3 ).",
-        "operation": "interaction"
+        "operation": "participate in Ullmann coupling reaction"
     },
     {
         "sentence": "In mode B , the coupling reactions occur in the methylene of ODEs ( 1 ) , providing pyrazolo[5,1- a]isoquinolines ( 3′ ) through a Hurtley coupling reaction.26c Under our reaction conditions only 3 were obtained exclusively , and 3′ were not observed , which suggested that our protocol shows high chemoselectivity .",
@@ -2837,7 +2837,7 @@
     },
     {
         "sentence": "Initially a reaction between substrate β-oxodithioest- ers 1 and CuI would occur to give complex I , which undergoes an oxidative addition reaction with 2 to yield Cu(III) intermediate A.",
-        "operation": "interaction"
+        "operation": "yield Cu(III) intermediate A"
     },
     {
         "sentence": "Mechanistically , the reaction proceeds via initial oxidation of naphthalene to o-quinone , which undergoes cleavage to the corresponding o-carboxyarylacrylic acid.",
@@ -2909,11 +2909,11 @@
     },
     {
         "sentence": "The intermediate C is then oxidized by [fac-Ir(IV)(ppy)3]+ to form the cyclo- hexadienyl cation D and regenerates [fac-Ir(III)(ppy)3].",
-        "operation": "mitochondrial DNA"
+        "operation": "regenerates [fac-Ir(IV)(ppy)3]+"
     },
     {
         "sentence": "Finally , with 6.0 equiv of MnO2 and a prolonged reaction period ( 90 min ) , we obtained 2a in 61 % GC yield ( entry 8 ).",
-        "operation": "mitochondrial function"
+        "operation": "fabrication"
     },
     {
         "sentence": "10 For phenyl- methanesulfonyl chloride ( 1b ) with a weakly electron-with- drawing α-phenyl group , the reaction produced exclusively [2s+2i] annuladducts cis- and trans-β-sultams 3ba diastereose- lectively , with cis-isomer in 39 % yield and trans-isomer in 29 % ( Table 1 , entry 5 ).",
@@ -2937,7 +2937,7 @@
     },
     {
         "sentence": "The generated intermediate D exclusively undergoes a Mannich - type nucleophilic addition of another molecule of imine 5 ( intermolecularly nucleophilic addition ) to form intermediate E , which further undergoes an intramolecular nucleophilic addition to produce [2s+2i+2i] annuladduct 6a.",
-        "operation": "mitochondrial"
+        "operation": "exchange"
     },
     {
         "sentence": "Next , we hydrolyzed the diastereoisomerically pure complex (S,S)-3a under acidic conditions and obtained(S)-phenylglycine (S)-4a in 90 % yield and > 99 % ee ( Scheme 2 ).",
@@ -2945,7 +2945,7 @@
     },
     {
         "sentence": "Reaction of the known thiazole 410 with a 2-fold molar excess11 of organolithium species 58 aﬀorded 2 in 74 % yield.",
-        "operation": "metabolism"
+        "operation": "reproduction"
     },
     {
         "sentence": "Crude 11 thus obtained was immediately oxidized to 3 ( MnO2 ) , a delicate substance ( oil ) which was partially puriﬁed by rapid elution through deactivated ( Et3N ) silica gel , in order to contain losses to an acceptable level.17\nThe Hantzsch - type conditions developed earlier7,8 for the assembly of pyridines lacking the 3-OH functionality proved to be inadequate for the conversion of 12 into 13.",
@@ -2953,7 +2953,7 @@
     },
     {
         "sentence": "However , pyridine 13 emerged in 28 % yield from 2 and 3 over 2 steps , after chromatography , upon slow addition ( 3 h , syringe pump ) of a solution of crude 12 in a 4 : 1 mixture of 2,2,2- triﬂuoroethanol and acetic acid into a solution of NH4OAc ( 12.5 equiv ) and PPTS18 ( 1 equiv ) in the same solvent system , maintained 60 ° C under an O2 atmosphere ( balloon ) , followed by stirring for 14 h at 60 ° C.",
-        "operation": "Krebs"
+        "operation": "Krebs cycle"
     },
     {
         "sentence": "To our delight , the desired spirocyclic product 3d could be obtained in 19 % yield .",
@@ -2961,7 +2961,7 @@
     },
     {
         "sentence": "With substrates 1d − h , which contain electron - rich groups such as tert-butyl , methoxy , methyl , isopropyl , and cyclohexyl at the 4-position of the phenolic ring , the envisioned spirocyclic enones 3d − h were obtained in 55 − 71 % yields.",
-        "operation": "enzymes"
+        "operation": "yields"
     },
     {
         "sentence": "Noteworthy , the substrate with an ortho- substituent ( ﬂuoro ) ( 1w ) , which was totally inactive studies,8,12 could undergo the desired in the previous spiroannulation to give compound 3w in 44 % yield .",
@@ -2989,15 +2989,15 @@
     },
     {
         "sentence": "However , attempts to perform the catalytic hydro- genation of 4 only led to reduction of the bromide to yield O- acetylated mandelonitrile .",
-        "operation": "catalyst"
+        "operation": "production of O-acetylated mandelonitrile"
     },
     {
         "sentence": "The synthesis started with the minor enantiomer recycling with 3- chlorobenzaldehyde and acyl cyanide 8 , prepared from CuCN and bromoacetyl bromide ( Scheme 6 ).",
-        "operation": "preparation"
+        "operation": "Recycling"
     },
     {
         "sentence": "Two - step hydrolysis of compound 7aa gave the amino acid 9a.",
-        "operation": "digestion"
+        "operation": "hydrolysis"
     },
     {
         "sentence": "Rh - catalyzed insertion reactions of 8 with ethyl diazoacetate and trimethylsilyl diazomethane provided products 9 and 10 in 36 % and 15 % yields , respectively , after puriﬁcation by ﬂash chromatography.",
@@ -3013,11 +3013,11 @@
     },
     {
         "sentence": "The use of CsF as ﬂuoride source and acetonitrile as solvent at 30 ° C turned out to be the best conditions , aﬀording the desired product 3aa in 64 % yield ( Table 1 ).",
-        "operation": "contaminants"
+        "operation": "disinfection"
     },
     {
         "sentence": "Two aryl moieties seem to be crucial for a successful reaction since cyclopropenones with one or two aliphatic moieties , such as methylphenylcyclopropenone or bis(tert- butyl)cyclopropenone , showed no conversion to 3al and 3am , irrespective of varying reaction times and temperatures , despite full consumption of the starting materials.",
-        "operation": "reaction"
+        "operation": "melting"
     },
     {
         "sentence": "The required chalcone derivative 9 was synthesized from commercially available acetophenone derivative 11 in 4 steps.",
@@ -3025,7 +3025,7 @@
     },
     {
         "sentence": "Thus , 11 was converted to α,β unsaturated ketone derivative 12 in 3 steps by a known protocol,8 followed by reduction of the double bond of 12 by 5 % Pd / C , under a hydrogen atmosphere to aﬀord the required dihydrochalcone 9 in 96 % yield ( Scheme 2 ).",
-        "operation": "catalyst"
+        "operation": "fabrication"
     },
     {
         "sentence": "The piperetol ( 10 ) was obtained by reduction of the keto group of (−)-piperitone using Luche reduction.9 With required fragments in hand , the stage was set to investigate the key Friedel − Crafts coupling reaction.",
@@ -3073,7 +3073,7 @@
     },
     {
         "sentence": "The resulting inter- mediate oxonium ion 38 , however , would develop a signiﬁcant fraction of the ring strain inherent in the trans-bicyclo[3.3.0]- octane system ( > 15 kcal / mol ).",
-        "operation": "transmission"
+        "operation": "infection"
     },
     {
         "sentence": "The nitrone 1 prepared from D-xylose42 reacted with allyl Grignard reagent to aﬀord only a single diastereomer 2 ( dr > 95 ).",
@@ -3089,7 +3089,7 @@
     },
     {
         "sentence": "The synthesis of 16 commenced with a stereoselective nucleophilic addition of Grignard reagent to nitrone 1 to aﬀord the hydroxylamine 11 in high yield ( Scheme 3 ) ; 11 was oxidized with activated MnO2 directly without isolation.",
-        "operation": "mitochondrial"
+        "operation": "Oxygen"
     },
     {
         "sentence": "After conversion of the acetal 12 to aldehyde 14 , the intramolecular 31,32,49,50 was reductive coupling reaction promoted by SmI2 attempted ; hydroxylamine 15 was obtained as the single diastereomer.",
@@ -3113,7 +3113,7 @@
     },
     {
         "sentence": "A steric bulk presented by the acetonide moiety enabled the mono protection of 10 at C1 hydroxy with TBSCl in CH2Cl2 in the presence of triethylamine to aﬀord TBS ether 11 in 78 % yield.",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "Subsequently , the other hydroxyl group was transformed to thionocarbonate 12 with excess phenyl chlorothionoformate and pyridine in DCM.",
@@ -3121,7 +3121,7 @@
     },
     {
         "sentence": "Radical ring closure of the cyclic radical generating an alkene or alkyne is known to aﬀord fused systems11 and is applied in the predominantly cis synthesis of carbasugars.10 Accordingly , when acetylenethiono- carbonate 12 was treated with Bu3SnH and AIBN as a radical initiator in cyclopentyl methyl ether,8 deoxygenative radical cyclization produced exo-methylene cyclohexane 7 in 91 % yield with excellent diastereoselectivity ( cis : trans , 14 : 1 ).",
-        "operation": "Krebs"
+        "operation": "production of exo-methylene cyclohexane"
     },
     {
         "sentence": "For this purpose , chemoselective deprotection of the six- membered isopropylidene group of 7 was achieved using pyridinium p-toluenesulfonate ( PPTS ) in MeOH to aﬀord diol 13 ( 81 % yield ).",
@@ -3129,11 +3129,11 @@
     },
     {
         "sentence": "The primary hydroxyl group was transformed to iodo 6 through selective tosylation , followed by iodination with NaI in acetone.",
-        "operation": "selective tosylation"
+        "operation": "transformation"
     },
     {
         "sentence": "Subsequently , the secondary hydroxyl group was protected using MOM ether to provide an iodo precursor ( 6 ) in 76 % yield over three steps.",
-        "operation": "secondary hydroxyl group"
+        "operation": "maintenance of iodo"
     },
     {
         "sentence": "To accomplish the crucial coupling of 6 and polyenic vinyl iodide 14,12 we decided to use the Marshall protocol13 for a Suzuki − Miyaura cross- coupling,14 which provided the desired coupling product 15 in 90 % yield ( Scheme 3 ) .",
@@ -3141,7 +3141,7 @@
     },
     {
         "sentence": "THF and the oxidation of the resultant alcohol with Dess− Martin periodinane provided the requisite enone 5 in 80 % yield.",
-        "operation": "maintenance of the environment"
+        "operation": "fabrication"
     },
     {
         "sentence": "Deprotection of the cyclic acetonide was performed using CeCl3 and oxalic acid in acetonitrile18 to aﬀord the diol intermediate , which was later dimethylated with a Purdie reagent ( Ag2O , MeI ) to provide a keto compound7b 16 in a 67 % yield over three steps.",
@@ -3153,15 +3153,15 @@
     },
     {
         "sentence": "Single crystals of 8 were obtained by −dimethylacetamide slow evaporation of ( DMA ) solution of the compound.",
-        "operation": "transmission"
+        "operation": "Slow evaporation"
     },
     {
         "sentence": "This was then treated with lauryl bromide to give the corresponding 1-hydroxy 2- alkyne 1520 in 70 % yield.",
-        "operation": "injection"
+        "operation": "disinfect"
     },
     {
         "sentence": "Treatment of this acetylenic alcohol with 6.5 equiv of potassium 3-aminopropylamide ( KAPA ) in 3- aminopropylamine in the acetylenic zipper reaction21 gave the required terminal alkyne 16 in 80 % yield and the resulting primary alcohol was then protected as a TBDPS ether to give 11 in 83 % yield.",
-        "operation": "Krebs"
+        "operation": "disinfection"
     },
     {
         "sentence": "guanidino-3-hydroxypentadecanoyl ( GHPD ) side chain.15 ·OEt2 promoted alkylation of terminal alkyne 11 Brieﬂy , BF3 with the chiral epoxide (S)-10 gave the secondary alcohol (R)- 17 in 63 % yield.",
@@ -3273,7 +3273,15 @@
     },
     {
         "sentence": "Trichoaurantiolide D ( 4 ) was obtained from synthetic 3 by acetylation [ Ac2O , DMAP , CH2Cl2 ( 80 % )].",
-        "operation": "metabolism"
+        "operation": "obtained from synthetic 3 by acetylation [Ac2O "
+    },
+    {
+        "sentence": "Trichoaurantiolide D ( 4 ) was obtained from synthetic 3 by acetylation [ Ac2O , DMAP , CH2Cl2 ( 80 % )].",
+        "operation": "DMAP "
+    },
+    {
+        "sentence": "Trichoaurantiolide D ( 4 ) was obtained from synthetic 3 by acetylation [ Ac2O , DMAP , CH2Cl2 ( 80 % )].",
+        "operation": "CH2Cl2 ( 80 % )]"
     },
     {
         "sentence": "Trichoaur- antianolide C ( 3 ) was obtained in 21 steps from the known allylic acetate 21 , and these eﬀorts conﬁrm the original assignment of absolute conﬁguration by the groups of Steglich and Vidari.",
@@ -3285,7 +3293,7 @@
     },
     {
         "sentence": "Thus , two structurally attractive products 3ac′ and 3an′ , both of which contain two 3(2H)-\nSatisfactorily , both acetonitrile ( 2t ) and pentanenitrile ( 2u ) entered the reaction smoothly , furnishing the desired products 3as and 3at in good yields , although higher temperatures are required in these cases.",
-        "operation": "reaction"
+        "operation": "yields"
     },
     {
         "sentence": "However , a 2,2,4- trisubstituted 3(2H)-furanone derivative , 2,2-dimethyl-4-(pyr- idin-2-yl)furan-3(2H)-one ( 3av ) , was isolated in 85 % yield.",
@@ -3329,7 +3337,7 @@
     },
     {
         "sentence": "Finally , the nitrile substrates 1b and 1c were examined with 4-methoxyacetophenone ( 2c ) and 4-triﬂuoromethylaceto- phenone ( 2g ) separately to aﬀord the desired products 3c and 3g in low to moderate yields ( entries 5 − 8 , 47 % − 55 % ).",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "The nucleophilic substitution reaction of 1a with acetophenone under basic conditions could occur via an addition − elimination route to produce intermediate 5 ( SNAr ).",
@@ -3349,7 +3357,7 @@
     },
     {
         "sentence": "Addition of complex I to C60 produces fullerenyl radical II , which can undergo coordination with another molecule of Fe(ClO4)3 to form Fe(III) complex III , followed by intramolecular cyclization with the loss of an Fe(II) species to aﬀord fullerene - fused dioxanes / dioxepanes 2.",
-        "operation": "mitochondrial DNA"
+        "operation": "coordination"
     },
     {
         "sentence": "For the reaction of C60 with diethylene glycol , triethylene glycol , and tripropylene glycol , the ﬁrst two steps are the same as those for fullerene - fused dioxanes / dioxepanes 2 to generate fullerene radical II , which can undergo protonation of the oxygen atom from the ether group to form fullerene radical cation IV.",
@@ -3381,7 +3389,7 @@
     },
     {
         "sentence": "Subsequently , Crossley et al.13 have also shown that the reaction of free - base porphyrins with 4.3 equiv of NBS in boiling ethanol - free chloroform aﬀorded the 7,8,17,18-tetra- bromo-substituted porphyrin rather than the misassigned 2,7,12,17-tetrabromo isomer as previously proposed by Callot.20,21 Moreover , Smith et al.36 have described a further attractive synthetic approach to drive a dibromination of porphyrins regiospeciﬁcally on C2 and C3 pyrrolic positions.",
-        "operation": "reaction"
+        "operation": "catalyst"
     },
     {
         "sentence": "The β-disubstituted porphyrinic regioisomer 3 , obtained as a major component by the light - induced procedure i , after chromatographic puriﬁcation successfully reacted overnight in a 1,2-dichloroethane reﬂuxing solution , with Nickel(II) acetyla- cetonate ( Ni(acac)2 ) giving quantitatively the pure NiII- porphyrinate Ni-3 , as shown in Scheme 2.",
@@ -3401,7 +3409,7 @@
     },
     {
         "sentence": "Arylmethyl azide with mildly electron - withdrawing group , p- substituent ( 1e ) furnished the corresponding 3- phenyl bromoquinoline in good yield ( 75 % , entry 5 ).",
-        "operation": "reproduction"
+        "operation": "maintenance of phosphate"
     },
     {
         "sentence": "chlorophenylmethyl azides ( entries 6 and 8 ) also proceeded well under these conditions and furnished the desired products in good yields ( 65 % and 62 % , respectively ) , whereas m- chlorophenylmethyl azide ( entry 7 ) aﬀorded the separable regioisomeric products ( 3g-1 and 3g-2 ) in lower combined yields ( 44 % ).",
@@ -3429,7 +3437,7 @@
     },
     {
         "sentence": "Removal of the N-tert-butylsulﬁnyl group from 9 ( > 99 : 1 dr ) by treatment with HCl ( 1.25 M in MeOH)9 resulted in the formation of 13 , and subsequent treatment of 13 with racemic tert-butylsulﬁnyl chloride ( 1.0 equiv ) led to the formation of an ∼ 50 : 50 mixture of 9 and ent-11.",
-        "operation": "removal"
+        "operation": "Removal of the N-tert-butylsulfinyl group from 9 ( > 99 : 1 dr ) by treatment with HCl ( 1.25 M in MeOH)9 resulted"
     },
     {
         "sentence": "Similarly , 10 ( 98 : 2 dr ) was treated with HCl ( 1.25 M in MeOH)9 to furnish 14.",
@@ -3473,11 +3481,11 @@
     },
     {
         "sentence": "The optically active (S)-ibuprofen was successfully and mildly coupled with (R)-α-methylbenzylamine providing the corresponding amide 15b as a single diastereomer with no epimerization ( see Supporting Information ) .",
-        "operation": "interaction"
+        "operation": "interaction with (S)-ibuprofen"
     },
     {
         "sentence": "Surprisingly , 4- iodobenzoic acid required a speciﬁc solvent switch to toluene to deliver 31 with a moderate 34 % yield after optimization.",
-        "operation": "maintenance"
+        "operation": "maintenance of a chemical composition"
     },
     {
         "sentence": "Finally , α-hydroxyacid required a higher temperature and aﬀorded 32 in 99 % yield at 65 ° C in dichloroethane .",
@@ -3513,7 +3521,7 @@
     },
     {
         "sentence": "Monitoring the reaction in toluene , we observed the presence of equilibrium between the open and closed forms , lactol 15 and hydroxy aldehyde 27 , in favor of the closed form 15 ( 15 : 27 ratio 3 : 1 ) as shown in Scheme 6.",
-        "operation": "reaction"
+        "operation": "interaction"
     },
     {
         "sentence": "Alternatively , reaction of intermediate 3 or the derived aminol with a second equivalent of formaldehyde could also occur leading to formation of 31.",
@@ -3533,7 +3541,7 @@
     },
     {
         "sentence": "We were pleased to observe that , with just our ﬁrst attempt , the substrate (Z)-1a was converted to the desired 2,3,5-trienoate product 2aa , which is exclusively in (E)-conﬁguration , and carries a hydroxyl group on the allylic position , almost quantitatively under very mild reaction conditions ; the conversion was complete within just 1 h , when the reaction was performed in the presence of a −CHCl3 ( 0.5 mol % Pd ) and PPh3 ( 2 mol % ) Pd2dba3 combination in MeOH , and under balloon pressure of CO at 25 ° C ( Table 1 , entry 1 ).",
-        "operation": "condensation"
+        "operation": "Transmission"
     },
     {
         "sentence": "The corresponding vinylallene product 2ba was in 96 % yield with a good diastereomeric ratio ( 92 : 8 ) when PPh3 was used as the ligand ( Table 2 , entry 1 ).",
@@ -3557,15 +3565,15 @@
     },
     {
         "sentence": "8 For instance , when (Z)-1m , which contains a terminal alkynyl moiety , was subjected to the methoxycarbo- the product 2ma was obtained with only 88 : 12 nylation , dr.",
-        "operation": "mitochondrial function"
+        "operation": "disinfection"
     },
     {
         "sentence": "Nevertheless , the substrate (Z)-1o ( R1 = t-Bu ) aﬀorded the expected product 2oa in an excellent level of selectivity ( 97 : 3 dr ).",
-        "operation": "substrate (Z)-1o ( R1 = t-Bu ) afforded the expected product 2oa in an excellent level of selectivity ( 97 : 3 dr )."
+        "operation": "fabrication"
     },
     {
         "sentence": "The enyne oxirane (Z)-1s with a phenyl substituent at alkynyl terminus yielded the product 2sa with 88 : 12 dr ( entry 20 ) , and the substrate 1t having an endocyclic double bond also successfully underwent methoxycarbonylation to generate an exocyclic conjugated vinylallene structure 2ta with a relatively lower but synthetically still useful dr ( Scheme 4 ) .",
-        "operation": "enzymes"
+        "operation": "yield"
     },
     {
         "sentence": "The mechanisms illustrated in Scheme 5 are proposed to account for the stereoselective formation of 2 and 2′.9 The reaction cycle should begin with ring - opening by the attack of a palladium complex to both (Z)-1 and (E)-1 in anti-mode,10 leading to the formation of π-allylpalladium complexes A and A′ , respectively,10d,11 Given the formation of vinylallenes exclu- sively in (E)-conﬁguration for both intermediates ( A and A′ ) , the alkanolate group ( CHR3O− ) on the planar allyl ligand should be oriented syn with respect to the middle allylic C − H.",
@@ -3585,7 +3593,7 @@
     },
     {
         "sentence": "Using asymmetric (S)-Me-CBS - catalyzed reduction , 2a and its analogues could be prepared in excellent ee values and good yields ; conﬁgurations were also conﬁrmed according to the literature.12 Fortunately , when 2b and 3a were heated in the presence of 5 mol % CuI and 5 mol % PPh3 , desired product 4a formed in more than 97 % ee , > 20 : 1 dr ratio , and 90 % yield after a 24 h reaction ( Scheme 1 ).",
-        "operation": "catalyst"
+        "operation": "melting"
     },
     {
         "sentence": "was found in the reaction of 2a with 5a , which gave 6a in more than 99 % ee , > 20 : 1 dr ratio , and 77 % yield ( Scheme 1 ).",
@@ -3593,7 +3601,7 @@
     },
     {
         "sentence": "Using compound (±)-9a with a protected hydroxyl group as the substrate , a reaction with compound 5b generated spiroketal 6v in very low yield ( 5 % ).",
-        "operation": "protecting hydroxyl group"
+        "operation": "production"
     },
     {
         "sentence": "Similar the CuI - catalyzed hydro- alkoxylation formed exocyclic enol ether 7a , which was subsequently captured by 3a or 8a to form the spiroketal 4d or 6a.16 Because of the high syn conﬁguration diastereose- lectivity obtained , we propose that the reaction should proceed through transition state I or II ( Scheme 4 ).",
@@ -3613,7 +3621,7 @@
     },
     {
         "sentence": "reaction of phosphoramidic acid 8 with uronium - based coupling agents leads to initial formation of uronium ester 12.",
-        "operation": "interaction of phosphoramidic acid 8 with uronium - based coupling agents"
+        "operation": "interaction of uronium ester"
     },
     {
         "sentence": "After 48 h , the presence of excess BF3 the reaction was quenched with 2N NaOH , aﬀording a mixture of “ quasi enantiomers ” 5 and 6 ( 67 : 33 5a / 6a , 80 % ; 50 : 50 5b / 1H NMR and HPLC analyses ).",
@@ -3641,19 +3649,19 @@
     },
     {
         "sentence": "The benzyl group of the ester function was removed by hydrogenolysis ( Pd / C , MeOH , 25 ° C , 24 h ) to give acid 9 ( 90 % , Scheme 3 ).",
-        "operation": "Oxygen"
+        "operation": "remove the benzyl group"
     },
     {
         "sentence": "Any attempt to directly synthesize compound 10 from 5a and H2N-L-Ala-Aib-L-Ala- CONHMe tripeptide failed , probably because of the steric hindrance on the carboxylic function of 7 .",
-        "operation": "Krebs cycle"
+        "operation": "fabrication"
     },
     {
         "sentence": "To acquire the necessary quantity of scaﬀold 5a for the peptide synthesis optimization , the reaction between ketone 1 and azide 2a was scaled up to 11 g of 1 , yielding 5a in 47 % yield\nWe ﬁrst used enynone 1a bearing a p-nitrophenyl group and p- anisidine ( 2a ) to optimize reaction conditions , and an excellent result was obtained immediately : corresponding enamine 3aa was isolated in nearly quantitative yield after an equimolar mixture of initial compounds was stirred in ethanol for 1 h at room temperature ( Table 1 ).",
-        "operation": "catalyst"
+        "operation": "stabilize the reaction"
     },
     {
         "sentence": "Even in the presence of excess amine the only isolated product was the corresponding enamine 3aa , and no products of addition to the carbonyl group or triple bond were observed.",
-        "operation": "contamination"
+        "operation": "presence of excess amine"
     },
     {
         "sentence": "p-Fluoroaniline ( 2d ) provided high yield of pyrrolinone 4ad , and even anilines with stronger electron- withdrawing groups [ e.g.",
@@ -3697,7 +3705,7 @@
     },
     {
         "sentence": "This result of hydration might be due to the competitive Rautenstrauch the Au(I) catalyst.16 rearrangement However , the tertiary skipped diyne 7d underwent hydration to give the mono hydration product 8d , albeit in 54 % yield , by controlling the reaction temperature .",
-        "operation": "catalyst"
+        "operation": "controlling the reaction temperature"
     },
     {
         "sentence": "It is worth mentioning here that the hydration of ethyl 4-acetoxy-4-(oxiran-2-yl)-2-alkynoates proceeded smoothly in all cases , forming the corresponding β-keto esters 8ei and 8eii in good to excellent yield without aﬀecting the epoxide functionality.",
@@ -3733,7 +3741,7 @@
     },
     {
         "sentence": "Alcohol 15 was then converted to donor 6 in moderate yield ( 26 % from 15 or 24 % from 13 ) over the trichloroethyl group ( 65 % ) , dichloroacetylation at O-1 and O-3 ( 69 % ) , selective removal of the anomeric chloroacetate [ quantitative ( quant ) ] , and then conversion of the resulting hemiacetal to the trichloroacetimidate donor ( 57 % ).",
-        "operation": "converted to donor"
+        "operation": "transfére"
     },
     {
         "sentence": "Conversion of triol 14 to alcohol 16 was achieved in 98 % yield following the same sequence of steps described above to prepare alcohol 15 from triol 13.",
@@ -3777,11 +3785,11 @@
     },
     {
         "sentence": "Under the same conditions , use of bis-benzyl ether 4b as starting material provided 5b with an even better yield the regioisomer 6b were also ( 92 % ) , although traces of detected ( 5 % ).",
-        "operation": "conducting"
+        "operation": "detected"
     },
     {
         "sentence": "The same reaction , conducted starting from 7b , provided nucleoside 8b with a slightly better yield ( 37 % ).",
-        "operation": "mitochondrial"
+        "operation": "yield"
     },
     {
         "sentence": "suggested that a good yield of 3aa was obtained when the amount of H-phosphonate ( 2a ) increased from 2 equiv to 4 equiv ( entry 22 ).",
@@ -3789,7 +3797,7 @@
     },
     {
         "sentence": "As expected , the TEMPO - trapped compound 5a was observed ( Scheme 3A ).",
-        "operation": "maintenance"
+        "operation": "Explosion"
     },
     {
         "sentence": "The radical nature of these reactions was further conﬁrmed by inclusion of catalytic amounts of inhibitors TEMPO ; product 3aa was formed only to the extent of 24 % ( Scheme 3B ).",
@@ -3797,7 +3805,11 @@
     },
     {
         "sentence": "Then , reduction by H- phosphonate 2 , producing phosphonyl radical I , water and enolate IV.",
-        "operation": "production"
+        "operation": "producing phosphonyl radical I "
+    },
+    {
+        "sentence": "Then , reduction by H- phosphonate 2 , producing phosphonyl radical I , water and enolate IV.",
+        "operation": "water and enolate IV"
     },
     {
         "sentence": "Finally , the enolate IV isomerizes and furnishes 3 .",
@@ -3809,11 +3821,11 @@
     },
     {
         "sentence": "Appel this compound with iodine aﬀorded diiodobenzothiophene 8 in high yield ( 89 % ).",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "Under our recently developed one - pot conditions for TMS group removal and Sonogashira coupling,19 reaction of diiodide 8 with TMS- protected enyne 9a proceeded smoothly and also led to the elimination of HI that gave the desired terminal dioleﬁn 10 in high yield ( 79 % , Scheme 1 ) .",
-        "operation": "separation"
+        "operation": "removal"
     },
     {
         "sentence": "The synthesis of electrophilic cyclization of diacetylene 11 gave the mixture of TMS-substituted ethynyl benzothiophene 12 and the desily- lated derivative 13 in high combined yield ( 90 % ) .",
@@ -3829,7 +3841,7 @@
     },
     {
         "sentence": "Attempted Co-decomplexation from macrocycle 36 was carried out using mild conditions : TBAF in THF , previously −alkyne employed for complexes of some enediynes.51 HRMS data and 1H NMR analysis of the reaction mixture revealed that the triple - bond deprotection gave the desired dienediyne 4.",
-        "operation": "catalyst"
+        "operation": "condensation"
     },
     {
         "sentence": "When the oxidation of cholesteryl acetate ( 1 ) was extended to 2 days , the yield of 5α,6β-diol 2 dropped to 50 % and the more oxidized product , 3β-acetoxy-5α-hydroxycholestan-6-one ( 43 % ) , appeared.",
@@ -3885,7 +3897,7 @@
     },
     {
         "sentence": "When this methodology was applied to ethyl 2,3- butadienoate 10a and enynones ( 11a − c ) , the desired [ 2 + 4 ] annulation products 13aa − ca were obtained in excellent yields and high regioselectivity within 1 h.",
-        "operation": "annulation"
+        "operation": "fabrication"
     },
     {
         "sentence": "In the presence of DABCO , enynal / enynone interacts with intermediate I resulting in II ,\nThus , by using 10 mol % of PPh3 as a catalyst , reaction of ethyl-2,3- butadienoate ( 10a ) with (E)-2-benzylidene-4-phenylbut-3-ynal ( 9a ) provided 14aa and 15aa in a combined yield of 76 % in a 5 : 1 ratio ( Table 4 , entry 1 ).",
@@ -3905,7 +3917,7 @@
     },
     {
         "sentence": "Initially , gold activated the alkyne end of 14aa to generate III ( Scheme 7 ).",
-        "operation": "production"
+        "operation": "activates the alkyne end of 14aa"
     },
     {
         "sentence": "The acceptor moieties were synthesized by reacting 1,4-dibromobenzenze ( 1 ) or 1,3,5-tribromobenzene ( 4 ) with dimesitylboron ﬂuoride ( 2 ) , yielding compounds 3,11 5,12 and 6 ( Scheme 2 ).",
@@ -3929,7 +3941,7 @@
     },
     {
         "sentence": "With the aim of conﬁrming the synthetic procedure relevance and of understanding the need for the indole , we took the 4- (N,N-dimethylamino)phenyl scaﬀold into consideration , as it is a well - known stabilizing group in benzhydrylium ions.9 First , we reacted 4-(N,N-dimethylamino)benzaldehyde ( 1g ) with 1,2- dimethylindole ( 2b ) : tetraﬂuoroborate 3h was isolated in a 97 % yield.",
-        "operation": "treated"
+        "operation": "disinfection"
     },
     {
         "sentence": "The reaction of 4-methoxybenzaldehyde ( 1a ) with 2,5- dimethylpyrrole ( 2c ) under the conditions optimized for indole gave the tetraﬂuoroborate 3i in 70 % yield.",
@@ -3937,7 +3949,7 @@
     },
     {
         "sentence": "Quite unexpectedly , the tetraﬂuoroborate 3k was obtained in a very high yield and purity .",
-        "operation": "sterilization"
+        "operation": "production"
     },
     {
         "sentence": "Only 1d aﬀorded the tetraﬂuoroborate 3l in good yield and purity , whereas 1a was ineﬀective and 1g gave a dark solid , which , by reduction , furnished only traces of diarylmethane .",
@@ -3949,15 +3961,15 @@
     },
     {
         "sentence": "After triethylsilane ( TES ) using BF3 removal of the tert-butyl protecting groups with triﬂuoroacetic acid ( TFA ) , the desired 1,2-trans compound 4 was obtained as a single anomer.",
-        "operation": "separation"
+        "operation": "disinfection"
     },
     {
         "sentence": "Subjection of perbenzylated lyxonolactone 7 to methyl or phenyl lithium did not yield the desired ketofuranoses but only led to furan 14 , as the result of a double β-elimination sequence.",
-        "operation": "mitochondrial"
+        "operation": "yield"
     },
     {
         "sentence": "Reaction of Weinreb amide 15 with methyl or phenyl lithium delivered the open chain ketones 16 and 17 .",
-        "operation": "Krebs"
+        "operation": "delivered"
     },
     {
         "sentence": "Hence , (−)-sclareol was transformed into the hyrtiosanes 5 and 6 ( epimers in C-16 ) , as reported earlier.12 To test our ﬁrst hypothesis , we submitted 5 − 6 to a “ Prins - type\nOxidation of the mixture of 11 − 12 with MnO2 in DCM25 gave diketone 19 , which was the key compound for the synthesis of the natural products.",
@@ -3977,7 +3989,7 @@
     },
     {
         "sentence": "From compound 2 , by acetylation of the hydroxyl group at C-18 , the acetyl derivate 23 was obtained.",
-        "operation": "maintenance of the hydroxyl group"
+        "operation": "maintenance of the lipids"
     },
     {
         "sentence": "Ulterior reduction of 23 with sodium borohydride gave compound 1 in excellent yield ( Scheme 4 ).",
@@ -3989,7 +4001,7 @@
     },
     {
         "sentence": "Finally , we modiﬁed the conditions of Fu and co-workers , who employed the Pd2(dba)3 / P(t-Bu)3 / KF catalytic system,21 by using the Pd[P(t-Bu3)]2 / K3PO4 catalytic system and we obtained target diamine 6 in low yield ( Scheme 1 ) .",
-        "operation": "obtained target diamine 6"
+        "operation": "obtained target diamine 6 in low yield ( Scheme 1 )"
     },
     {
         "sentence": "Here we report a successful application of this reaction to incorporate hydroxyl groups stereoselectively onto the aldehyde 3 to synthesize galacto-DNJ ( 1 ) and altro-DNJ ( 2 ).",
@@ -4025,7 +4037,7 @@
     },
     {
         "sentence": "12a and 12b were converted to the diols 13a and 13b , respectively by cleaving the N − O bond using Cu(OAc)2 .",
-        "operation": "condensation"
+        "operation": "converted to the diols"
     },
     {
         "sentence": "Using a very similar strategy used for the synthesis of 1 and carrying out the initial α-aminoxylation of 3 in the presence of L-proline , we were able to synthesize 1-deoxyaltronojirimycin ( 2 ) in 37 % overall yield ( Scheme 4 ).",
@@ -4037,7 +4049,7 @@
     },
     {
         "sentence": "The diol 7b was converted to 2 using the same sequence of reactions used for the synthesis of 1 from 7a .",
-        "operation": "digestion"
+        "operation": "converted to 2"
     },
     {
         "sentence": "silica bed and was treated with Cu(OAc)2 in EtOH to cleave the N − O bond , and the alcohol 5a was obtained in 69 % overall yield for the three steps.",
@@ -4101,7 +4113,7 @@
     },
     {
         "sentence": "Finally , compound 4 was thought to be derived from diastereoselective allylation of the known pyrrolidine 1 via an acyliminium ion type intermediate.",
-        "operation": "mitochondrial function"
+        "operation": "disinfection"
     },
     {
         "sentence": "11 Introduction of the allyl side chain was achieved using allyl trimethylsilane in the presence of titanium tetrachloride to aﬀord 2.12 The Boc-protecting group was unexpectedly removed during the course of the reaction prior to puriﬁcation.13 In addition , the product mixture proved to be sensitive to puriﬁcation by chromatography on silica gel.",
@@ -4141,7 +4153,7 @@
     },
     {
         "sentence": "Removal of the TBS group with TBAF to give 15 followed by a Mitsunobu reaction with 2-bromo-3-nitrophenol ( 6 ) gave anticipated compound 16.",
-        "operation": "exposure"
+        "operation": "Removal of the TBS group with TBAF to give 15 followed by a Mitsunobu reaction with 2-bromo-3-nitrophenol ( 6 ) gave anticipated compound 16."
     },
     {
         "sentence": "Stille − Kelly reaction of 16 with hexamethylditin in the presence of a catalyst system consisting of bis- (dibenzylidenacetone)-palladium(0)-triphenylphosphine pro- duced desired tricyclic compound 17.",
@@ -4189,7 +4201,7 @@
     },
     {
         "sentence": "The use of FeBr3 as a stronger Lewis acid could complete the subsequent cleavage of the TES group after the formation of 2ha to give 2hb as the sole product ( eq 1 ).",
-        "operation": "mitochondrial"
+        "operation": "production"
     },
     {
         "sentence": "The stability of the TES − Ar bond strongly depended on the characteristic feature of the product , and the FeCl3 - catalyzed reaction of 1b in the presence of N-phenylindole and the 6,7-bismethoxy-4-silyl substituent ( 1c ) with 1,3,5-trimethoxybenzene provided the desilylated products ( 2i and 2j ) ( entries 11 and 13 ) , while the TES group remained during the reaction using benzofuran ( entry 12 ).",
@@ -4201,11 +4213,11 @@
     },
     {
         "sentence": "Although the catalytic use ( 5 mol % ) of triﬂuoroacetic acid ( TFA ) as a Brønsted acid was less eﬀective ( entry 4 ) , the stoichiometric amount ( 1 equiv ) of TFA eﬃciently facilitated the desired reaction to give 5a in 78 % yield ( entry 5 ).",
-        "operation": "catalyst"
+        "operation": "yield"
     },
     {
         "sentence": "Intriguingly , the reaction using triﬂuoroacetic anhydride ( TFAA , 1 equiv ) as a neutral additive also eﬀectively provided 5a in quantitative yield accompanied by the formation of 2-[(triﬂuoromethyl)carbonyl]-1,3,5-trimethoxybenzene ( 9 , 37 % yield ) ( entry 6 ) , which indicated that TFA ( ca.",
-        "operation": "catalyst"
+        "operation": "interaction of aqueous and phosphorylated fatty acid"
     },
     {
         "sentence": "1-Methoxynaphtha- lene , 2-methoxynaphthalene , and N-phenylindole were reacted with 4a to give the corresponding 4-[(hetero)arylmethyl]-1- naphthol derivatives 5b − d ( entries 1 − 3 ) , and the substrate possessing bromines at the 6 and 7 positions ( 4b ) was also applied to provide the 6,7-dibromo-1-naphthol derivative ( 5e ) ( entry 4 ).",
@@ -4217,7 +4229,7 @@
     },
     {
         "sentence": "The subsequent rearrangement of the siloxymethyl group to the 2-position ( C → D ) and the aromatization provides a 2-(siloxymethyl)-1- intermediate ( E ).",
-        "operation": "interaction"
+        "operation": "rearrangement"
     },
     {
         "sentence": "20 The further FeCl3 - catalyzed naphthol elimination of the siloxy group21 gives o-NQM ( A ) , which reacts with an arene by nucleophilic attack or a dienophile via the [ 4 + 2]-cycloaddition into the corresponding 2-benzyl-1- naphthol or the condensed heterocyclic arene derivative , respectively.",
@@ -4229,7 +4241,7 @@
     },
     {
         "sentence": "It is noteworthy that the FeCl3 - catalyzed double function- alizations via both the o- and p-NQMs derived from the 1,4- bis(siloxymethyl) 1,4-epoxy-1,4-dihydronaphthalenes ( 6 ) gave the corresponding bifunctionalized products ( 7 and 8 ) ( Table 5 ) .",
-        "operation": "mitochondrial"
+        "operation": "fabrication"
     },
     {
         "sentence": "First , the FeCl3 - catalyzed ring - opening reaction of the 1,4-epoxy moiety of the substrate ( 6a ) and the subsequent rearrangement and aromatization produced the 1,4-bis(siloxymethyl)-1-naphthol ( J ) intermediate as shown in Scheme 2.",
@@ -4261,7 +4273,7 @@
     },
     {
         "sentence": "In an unusual ﬁnding though , we found that thiolation occurred at the more hindered ortho-position of 2-(3-methylphenyl)pyridine to yield 2j in 67 % yield.",
-        "operation": "mitochondrial"
+        "operation": "inhibited"
     },
     {
         "sentence": "Further , with CuCl2 as the catalyst , a chlorinated product , 2-chloro phenylpyridine ( 2aa ) , was isolated in 50 % yield.",
@@ -4293,11 +4305,11 @@
     },
     {
         "sentence": "Workup of the crude reaction mixture by column chromatog- raphy resulted in 84 % of the functionalized peptoid 5a .",
-        "operation": "chemical reactions"
+        "operation": "production of phosphate"
     },
     {
         "sentence": "Analysis of the collected reaction mixture indicated a quantitative reaction with the limiting formaldehyde reagent 7a being fully converted into peptoid 5a.",
-        "operation": "fabrication"
+        "operation": "extracted"
     },
     {
         "sentence": "Careful analysis revealed that the monomeric cyclopeptoid 6b was selectively formed instead of the dimeric derivative.",
@@ -4305,15 +4317,15 @@
     },
     {
         "sentence": "Thus , when 1-iodo-2- methylbenzene was used , the corresponding product was 5aj isolated in a poor yield ( 17 % ).",
-        "operation": "isolated"
+        "operation": "production"
     },
     {
         "sentence": "Finally , it is worth noting that the reaction may be scaled up : the reaction of 1.57 g of N-benzylpyrrole ( 10 mmol ) gave 2.53 g ( 82 % yield ) of 5aa ( eq 3 ) .",
-        "operation": "digestion"
+        "operation": "yield"
     },
     {
         "sentence": "ABSTRACT : In the absence of a steric directing group , iridium - catalyzed C − H borylation of N - protected indazoles occurs rapidly and selectively at C-3 and the resulting boronate esters can be utilized in a range of downstream conversions.",
-        "operation": "inhibited"
+        "operation": "inhibits photosynthesis"
     },
     {
         "sentence": "The bifunctional salicylate synthase MbtI catalyzes the ﬁrst step of mycobactin biosynthesis through the conversion of the primary metabolite chorismate into salicylic acid via isochorismate.",
@@ -4333,7 +4345,7 @@
     },
     {
         "sentence": "Initially , asymmetric boron - mediated aldol reaction24 of 18 with aldehyde 19 using dibutylboron triﬂate as a Lewis acid in Et2O provided the syn aldol adduct 20 in high diastereoselectivity ( dr of > 20 : 1 ) but only 36 % yield.",
-        "operation": "interaction"
+        "operation": "production"
     },
     {
         "sentence": "Protection as a methoxymethyl ( MOM ) ether employing CH3OCH2Cl and catalytic tetrabutylammonium iodide ( TBAI ) furnished 21.",
@@ -4349,7 +4361,7 @@
     },
     {
         "sentence": "The resultant amino alcohol was Boc-protected to aﬀord 27 in 89 % yield over two steps.",
-        "operation": "metabolism"
+        "operation": "yield"
     },
     {
         "sentence": "Subsequent PMB deprotection with 2,3-dichloro-5,6-dicyano- 1,4-benzoquinone ( DDQ ) gave diol 28.",
@@ -4385,7 +4397,7 @@
     },
     {
         "sentence": "Then , when 10 % p-toluene sulfonic acid ( TsOH ) was used as the catalyst , a 98 % 4a was obtained using 5.0 equiv of TBHP as oxidant in\nWhen peroxide tert-butyl ether ( DTBP ) was used instead of TBHP , 5a was obtained in 42 % yield using 10 % CuCl as catalyst.",
-        "operation": "catalyst"
+        "operation": "yield"
     },
     {
         "sentence": "α-Methylstyrene can deliver the corresponding product 3g in moderate yield ( 54 % ).",
@@ -4425,7 +4437,7 @@
     },
     {
         "sentence": "All attempts to directly reduce 33 with sodium borohydride under a variety of conditions aﬀorded only traces of 34.",
-        "operation": "sodium borohydride"
+        "operation": "disinfection"
     },
     {
         "sentence": "These conditions were also required in the hydrolysis of other bicyclic nitrogen heterocycles.32 Oxidative cleavage of the 1,2-diol moiety in 34 by sodium periodate in aqueous dioxane , followed by further oxidation of the crude aldehyde by iodine in methanol , gave the peptidomimetic building block 24D in 69 % yield ( 45 % overall yield from the diacetone ﬂuoroglucose 21 ) .",
@@ -4437,7 +4449,7 @@
     },
     {
         "sentence": "Hydrolysis of the methyl ester 24D by potassium carbonate in aqueous dioxane gave the N-benzyl Aze 35D ( 57 % ) from which the benzyl group was removed by hydrogenolysis in the presence of palladium to give the ﬂuoro D-Aze 10D ( 45 % ).",
-        "operation": "Hydrolysis"
+        "operation": "Hydrolysis of the methyl ester"
     },
     {
         "sentence": "Mild acid hydrolysis of the diacetonide 21 gave the monoacetonide 36 ( 100 % ).",
@@ -4445,7 +4457,7 @@
     },
     {
         "sentence": "Oxidation of the diol in 36 by sodium periodate , followed by sodium borohy- dride reduction of the resulting aldehyde , aﬀorded 37 ( 92 % ).",
-        "operation": "sodium"
+        "operation": "Oxidation of the diol"
     },
     {
         "sentence": "Hydrolysis of 37 by Dowex resin in aqueous dioxane gave 3-ﬂuoroxylose 3833 ( 88 % ) in an α:β ratio of 3 : 2.",
@@ -4469,11 +4481,11 @@
     },
     {
         "sentence": "Hydrolysis of the methyl ester 24L by potassium carbonate in aqueous dioxane gave the N-benzyl acid 35L ( 43 % ) from which the benzyl group was removed by hydrogenolysis in the presence of palladium on charcoal to produce the azetidine carboxylic acid\nThe lactol derived from hydrolysis of 26 was reduced by sodium borohydride in methanol to give the meso-diol 42 ( 40 % ) ; alternatively , sodium borohydride reduction of the ester 24L gave 42 in 90 % yield.",
-        "operation": "production"
+        "operation": "production of azetidine carboxylic acid"
     },
     {
         "sentence": "Hydrogenolysis of the N-benzyl group in 42 gave the meso-azetidine 15 ( 100 % ) .",
-        "operation": "mitochondrial function"
+        "operation": "Hydrogenolysis"
     },
     {
         "sentence": "with mesyl chloride in pyridine ( 100 % ) , with sodium azide in DMF gave the azide 27 ( 80 % ) as a precursor to δ-amino Aze analogues.",
@@ -4489,7 +4501,7 @@
     },
     {
         "sentence": "Hydrolysis of 28 with aqueous sodium hydroxide gave the N- benzylproline 48 ( 64 % ) from which the benzyl group was removed by palladium - catalyzed hydrogenolysis to give trans,- trans-3,4-diﬂuoro-L-proline 12 ( 86 % ).",
-        "operation": "mitochondrial"
+        "operation": "removed"
     },
     {
         "sentence": "Reduction of 28 with lithium aluminum hydride in THF gave 47 ( 66 % ).",
@@ -4501,7 +4513,7 @@
     },
     {
         "sentence": "Reaction of the ester 24L with methyl- amine in methanol in the presence of calcium chloride formed the methylamide 49 ( 74 % ).",
-        "operation": "catalyst"
+        "operation": "interaction of the ester"
     },
     {
         "sentence": "Protection of the primary hydroxyl in 24L with TBDMS chloride in DMF in the presence of imidazole gave the fully protected silyl ether 50 ( 95 % ) ; hydrolysis of 50 with potassium carbonate in aqueous dioxane aﬀorded the free acid 51.",
@@ -4537,7 +4549,7 @@
     },
     {
         "sentence": "In case of compound 1b , after addition of 9a the aluminum compound 11 was formed almost quantitatively and was isolated in 85 % yield after crystallization from the concentrated reaction mixture.",
-        "operation": "compound 1b"
+        "operation": "melting"
     },
     {
         "sentence": "It gave the amide 12 in 88 % yield after quenching with aqueous NaOH - solution ( 2 M ).",
@@ -4569,7 +4581,7 @@
     },
     {
         "sentence": "The addition of 1 equiv of isocyanate in a second step and ﬁnally of 2 equiv of acid chloride 2c in a third step gave the N-imido-substituted enamides 21a,b in a one - pot reaction\nThe route begins with 6,6-dimethylfulvene , which was allowed to react neatly with dimethylacetylene dicarboxylate ( DMAD ) to yield the trienediester 3.",
-        "operation": "reaction"
+        "operation": "yield the trienediester 3."
     },
     {
         "sentence": "Wilkinson ’s catalyst was employed to reduce the least substituted double bond , yielding 4.",
@@ -4601,7 +4613,7 @@
     },
     {
         "sentence": "To our delight , the reaction of 2-amino-N-phenylbenzamide ( 4a ) with TMEDA under standard conditions gave the desired 3-phenylquinazolin- 4(3H)-one ( 5a ) in 78 % isolated yield.",
-        "operation": "reaction"
+        "operation": "isolated"
     },
     {
         "sentence": "Similarly , 2-amino-N- alkylbenzamide 4b−4e also aﬀorded products 5b−5e , in moderate yield ( 48 − 62 % ).",
@@ -4637,7 +4649,7 @@
     },
     {
         "sentence": "However , using of elemental iodine as catalyst in the place of copper iodide and DTBP as oxidant at 80 ° C , 68 % of 3a was isolated ( Table 1 , entry 12 ).",
-        "operation": "catalyst"
+        "operation": "isolated"
     },
     {
         "sentence": "The oxidative annulation of other 2-pyridylacetates such as −COOMe , −COOiPr , −COOnBu , −COOtBu , and −COOCy , reacted well with 4-chloroaceto- phenone and produced the corresponding indolizine esters 3b−3f in moderate to good yields.",
@@ -4681,11 +4693,11 @@
     },
     {
         "sentence": "The presence of electron donating and withdrawing substituents in both phenyl rings of chalcones reacted well with 2-pyridylacetate and aﬀord the corresponding products 9g−9n in good yields ( 62 − 86 % ).",
-        "operation": "electron donating and withdrawing substituents"
+        "operation": "yields"
     },
     {
         "sentence": "The heteroatom substituted chalcone (E)-1-phenyl-3-(thiophen-2-yl)- prop-2-en-1-one was also reactive and produced the substituted indolizine 9o in moderate yield.",
-        "operation": "reactive"
+        "operation": "production"
     },
     {
         "sentence": "During these studies , when we treated methoxymethyl (MOM)-protected xanthone 16 with the aryl lithium reagent formed from 2-bromo-1,3-dimethylbenzene and n-butyllithium ( n-BuLi ) in THF , we noticed that two new ﬂuorescent products were generated along with regular coupling product 2 ( 10 % yield ).",
@@ -4729,7 +4741,7 @@
     },
     {
         "sentence": "9 Deracemisation of butadiene monoepoxide 5 with palladium catalyzed Trost ’s DYKAT in the presence of 1.2 mol % (R,R)-DACH and 0.4 mol % [ η3- C3H5PdCl]2 , phthalimide and base Na2CO3 aﬀorded asymmetric allylic alkylation ( AAA ) product phthaloyl alcohol 6 as a single enantiomer in 98 % yield with ≥ 99 % ee { [α]25 − 72.2 ( c 2.02 , CH2Cl2 ) [ Lit.8 − 72.2 ( c 2.02 , CH2Cl2 ) ] } .",
-        "operation": "Nebenwirkungsverhalten"
+        "operation": "fabrication"
     },
     {
         "sentence": "To this end , compound (S)-7 on oxidative cleavage in the presence of OsO4 and sodium periodate followed by oxidation with oxone at room temperature furnished the phthaloyl acid 8.10,11 The treatment of acid (R)-8 with benzylamine in the presence of isobutyl chloroformate and N-methyl morpholine in THF at − 78 ° C aﬀorded the phthaloyl amide 9 in 88 % yield.",
@@ -4737,7 +4749,7 @@
     },
     {
         "sentence": "An alternative method for the amide formation with benzylamine is using HOBt and EDCI - HCl furnished phthaloyl amide 9 in 61 % yield.",
-        "operation": "formation with benzylamine"
+        "operation": "production"
     },
     {
         "sentence": "1,7- Lactone 8 was obtained in 78 % yield ( operating on 0.3 mmol scale ) ; 1,7-lactone 10 was obtained in 81 % yield ( operating on a 3 mmol scale ) ; 1,7-lactone 14 was obtained in 86 % yield ( operating on 0.1 mmol scale ) ; 1,7-lactone 15 was obtained in 78 % yield ( operating on 0.3 mmol scale ) ; and 1,7-lactone 16 , was obtained , as a single compound , in 76 % yield ( operating on 3 mmol scale ).",
@@ -4753,7 +4765,7 @@
     },
     {
         "sentence": "[ ( 4′-Amino-5-hexadecylbiphenyl-3- yl)ethynyl]triisopropylsilane ( 17 ) was obtained by a Suzuki− Miyaura cross-coupling reaction of 10 with 4-(4,4,5,5- tetramethyl-1,3,2-dioxaborolan-2-yl)aniline in the presence of Pd(PPh3)4 as a catalyst in 89 % yield.",
-        "operation": "cross-coupling"
+        "operation": "Transmission"
     },
     {
         "sentence": "Aminobiphenyl derivative 17 was transformed into 3,3-diethyltriazene 18 by diazotization utilizing isoamyl nitrite followed by treatment with diethyl- amine in 88 % yield.",
@@ -4789,7 +4801,7 @@
     },
     {
         "sentence": "Further optimization by adjusting the molar ratio of the substrates 2a and 1a showed that 2 equiv of 2a was optimal to aﬀord the desired product 3aa in 94 % yield ( entries 6 − 8 ).",
-        "operation": "substrates"
+        "operation": "maintenance of the environment"
     },
     {
         "sentence": "Diﬀerent thioamides 1 successfully reacted with 3-phenylpropiolaldehyde ( 2a ) in methanol to aﬀord the corresponding 2-aminothiophene ether derivatives in good to excellent yields.",
@@ -4821,7 +4833,7 @@
     },
     {
         "sentence": "In addition , with a simple solvent change to DCM , the reaction can yield an unexpected 2-aminothiophene 4aa via a double addition of thioamide.",
-        "operation": "yield"
+        "operation": "yield unexpected 2-aminothiophene 4aa via a double addition of thioamide"
     },
     {
         "sentence": "quickly found iodobenzene 2c13 could furnish 50 % yield of the desired monoarylation product 3-1a , in which the phenyl group was incorporated into the β-position of alkyl carboxylic acid amide 1a.",
@@ -4833,7 +4845,7 @@
     },
     {
         "sentence": "Similarly , electron - poor 5- triﬂuoromethyl-pyridine N-oxide also furnished the mono- and bis-arylation pyridine N-oxide derivative 3-2j ( 30 % yield ) and 3-2k ( 28 % yield ) in moderate overall yield.",
-        "operation": "interaction"
+        "operation": "yield"
     },
     {
         "sentence": "It is worth noting that the β-2,2-dimethyl-propyl group substituted aliphatic amide could also be converted smoothly to a more remote Csp3−H bond arylation and provided the corresponding γ-phenyl substituted product ( 3-2m ) in 52 % yield.",
@@ -4853,15 +4865,15 @@
     },
     {
         "sentence": "To our delight , the cyclized product 3a was obtained in the presence of 10 mol % of Pd(OAc)2 and 1.2 equiv of p-benzoquinone ( BQ ) in good yield ( 69 % ).",
-        "operation": "disinfection"
+        "operation": "Transmission"
     },
     {
         "sentence": "Among all palladium catalysts , Pd(TFA)2 displayed excellent performance , providing bicyclic adduct 3a in good yield ( 75 % ) with high diastereoselectivity ( Table 1 , entry 6 ).",
-        "operation": "catalysts"
+        "operation": "performance"
     },
     {
         "sentence": "Both electron - poor and electron - rich arylboronic acids with a variety of substituents like methyl , vinyl , methoxy , halogen , triﬂuor- omethyl , cyano , and nitro successfully participated in the reaction with cyclohexadienone 1a to give the corresponding cyclized product 3 under the optimal conditions.",
-        "operation": "catalyst"
+        "operation": "interaction"
     },
     {
         "sentence": "In the case of mesitylboronic acid , formation of the corresponding product 3r was not observed , which may be due\nAdditionally , tert-butyl-substituted cyclohexadienone 1b was tested for domino cyclization under similar conditions with 9-phenanthrocenylboronic acid and 4-chlorophenylbor- onic acid to furnish compounds 3u and 3v , respectively , albeit in low yield ( Scheme 1 ).",
@@ -4881,11 +4893,11 @@
     },
     {
         "sentence": "Treatment with TBAF ﬁnally delivered the targeted compound 5 , which was thus obtained in a 54 % overall yield from the bis-enal 13 , with analytical data in agreement with those previously reported for (R,R)-5.12 In order to determine the exact stereochemical composition of the isolated stereoenriched sample of 5 , a\nThe stereoisomeric mixture of alcohols was converted into the corresponding mixture of bis-naphthyl carbamates 15 , which proved inseparable by chiral HPLC or SFC.",
-        "operation": "Krebs"
+        "operation": "disinfection"
     },
     {
         "sentence": "exact bis-dehydro analogue 6b of the natural C20 bis-alkenyl- alkynylcarbinol 5 was secured in three steps and 48 % overall yield from the diol 18 by means of double bromination , addition of lithium TMS-acetylide and desilylation ( Scheme 3 ) .",
-        "operation": "double bromination"
+        "operation": "disinfection"
     },
     {
         "sentence": "Treatment of the diynes 17a,b with Zn(OTf)2 / Et3N in the presence of (−)-N-methylephedrine ( NME ) as a chiral inducer in CH2Cl2 , followed by addition of the ynal 21 , led to the bis- alkynylated products (R,R)-22a,b in 85 % yield ( Scheme 4 ) .",
@@ -4913,7 +4925,7 @@
     },
     {
         "sentence": "Pd(MeCN)2Cl2 , Pd(PhCN)2Cl2 , and Pd2(η3-C3H5)2Cl2 were ineﬀective ( entries 15 − 17 ) , while Pd2(dba)3 and Pd(dppf)Cl2 gave product 3a in respective yields of 46 % and 62 % ( entries 18 − 19 ).",
-        "operation": "Product 3a"
+        "operation": "yield"
     },
     {
         "sentence": "The amount of 2a was also decreased to 1.5 equiv , and a slightly reduced yield of 3a was obtained ( entry 21 ).",
@@ -4921,7 +4933,7 @@
     },
     {
         "sentence": "Salicyl N- tosylhydrazones with an electron - donating OMe or Me group at the para position of the hydroxyl group reacted well with 1a to give the corresponding products 3b and 3c in respective isolated yields of 85 % and 79 % , higher than the 75 % isolated yield of 3a.",
-        "operation": "mitochondrial"
+        "operation": "disinfection"
     },
     {
         "sentence": "Salicyl N-tosylhy- drazone substituted with F gave substantially lower yield of 3d , even in the presence of 7.5 mol % Pd(PPh3)4.",
@@ -4937,7 +4949,7 @@
     },
     {
         "sentence": "reacted with 2a to give the products 3i − m in yields of 55 − 74 % , which indicated that the electron - donating property of substituents only promoted the reaction slightly.",
-        "operation": "reproduction"
+        "operation": "yields"
     },
     {
         "sentence": "Moreover , 3-iodo-2H-chromene 1 with a cyclic −OCH2O− substituent reacted smoothly with 2a to produce 3q in 69 % yield.",
@@ -4977,19 +4989,19 @@
     },
     {
         "sentence": "In the presence of TBHP , alkylbenzene ( a ) is oxidized sequentially to benzyl alcohol ( I ) and benzaldehyde ( II ) , which subsequently generates acyl radical ( III ) via the cleavage of aldehydic C − H bond.",
-        "operation": "generateds acyl radical ( III ) via the cleavage of aldehydic C  H bond"
+        "operation": "generateds acyl radical (III )"
     },
     {
         "sentence": "3-Allylic-3-cyano substituted phthalide 3a gave the desired product 4a in near quantitative yield with promising diastereoselectivity , while phthalides possessing phenylsulfanyl and phenylsulﬁnyl groups provided the desired product 4a in 14 % yield .",
-        "operation": "disinfection"
+        "operation": "yield"
     },
     {
         "sentence": "A focused catalyst survey showed that a bifunctional phosphine catalyst was found to be superior in stereochemical control , which furnished the desired product 3a in excellent yield with 99 % ee.",
-        "operation": "catalyst"
+        "operation": "substrate"
     },
     {
         "sentence": "For examples , treatment of unsubstituted 3-cyano phthalide ( R3 = H ) with a range of MBH carbonates 2 containing aryl moieties provided the desired products 3b−3h in excellent yields with remarkable stereocontrol under optimized reaction conditions , regardless of the substituent pattern and electronic nature on\n2-Naphthyl substituted MBH carbonate can also react with phthalide to furnish the congested product 3i in 93 % yield and 97 % ee correspondingly.",
-        "operation": "catalyst"
+        "operation": "Transmission"
     },
     {
         "sentence": "Notably , the reaction between alkyl sub- stituted MBH carbonate and phthalide proceeded smoothly and gave alkyl substituted product 3j in good yield and excellent enantioselectivity , albeit with diminished diastereose- lectivity.",
@@ -5037,7 +5049,7 @@
     },
     {
         "sentence": ", the isomeric enamides 11b and 12b , addition product 13b , and amino ester 14b , in a ratio of 11b:12b:13b:14b = 4 : 2 : 1 : 3.",
-        "operation": "interaction"
+        "operation": "transférer"
     },
     {
         "sentence": "After puriﬁcation of this mixture ( column chromatography , SiO2 ) , only two compounds were isolated , more speciﬁcally adduct 13b ( 10 % ) and amino ester 14b ( 85 % ) ( Table 1 , entry 2 ).",
@@ -5057,7 +5069,7 @@
     },
     {
         "sentence": "Increasing the number of equivalents of LiHMDS led to a full conversion of amide 23a toward ynamide 25a , which was isolated in an excellent yield of 97 % ( Table 2 , entry 2 ).",
-        "operation": "separation"
+        "operation": "conversion"
     },
     {
         "sentence": "Next , benzamide 23a was treated with 1 equiv of KOtBu , leading to a selective conversion toward the envisioned benzoxazine 26a , which could be isolated in 80 % yield ( Table 2 , entry 3 ).",
@@ -5069,7 +5081,7 @@
     },
     {
         "sentence": "Indeed , the reaction of benzamide 23a with 1 equiv of LiOtBu aﬀorded enamide 24a as the sole end product , which was isolated in 73 % yield ( Table 2 , entry 6 ) .",
-        "operation": "reaction"
+        "operation": "isolated"
     },
     {
         "sentence": "Therefore , a variety of secondary ﬂuorinated amines was synthesized by reacting ethyl bromodiﬂuoroacetate 18 with diﬀerent amines , leading to amides 27 , which in turn were reduced using borane dimethylsulﬁde complex in dichloromethane under reﬂux.",
@@ -5085,7 +5097,7 @@
     },
     {
         "sentence": "■ INTRODUCTION In biosynthesis , the Pictet − Spengler reaction between dop- amine ( 1 , see Scheme 1 ) and 4-hydroxyphenylacetaldehyde ( 2 ) produces norcoclaurine , a plant metabolite that stands at the basis of probably all of the approximately 2500 − 3000 1-benzyl- substituted tetrahydroisoquinoline - derived alkaloids known to date.1 A broad range of biological activities is displayed by these alkaloids with morphine , isolated already in 1806 , as one of the most complex and best studied examples.1,2 A variety of synthetic and pharmacological studies on 1-benzyltetrahydroi- soquinolines can be found in the literature , including receptor activity studies against , e.g.",
-        "operation": "interaction"
+        "operation": "Activity"
     },
     {
         "sentence": "However , a multistep enzymatic sequence is required to convert (S)-reticuline into (R)-reticuline in vivo.",
@@ -5093,11 +5105,11 @@
     },
     {
         "sentence": "Conversion of the aldehyde functionality in 9 to nitroalkene 10 under standard conditions requires ammonium acetate or acetic acid at elevated temperatures as a catalyst , but this was not compatible with the MOM - group.",
-        "operation": "catalyst"
+        "operation": "maintenance"
     },
     {
         "sentence": "This provided crystalline 10 , which was reduced with lithium aluminum hydride to arylethylamine 11 and N- functionalized with o-nitrobenzenesulfenyl chloride to give Pictet − Spengler precursor 7.",
-        "operation": "Nickel"
+        "operation": "Nickel production"
     },
     {
         "sentence": "When trimethoxyphenylacetalde- hyde 14c was used , this product could be isolated and was characterized as enamine 16.",
@@ -5105,7 +5117,7 @@
     },
     {
         "sentence": "ABSTRACT : C70 bis-heterocyclic derivative ( 1 ) bearing one oxazoline ring and one imidazoline ring with the 2 o’clock conﬁguration is obtained with high chemio- and regioselectivity via the reaction of C70 with hydroxide and benzonitrile quenched with I2.",
-        "operation": "hydroxide and benzonitrile"
+        "operation": "transmission"
     },
     {
         "sentence": "22,25 A molar ratio of 9 : 1 between OH− and C70 and a reaction temperature of 60 ° C seem to be most appropriate for the generation of the C70 bis-heterocyclic compound ( entry 5 ).",
@@ -5137,7 +5149,7 @@
     },
     {
         "sentence": "Compound 2i delivered a 1 : 0.4 mixture of the desired 3ai , while 3aj was isolated as the trans-isomer .",
-        "operation": "trans-isomer"
+        "operation": "Transmission"
     },
     {
         "sentence": "When treated with 20 % hydrochloric acid in THF at 30 ° C , 3af furnished compound 6 in 70 % yield , together with 2- methylthioenamine 7 in 40 % yield ( eq 1 ) .",
@@ -5161,7 +5173,7 @@
     },
     {
         "sentence": "reagent to aldehyde 3 gave alcohol 4.",
-        "operation": "chemical reactions"
+        "operation": "disinfection"
     },
     {
         "sentence": "Silyl-type protection ( TBS = tert-butylsilyl ; TIPS = triisopropylsilyl ; TBDPS = tert- butyldiphenylsilyl ) of the hydroxyl group in alcohol 4 followed by furan ring opening11 provided monoprotected triols (E)-5 which were transformed to bisimidates (E)-1 .",
@@ -5173,7 +5185,7 @@
     },
     {
         "sentence": "The addition of the resulting trimetalated species to pentanal provided triol 8.12 Primary alcohol groups in this intermediate were protected by acylation ; secondary alcohol was protected with a TBS group , and the acyl groups were cleaved oﬀ by methanolyis.",
-        "operation": "mitochondrial"
+        "operation": "disinfection"
     },
     {
         "sentence": "The resulting monoprotected triol (Z)-5b was transformed to bisimidate (Z)-1b .",
@@ -5197,7 +5209,7 @@
     },
     {
         "sentence": "Compound 8 was ﬁrst protected with an acetyl group followed by nitration to obtain C4 - substituted compound 11 , according to the procedure reported by Morie and co-workers.11 Oxidation of the aldehyde and reduction of the nitro group to an amino group proceeded quantitatively , and subsequent Sandmeyer reaction gave 4-chloro-2-hydroxy-3- methoxybenzoic acid 14.",
-        "operation": "Oxidation"
+        "operation": "Krebs"
     },
     {
         "sentence": "To obtain benzyl-protected CDB 6 , compound 14 was demethylated with the Lewis acid BBr3 ,\nThe carboxylic acid in 16 was converted to acid anhydride and selectively reduced with NaBH4 to obtain an alcohol 17.",
@@ -5217,7 +5229,11 @@
     },
     {
         "sentence": "The study was initiated with the preparation of the key α- keto imine intermediate 3 ( R1 = H , Ar = Ph ) from the reaction of aniline 1 ( R1 = H ) and phenylglyoxal monohydrate 218 ( Ar = Ph ) , following the existing reaction protocol ( Scheme 1 ).",
-        "operation": "preparation"
+        "operation": "preparation of the key - keto imine intermediate 3 ( R1 = H "
+    },
+    {
+        "sentence": "The study was initiated with the preparation of the key α- keto imine intermediate 3 ( R1 = H , Ar = Ph ) from the reaction of aniline 1 ( R1 = H ) and phenylglyoxal monohydrate 218 ( Ar = Ph ) , following the existing reaction protocol ( Scheme 1 ).",
+        "operation": "Ar = Ph ) from the reaction of aniline 1 ( R1 = H ) and phenylglyoxal mono"
     },
     {
         "sentence": "compound 3 , which forms ( monitored with thin - layer chromatography ) instantly on reﬂuxing 1 ( R1 = H ) and 2 ( Ar = Ph ) in ethanol , was not isolated and used directly with chroman-2,4-dione ( 4-hydroxy coumarin ) 4 in the presence of various acid catalysts under reﬂuxed conditions.",
@@ -5237,7 +5253,7 @@
     },
     {
         "sentence": "First , it was observed that the imine 3 also forms when acetonitrile is used as solvent instead of ethanol ( Scheme 3 ).",
-        "operation": "interaction with oxygen"
+        "operation": "disinfection"
     },
     {
         "sentence": "The reaction occurred smoothly to aﬀord the desired compound 7a ( R1 = Me , Ar = Ph , R2 = Me ) in good yield ( Scheme 3 ).",
@@ -5293,7 +5309,7 @@
     },
     {
         "sentence": "system [AuClIPr] ( IPr = 1,3-bis(2,6-diisopropylphenyl)- imidazol-2-ylidene ) ( 5 mol % ) / AgSbF6 ( 5 mol % ) in 1,2- dichloroethane ( DCE ) at room temperature for 5 h , indolo- oxepino β-lactam 7a was isolated in 72 % yield ( Table 1 , entry\nWhen the reaction was allenyl performed at 40 ° C , it proceeded rapidly and gave a separable mixture ( 1 : 1 ) of tetracycle 7a and tricycle 8a.",
-        "operation": "reaction"
+        "operation": "isolated"
     },
     {
         "sentence": "When indolo-oxepino β-lactam 7a ·6H2O with the same catalyst ratio ( 5 was treated with HSbF6 mol % ) , no product 8a was obtained , the participation of the Brønsted acid in the ring - opening process.",
@@ -5321,7 +5337,7 @@
     },
     {
         "sentence": "In principle , compound 7 can directly undergo keto- enol tautomerization in its native form to yield 7(4) , as in Scheme 5a.",
-        "operation": "keto- enol tautomerization"
+        "operation": "yield"
     },
     {
         "sentence": "The gram - scale reaction was performed between 1f and 6b , and the reaction aﬀorded 7c in 89 % yield ( Scheme 3 ).",
@@ -5337,7 +5353,7 @@
     },
     {
         "sentence": "Initially , 4-methylbenzenethiol ( 1f ) was oxidized to 1,2-di-p-tolyldisulfane ( 10 ) under the standard conditions.",
-        "operation": "Krebs"
+        "operation": "disinfection"
     },
     {
         "sentence": "The reaction of 10 with I2 formed 2 equiv of an electrophilic species p-MePhSI (I),21 which attacked 4- chloroaniline ( 6b ) to yield II.",
@@ -5349,7 +5365,7 @@
     },
     {
         "sentence": "2 equiv of nBuLi , followed by sequential treatments with dichloro(phenyl)phosphine and hydrogen peroxide , aﬀorded 2-(trimethylsilyl)naphtho[2,3-b]phosphole P-oxide 3.",
-        "operation": "mitochondrial"
+        "operation": "Krebs"
     },
     {
         "sentence": "Bromolysis of the C(sp2)−Si bond of 3 with NBS produced bromide 4 as a colorless solid .",
@@ -5401,11 +5417,11 @@
     },
     {
         "sentence": "Dess − Martin periodinane ( DMP ) mediated oxidation of 21 to 3′-ketoadenosine derivative 25 , which was stereoselectively reduced with sodium triacetoxyborohydride to furnish alcohol 26.",
-        "operation": "stereoselectively reduced with sodium triacetoxyborohydride"
+        "operation": "disinfection"
     },
     {
         "sentence": "Fluorination of 26 with DAST gave 27 in 61 % yield.",
-        "operation": "transmission"
+        "operation": "production"
     },
     {
         "sentence": "The novel diﬂuorinated nucleoside 2′,3′-dideoxy-2′,3′-FF- xylo 31 was synthesized from 2′-ﬂuoroadenosine 2820 by trityl protection to provide 29 , and subsequent treatment with DAST furnished 31 in 62 % overall yield ( Scheme 3 ).",
@@ -5413,7 +5429,7 @@
     },
     {
         "sentence": "The diﬂuorinated 2′,3′-dideoxy-2′,3′-FF-ribo 35 was pre- pared from the known lyxo-epoxide21 32 ( Scheme 4 ) following the Watanabe two - step process initiated by epoxide opening with a ﬂuoride ion exclusively from the α-face of the sugar to aﬀord a 3 : 1 ratio of regioisomers 3′-ﬂuoro-arabino 33 and 2′- ﬂuoro - xylo 34 in a 65 % combined yield.",
-        "operation": "enzymes"
+        "operation": "yield"
     },
     {
         "sentence": "ABSTRACT : High - temperature , TiCl4 - catalyzed , triple aldol condensations of aceanthrenone 5 and acenaphthacenone 6 gave tribenzodecacyclene 3 and hexabenzodecacyclene 4 , respectively , in yields of 16 and 0.8 % , respectively.",
@@ -5437,11 +5453,11 @@
     },
     {
         "sentence": "recently reported a Sonogashira reaction on pyridylethynyltrimethylsilyl deriva- tives.12 Their experimental conditions were attempted on our substrate , and we were pleased to isolate 5q and 5r in good yield ( Scheme 4 ).",
-        "operation": "enzymes"
+        "operation": "Transmission"
     },
     {
         "sentence": "in a mixture of dioxane / MeOH ( 2 / 1 ) , a fast and complete dehalogenation was observed under microwave irradiation , and 9 was isolated in 85 % yield .",
-        "operation": "detection"
+        "operation": "disinfection"
     },
     {
         "sentence": "( 2a ; 2.0 equiv ) in the presence of CuI ( 20 mol % ) in dimethyl sulfoxide ( DMSO ) at 100 ° C for 12 h , and to our delight the desired vinyl sulfone 3a was harvested in 45 % yield as shown in Table 1 ( entry 1 ).",
@@ -5477,7 +5493,7 @@
     },
     {
         "sentence": "Subsequent selec- tive phosphorylation of the triol , thus obtained , with 2,2,2-trichloroethyl phosphorodichloridate aﬀorded isomeric (R,S)-(P)- 4II,6II-cyclic phosphates , which were both obtained in crystalline form and fully characterized.",
-        "operation": "transfére"
+        "operation": "obtained in crystalline form and fully characterized"
     },
     {
         "sentence": "Zemplén de-O-acylation of 5α gave tetraol 6 in virtually quantitative yield , and subsequent isopropylidenation ( 2,2- dimethoxypropane and camphorsulfonic acid in DMF at 45 ° C ) gave selectively the 3II,4II-O-isopropylidene derivative 7.",
@@ -5529,7 +5545,7 @@
     },
     {
         "sentence": "Furthermore , the subsequent intramolecular C − N cross coupling of 4a gave the N-acetylated phenothiazine 5a.",
-        "operation": "interaction of two atoms"
+        "operation": "transmission"
     },
     {
         "sentence": "Most of the 1,2-dihalobenzene substrates , including 1-bromo-2- chlorobenzene , 1-chloro-2-iodobenzene , 1,2-dibromobenzene , 1-bromo-2-iodobenzene and 1,2-dichlorobenzene , reacted smoothly with N-(5-chloro-2-mercaptophenyl)acetamide to give 2-chloro-10H-phenothiazine in yields of up to 92 % ( Table 2 , entries 10 − 14 ).",
@@ -5557,7 +5573,7 @@
     },
     {
         "sentence": "Synthetic methods for this type of carbamate have been well - documented in the literature.57−61 Herein , the synthesis was based on our previously reported procedures ; 38,62 treatment of 9 with sodium hydride at room temperature provided oxazolidinone 19 and oxazinanone 22 in 82 % total yield ( Scheme 4 ).",
-        "operation": "carbamate"
+        "operation": "disinfection"
     },
     {
         "sentence": "By the same procedures , bicyclic derivatives 28 and 32 were obtained from 11 in 85 % total yield ( Scheme 5 ) .",
@@ -5617,11 +5633,11 @@
     },
     {
         "sentence": ") failed to cleanly convert acid 23 to amide 1.",
-        "operation": "contamination"
+        "operation": "fabrication"
     },
     {
         "sentence": "However , reactions of the substrate 4 were sluggish and aﬀorded 2,3-dihydro-1,3-oxazin-4-one derivatives 5 in low yields under mild conditions.",
-        "operation": "substrate 4"
+        "operation": "reactions"
     },
     {
         "sentence": "After scrutiny of the reaction with 4 and 2a , 2,3-dihydro-1,3-oxazin-4-one 5a was formed in 27 % yield , along with bis-β-lactam 6a in 6 % yield ( eq 1 , Scheme 3 ).",
@@ -5653,11 +5669,11 @@
     },
     {
         "sentence": "Reaction between D and PIFA under our standard conditions yielded an oxazole derivative E,16 instead of a diketone F as we had expected based on the report that 1,2-diphenylethyne derivatives could be converted into diketones under Vasil’eva ’s conditions ( Scheme 1b ).",
-        "operation": "Exchange of compounds"
+        "operation": "Exchange of chemical compounds"
     },
     {
         "sentence": "In path a , the N-methoxyamide moiety , as the nucleophile , reacts with PIFA and gave intermediate H , accompanied by the loss of one molecule of triﬂuoroacetic acid.20 Then an intramolecular cyclization occurs\n■ RESULTS AND DISCUSSION The dialdehyde 1 reacts smoothly with the C − H - active compounds A − H in the presence of a base to give the Knoevenagel adducts 2a − h in yields ranging from 37 to 85 % after workup and puriﬁcation.",
-        "operation": "Krebs"
+        "operation": "yields"
     },
     {
         "sentence": "With 20 mol % of Cu(I)Br as the catalyst at reﬂuxing temperature in the air , the reaction proceeded to yield 6-methyl phenanthridine 3a and the amide derivative 2 as a separable mixture ( eq 1 ).",
@@ -5697,7 +5713,7 @@
     },
     {
         "sentence": "The electron - donating methyl group bearing aromatic ring 1c increased the rate of the reaction to provide isatin 2c in excellent yield.",
-        "operation": "interaction with oxygen"
+        "operation": "production"
     },
     {
         "sentence": "However , the inductively electron- withdrawing -F or -Cl substituent bearing phenylacetylenes 1d and 1e decreased the rate of the reaction and corresponding isatins 2d and 2e , respectively , were obtained in good yields.",
@@ -5805,7 +5821,7 @@
     },
     {
         "sentence": "Hydrogenation of 11i under standard conditions resulted in reduction of both the alkene and the trichloromethyl group giving 21 as the sole product in 94 % yield.",
-        "operation": "mitochondrial membrane"
+        "operation": "Hydrogenation of 11i"
     },
     {
         "sentence": "This was coupled with commercially available N,N′-bis(tert-butoxycarbonyl)-1H-pyra- zole-1-carboxamidine ( 22 ) in the presence of Hünig ’s base , and this gave guanidine 23 in 75 % yield over the two steps.26,27 Finally , removal of the Boc-protecting groups using TFA completed the 10-step synthesis of hypotensive agent 4 in 40 % overall yield from commercially available 4-chloro-2-hydrox- ybenzaldehyde ( 5i ) .",
@@ -5845,15 +5861,15 @@
     },
     {
         "sentence": "12 Hydro- boration using pinacolborane and Schwartz ’s catalyst11a provided the desired diene 8 as a mixture of two stereo- isomers ( E,E : E,Z = 91 : 9 ) in a 56 % overall yield.",
-        "operation": "catalyst"
+        "operation": "fabrication"
     },
     {
         "sentence": "Finally , the use of 3.5 equiv of nitrosobenzene ( entry 8 , Table 3 ) was required in order to achieve the complete conversion of both stereoisomers of diene 8 , resulting in the formation of pyrrole 3k and a 36 % isolated yield .",
-        "operation": "separation"
+        "operation": "fabrication"
     },
     {
         "sentence": "Nevertheless , 26 % of the corresponding pyrrole 3l was isolated after silica gel chro- matography ( entry 5 , Table 4 ) .",
-        "operation": "disinfection"
+        "operation": "isolated"
     },
     {
         "sentence": "Reaction of 1-borodiene 10 with nitrosobenzene resulted in the identiﬁcation of the [ 4 + 2]-cycloadduct 11 in the 1H NMR spectrum of the crude mixture.14 After 2 h , all the diene 10 was consumed and the intermediate boro-1,2-oxazine 11 had also disappeared , to- gether with small amounts of azoxybenzene 4 ( Scheme 3 ).",
@@ -5861,7 +5877,7 @@
     },
     {
         "sentence": "this increased reactivity was conﬁrmed by the reaction of cyclic diene 12,16 which provided pyrrole 3i after only 2 h and in a 46 % yield , as shown in eq 1 ( compared with\nHowever , single regioisomeric products were obtained , as exempliﬁed by the formation of the stable [ 4 + 2]-cycloadduct 14a , obtained from reaction of diene 13 with nitrosobenzene and isolated in 64 % yield ( entry 1 , Table 5 ).",
-        "operation": "Krebs"
+        "operation": "interaction"
     },
     {
         "sentence": "Moreover , the byproduct 36 was isolated by extracting the reaction mixture with DCM ( see Scheme 6 ) in 25 % yield , whose structure was established by 1H , 13C , and 11B NMR , and mass spectroscopy.",
@@ -5873,7 +5889,7 @@
     },
     {
         "sentence": "To conﬁrm that this is indeed the location of the boronated group that is responsible for this failure , the diene 37 was synthesized from (1-bromovinyl)-MIDA boronate and 1-bromostyrene.21 The reaction with nitrosobenzene regiose- lectively provided the cycloadduct 38 in a 73 % isolated yield the second isomer.22 To conﬁrm the with only traces of structure of the major regioisomer , it was engaged in a Suzuki− Miyaura cross-coupling with 1-bromotoluene in the presence of palladium acetate and SPhos ( Scheme 8 ).",
-        "operation": "mitochondrial"
+        "operation": "transmission"
     },
     {
         "sentence": "The key desymmetrized annulation diphenol intermediates 3a − c were readily prepared from prochiral 2,2,6,6-tetrahydroxy-biphenyl with diﬀerent chiral bis(mesylate) or bis(tosylate) by a Williamson synthesis.13 Following a SN2 substitution reaction mechanism , the central chirality conﬁg- uration of the ether - linked backbone became reversed from 2.",
@@ -6001,7 +6017,7 @@
     },
     {
         "sentence": "Steric hindrance was clearly detrimental in the reaction , as observed using o-tolyl cyanamide ( 14d ) and o-tolylboronic acid ( 13c ) to assemble benzimidazole 1l , isolated in 36 % yield.",
-        "operation": "mitochondrial function"
+        "operation": "fabrication"
     },
     {
         "sentence": "Indeed , we were able to isolate from the reaction a side product resulting from a Csp3-H activation / cyclization process,24 namely 2-amino-1-phenylquinazolin-4(1H)-one 15 , albeit in a low 15 % yield .",
@@ -6021,7 +6037,7 @@
     },
     {
         "sentence": "Following our reported5 selective monoborylation of pyrene to aﬀord 2-(Bpin)pyrene and conversion of this compound to 2-bromopyrene in high isolated yield,2 a copper- mediated amination with diethylamine and stoichiometric CuI was attempted ; however , no reaction had occurred after 4 days at 80 ° C in N-methyl-2-pyrrolidone.",
-        "operation": "Krebs"
+        "operation": "Krebs-mediated amination"
     },
     {
         "sentence": "Instead , 1 was synthesized by Buchwald - Hartwig amination using the precatalyst Pd2(dba)3 ( 0.3 mol % ; dba = dibenzylideneacetone ) , the phosphine ligand SPhos ( 1 mol % ; SPhos = 2-dicyclohex- ylphosphino-2′,6′-dimethoxybiphenyl ) and NaOtBu base.",
@@ -6041,7 +6057,7 @@
     },
     {
         "sentence": "Starting from B21C7 derivative 8 with a terminal hydroxyl group , treatment of 8 with PBr3 can aﬀord an unstable intermediate B21C7 - containing benzyl bromide , which was directly converted into azide- functionalized B21C7 macrocycle 7 in the presence of sodium azide in 58 % two - step total yield.",
-        "operation": "Nebenwirkungsverhalten"
+        "operation": "transmission"
     },
     {
         "sentence": "Furthermore , the self - assembling [2]pseudorotaxane could be formed when 7 and 6 were mixed and dissolved simultaneously in the less polar solvent CH2Cl2 , which was subsequently converted into [2]rotaxane 2 with an azide group in B21C7 macrocycle in a relatively high yield ( 88 % ) through the esteriﬁcation reaction with benzoic anhydride using tributylphosphine [P(n-Bu)3] as the catalyst.",
@@ -6069,7 +6085,7 @@
     },
     {
         "sentence": "naphthyl ( rac - BINAP ) , provided the diarylamine 11 almost quantitatively.",
-        "operation": "mitochondrial function"
+        "operation": "disinfection"
     },
     {
         "sentence": "Microwave heating of 11 in the presence of catalytic amounts of palladium(II) acetate and copper(II) acetate as reoxidant led to the protected carbazole 12.",
@@ -6093,7 +6109,7 @@
     },
     {
         "sentence": "16 Cleavage of the silyl ether provided mahanine ( 3 ) in ﬁve steps and 56 % overall yield based on the protected 3-bromophenol 9.",
-        "operation": "mitochondrial membrane"
+        "operation": "production"
     },
     {
         "sentence": "Methyl ether formation by treatment of 3 with sodium hydride and iodide aﬀorded O-methylmahanine ( 4 ).",
@@ -6165,7 +6181,7 @@
     },
     {
         "sentence": "Treatment of 29 with lithiated dimethyl methylphosphonate produced enone 30 via nucleophilic ring - opening of the lactone followed by an intramolecular Horner − Wadsworth − Emmons reaction.18 Attempts to eﬀect a one - pot , tandem conjugate reduction / oxidation of enone 30 failed to produce any of the desired α-hydroxy cyclopentanone 31.",
-        "operation": "mitochondrial"
+        "operation": "production"
     },
     {
         "sentence": "Alternatively , hydro- genation of enone 30 using Pd / C furnished cyclopentanone 27 in 98 % yield.",
@@ -6205,7 +6221,7 @@
     },
     {
         "sentence": "We observed that when the reaction was carried out with PIDA in the presence of 5 equiv of acetic acid in dichloroethane at 80 ° C , 3b was obtained in 45 % yield.",
-        "operation": "disinfection"
+        "operation": "Transmission of oxygen"
     },
     {
         "sentence": "Thus , the optimum yield of 3b was obtained when 4-hydroxybenzaldehyde was treated with 1.5 equiv of PIDA and 5 equiv of pivalic acid in dichloroethane at 80 ° C for 12 h.",
@@ -6225,11 +6241,11 @@
     },
     {
         "sentence": "We observed that PdCl2 and Pd(PPh3)4 also produced the dibenzofuran 6c in DMA in the presence of 3 equiv of K2CO3 ( ∼ 90 % yield ) along with the inseparable byproduct 7 ( from GC analysis ).",
-        "operation": "production"
+        "operation": "production of DMA"
     },
     {
         "sentence": "(thiophen-2-yl)ethylamine proceeded smoothly and produced the desired pyridines 2ag and 2ah in excellent yields ( 92 % and 90 % , respectively ).",
-        "operation": "production"
+        "operation": "producing"
     },
     {
         "sentence": "with 2 equiv of electrophiles ( TMSCl and benzaldehyde ) under the standard reaction conditions , the desired product 2aa was not detected ( eq 2 ).",
@@ -6245,7 +6261,7 @@
     },
     {
         "sentence": "Reactions involving 5-hydroxypentyne ( 2o ) and 4-hydroxybutyne ( 2p ) also gave alkenylsuﬁdes 3o and 3p as the sole products in 77 % and 17 % yield , respectively ( Table 2 , entries 15 and 16 ).",
-        "operation": "Lieferung"
+        "operation": "yield"
     },
     {
         "sentence": "In the reaction of 4-methylbenzene- thiol ( 1b ) with terminal alkyne 2a , α-thioaldehyde ( 4ba ) was obtained as the major product in 59 % yield and alkenylsulﬁde ( 3ba ) as minor product in 32 % yield ( Table 3 , entry 1 ).",
@@ -6269,7 +6285,7 @@
     },
     {
         "sentence": "To know if the reaction proceeds via a radical pathway , the reaction of tert-butyl 2-(but-3-yn-1-yloxy) acetate ( 2a ) with thiophenol ( 1a ) was carried out in the presence of the radical inhibitor , TEMPO ( 2,2,6,6-tetramethyl-1-piperidinyloxy ) ( 5 ) , and only 2,2,6,6- tetramethyl-1-((phenylthio)oxy)piperidine ( 6 ) and diphenyl disulﬁde ( 7 ) were isolated , with no detectable sign of α- thioaldehyde ( 4a ).",
-        "operation": "reaction"
+        "operation": "transmission"
     },
     {
         "sentence": "The thiophenyl radical 8 initiated by TBHP coordinates with terminal alkyne 2a to form ﬂexible radical 9 , followed by addition of H2O to give radical 10 which then reacts with O2 ( air ) to give peroxy radical 11 ; this decomposes to form α-thioaldehyde 4a and hydroperoxy radical\n30b,32 The o- quinone methide 5 is generated by treatment of 1 with base.",
@@ -6277,7 +6293,7 @@
     },
     {
         "sentence": "Methylation of the hydroxyl group in 2 under Mitsunobu conditions ( MeOH , diethyl azodicarboxylate ( DEAD ) , PPh3 , and THF ) readily gave 4 ( Scheme 4 ).",
-        "operation": "mitochondrial function"
+        "operation": "Metabolism"
     },
     {
         "sentence": "Powdered 4 was irradiated for 45 min with a 500 W xenon lamp , using a glass slide to cut oﬀ wavelengths below 420 nm , giving 7 in 93 % yield as the sole product.",
@@ -6293,7 +6309,7 @@
     },
     {
         "sentence": "The reaction with 1.5 equiv of 1- ethylpiperidine in dichloromethane at 0 ° C yielded bisquinone 3 in 13 % yield , together with recovered 1 in 72 % yield ( entry 3 ).",
-        "operation": "Krebs"
+        "operation": "recovered"
     },
     {
         "sentence": "Treatment of 3 with 2.0 equiv of triethylamine in THF aﬀorded 2 in 68 % yield .",
@@ -6353,7 +6369,7 @@
     },
     {
         "sentence": "The reaction provided compound 10 in good yield ( 76 % ) ( Supporting Information Figures S11 and S12 ).",
-        "operation": "maintenance"
+        "operation": "maintenance of the environment"
     },
     {
         "sentence": "Protection of the secondary alcohol was then achieved with allyl bromide in THF in the presence of excess sodium hydride to give compound 11 in 85 % yield ( Supporting Information Figures S13 and S14 ).",
@@ -6365,7 +6381,7 @@
     },
     {
         "sentence": "The reaction provided desired hexa-functionalized derivative 14 with moderate yield ( 53 % ) ( Supporting Information Figures S19 and S20 ).",
-        "operation": "maintenance of a hexa-functionalized derivative"
+        "operation": "maintenance of a hexa"
     },
     {
         "sentence": "The hydrolysis of compound 14 under basic conditions ( KOH / H2O-THF mixture ) gave rise to desired hexa-carboxylic acid derivative 1 in 85 % yield .",
@@ -6389,7 +6405,7 @@
     },
     {
         "sentence": "The product was determined to be 9,9,10,10- tetraﬂuoro-1,2,4,12-tetraphenyl[2.2]paracyclophan-1-ene by X-ray crystallography and is proposed to be formed via the ﬁrst reported example of reductive deﬂuorination by a Grignard reagent .",
-        "operation": "formation"
+        "operation": "production"
     },
     {
         "sentence": "It has been previously reported that a palladium - catalyzed Kumada cross-coupling reaction of diiodide 5 generated products 6 and 7 in 20 % and 21 % yield , respectively.15 We were motivated to revisit this reaction for two reasons.",
@@ -6405,7 +6421,7 @@
     },
     {
         "sentence": "10 In that work , we postulate a mechanism in which the oxygen bridge of intermediate amino-substituted 7-oxabicyclo[2.2.1]heptene ( 5 ) is opened with assistance of the nitrogen lone pair to give a 4-amino-1- hydroxy-1H-xanthen-9(2H)-one ( Scheme 1 ; 6 ; E1 and E2 are electron - withdrawing groups ).",
-        "operation": "Krebs"
+        "operation": "exchange"
     },
     {
         "sentence": "We reason that elimination of water would be much more diﬃcult in the absence of an electron - withdrawing group on position 2 , and in that case it could be possible to isolate the intermediate 1-hydroxy-1H-xanthen-9(2H)-one ( 6 ).",
@@ -6481,7 +6497,7 @@
     },
     {
         "sentence": "A one - step conversion of 10 to 32 based on the formylation of the lithiated alkyne with anhydrous DMF did not produce any of the expected 32 , and only starting material 10 was isolated from the crude reaction mixture ( Scheme 7 , route B ).",
-        "operation": "contamination"
+        "operation": "fabrication"
     },
     {
         "sentence": "In contrast , carboxylation of the lithium acetylide derived from 10 by gaseous CO2 gave acid 34 in excellent yield.",
@@ -6489,7 +6505,7 @@
     },
     {
         "sentence": "The following DIBAL reduction failed , however , and 1H NMR of the crude reaction mixture contained starting material 35 and mere traces of the desired ynone 32 ( Scheme 7 , route C ) .",
-        "operation": "contamination"
+        "operation": "failure"
     },
     {
         "sentence": "The addition of lithiated 30 to ynone 32 resulted in a nearly quantitative yield of racemic alcohol 36 , whose Swern oxidation gave ketone 37 in 79 % yield ( Scheme 8 ).",
@@ -6509,7 +6525,7 @@
     },
     {
         "sentence": "The triple bond was indeed silylated , but iodine was surprisingly replaced by hydrogen at the same time ; dichloro derivative 47 was isolated as the only product in 76 % yield ( Scheme 10 ) .",
-        "operation": "separation"
+        "operation": "transféred"
     },
     {
         "sentence": "With carbamates as amide component , the corresponding N - protected amidomethylarenes 6c and 6d were obtained in 45 % and 71 % yield , respectively.",
@@ -6517,7 +6533,7 @@
     },
     {
         "sentence": "In addition , highly functionalized amides are suitable substrates for this three - component reaction , Thus , the reaction of the protected valinamide 7 provided the amino acid derivate 8 in 63 % yield ( Scheme 2 ).",
-        "operation": "enzymes"
+        "operation": "maintenance of the environment"
     },
     {
         "sentence": "The reaction with sterically hindered pivaloyl amide proceeded in a chemoselective manner , and the amidoalkylated product 10k was obtained in 66 % yield.",
@@ -6553,7 +6569,7 @@
     },
     {
         "sentence": "Only in the case of urethane was the desired product 29g formed , albeit in only 33 % yield.",
-        "operation": "fabrication"
+        "operation": "production"
     },
     {
         "sentence": "The reaction carried out in THF under a N2 atmosphere led to the allyllic alcohol 9a in 70 % yield with high regioselectivity ( 9a:10a = 96 : 4 in the crude reaction mixture by NMR analysis ) ( Scheme 4 ).",
@@ -6565,7 +6581,7 @@
     },
     {
         "sentence": "Indeed , 9a gave the desired 11a in 85 % yield in the presence of t-BuOK ( 1 equiv ) at room temperature ( Scheme 4 ) .",
-        "operation": "sterilization"
+        "operation": "Transmission"
     },
     {
         "sentence": "In the case of 1h , even this procedure failed to avoid rearrangement ( Table 1 , entry 9 ) , and we isolated a 3 : 1 unseparable mixture of 11h and 13h ( NMR analysis ).",
@@ -6665,7 +6681,7 @@
     },
     {
         "sentence": "in addition to the desired Heck − Suzuki product 4 the formation of byproduct 5 that results from the direct Suzuki coupling of the aryl bromide moiety of 1 with organoboron reagent 3 could be observed.",
-        "operation": "mitochondrial function"
+        "operation": "Transmission"
     },
     {
         "sentence": "Interestingly , in this case , in addition to the standard product 4 another unexpected 3-benzazepine product 6 was formed resulting from the double incorporation of organoboron\nCrude reaction mixture analysis showed no starting material remained , with griseofulvin being regenerated from degradation of the 1,2- and 1,4-adducts during isolation.15 The (S,S)-4 ligand proved similar in reactivity to provide 1,2-adduct 20 ( 54 % ) and 1,4-adduct 21 ( 25 % ) and recovered griseofulvin.",
@@ -6761,7 +6777,7 @@
     },
     {
         "sentence": "Various solvents were screened , and MeOH was proven to be optimal , aﬀording 3a in 35 % yield ( entry 4 ).",
-        "operation": "solvents"
+        "operation": "disinfection"
     },
     {
         "sentence": "A stoichiometric amount ( 200 mol % ) of CsOAc gave an improved yield of 3a ( entry 5 ).",
@@ -6781,11 +6797,11 @@
     },
     {
         "sentence": "Changing of OMe ( 1a ) to an O-pivaloyl group ( 1a′ ) did not give any desired product 7a or 7a′ ( entry 2 ).",
-        "operation": "fabrication"
+        "operation": "maintenance"
     },
     {
         "sentence": "Various solvents were tested , and DMF was proven to be optimal , aﬀording 7a in 78 % yield ( entry 6 ) .",
-        "operation": "solvents"
+        "operation": "disinfection"
     },
     {
         "sentence": "the C6-methoxy- substituted indoline gave the 7-membered product 5l′ as the sole product.22 In addition , other dialkyl-substituted alkynes\nThe [11C]-1 was also converted to 11C - labeled fursultiamine ( [11C]-2 ) , a prodrug of vitamin B1 , by disulﬁde formation with S-tetrahydrofurfurylthiosulfuric acid sodium salt.",
@@ -6805,7 +6821,7 @@
     },
     {
         "sentence": "As shown in Table 1 , the use of standard conditions for the rapid C- [11C]methylation of heteroaromatics,11 Pd2(dba)3 ( dba , dibenzylideneacetone ) and P(o-tolyl)3 ( 1 : 16 ) in the presence of CuBr and CsF in NMP for 5 min at 100 ° C , was eﬀective at producing the target [11C]methylated thiazole [11C]-10 with a suﬃciently high radioactivity of 2.4 GBq following puriﬁcation by semipreparative HPLC ( entry 1 ).",
-        "operation": "Krebs"
+        "operation": "Krebs cycle"
     },
     {
         "sentence": "Highly polar impurities were washed away from the cartridge using a solution ( 5.0 mL ) of sterile saline and propylene glycol ( 90 : 10 ) , and then the desired 11C - labeled fursultiamine [11C]-2 was eluted using a solution ( 2.0 mL ) of sterile saline and propylene glycol ( 70 : 30 ).",
@@ -6821,7 +6837,7 @@
     },
     {
         "sentence": "The major oxidation products observed were dZ ( 14.7 % ) , dSp ( 10.8 % ) , and Gua ( 12.4 % ) and in low absolute yields were d2Ih ( 2.9 % ) , dOG ( 1.4 % ) , and dGh ( 1.4 % ).",
-        "operation": "Oxygenation"
+        "operation": "production"
     },
     {
         "sentence": "( 1 ) The absolute conversion of dG to product decreased with Asc ( 2.5-fold ) , as expected , because Asc quenches radical reactions.51 ( 2 ) The major products were now d2Ih ( 6.3 % ) , dSp ( 3.9 % ) , and Gua ( 4.1 % ) , with the mass balance completed by low yields of dZ ( 1.1 % ) , dOG ( 2.5 % ) , cyclo-dG ( 0.5 % ) , and dGh ( < 0.1 % ).",
@@ -6829,7 +6845,7 @@
     },
     {
         "sentence": "The low redox potential of dOG renders this nucleoside labile toward further oxidation to yield the hydantoins dSp and dGh ( Scheme 3 ).",
-        "operation": "yield"
+        "operation": "yield the hydantoins"
     },
     {
         "sentence": "In conclusion , HO - mediated oxidation of dG via Fe(II) - Fenton chemistry and X- ray irradiation eﬀects oxidation at C8 of dG to yield dOG as the dominant product along this pathway under low oxidant ﬂux with O2 and the reductant present ( Figures 3A , 3B , and 5 ) .",
@@ -6837,7 +6853,7 @@
     },
     {
         "sentence": "These data , in which dOG was obtained in greater yield than the hydantoins under conditions with physiologically relevant further explain why concentrations of dOG are generally much greater than hydantoins in vivo.26,56 Oxidations of dOG have detected a four - electron oxidation product dehydroguanidinohydantoin-2′-deoxyribonucleoside ( dGhox ) , or formally a six - electron oxidation product of dG ( Scheme 3 ).",
-        "operation": "mitochondrial membrane"
+        "operation": "concentrations of dOG"
     },
     {
         "sentence": "The products dZ and d2Ih result from oxidation of dG followed by initial product forming chemistry occurring at C5.",
@@ -6845,11 +6861,11 @@
     },
     {
         "sentence": "When the reductant was not present , 5-HOO-dG decomposes to yield dIz ; however , when the reductant was present , the hydro- peroxyl group can be reduced to the alcohol 5-HO-dG.",
-        "operation": "yield"
+        "operation": "yield dIz"
     },
     {
         "sentence": "Next , 5-HO-dG undergoes acyl migration to reduced - dSp ( dSpred ) that hydrates at C8 and ring opens to yield d2Ih ( Scheme 5A ).",
-        "operation": "enzymes"
+        "operation": "yield"
     },
     {
         "sentence": "Indeed , a rapid conversion of native α-CD and TsIm ( more than 90 % conversion within 1 min ) into 1 was observed ( Figure 2 ).",
@@ -6869,7 +6885,7 @@
     },
     {
         "sentence": "Moreover , a heteroaryl-substituted nitroalkene also produced the corresponding furan ( 3ah ) in moderate yield.",
-        "operation": "production"
+        "operation": "production of phosphorylation"
     },
     {
         "sentence": "Upon cyclization and successive elimination of HNO and H2O,9,12 C is consecutively converted to 3aa via the intermediates D and E.",
@@ -6881,7 +6897,7 @@
     },
     {
         "sentence": "optimize the reaction between 1a and 2a to give 3a , various Lewis acids were employed , and MgI2 was found to be the most eﬀective ( Table 1 ).",
-        "operation": "chemical reactions"
+        "operation": "maintenance of the environment"
     },
     {
         "sentence": "The other commercially available Lewis acids such as Mg(OTf)2 , Sc(OTf)3 , InCl3 , Yb(OTf)3 , Zn(OTf)2 , MgBr2 , and ZnI2 did not lead to 3a ( Table 1 , entries 6 − 9 and 12 − 14 ).",
@@ -6905,11 +6921,11 @@
     },
     {
         "sentence": "The alkynoate anion in ternary complex 13 abstracts a hydrogen atom from another molecule of alk-3-ynoate to form product 11 , and ion - pair complex 12 is regenerated simultaneously.",
-        "operation": "interaction"
+        "operation": "produces product"
     },
     {
         "sentence": "The alkynoate anion in ternary complex 14 could abstract a hydrogen atom from bicyclic guanidinium ion to form product 11 , and at the same time , alk-3-ynoate 10 and guanidine catalyst 1 are regenerated.",
-        "operation": "catalyst 1"
+        "operation": "fabrication"
     },
     {
         "sentence": "After complete conversion of the substrate ( 6 h ) , the reaction was stopped and analysis of the only product readily showed that intramolecular photodirect- arylation had occurred , leading to compound 5a in 92 % yield ( Table 1 ).",
@@ -6941,7 +6957,7 @@
     },
     {
         "sentence": "Ring opening then occurs in situ , with high levels of regioselectivity for attack of trichloroacetate anion at C(1) , distal to the electron - withdrawing ammonium moiety where its destabilizing electron - withdrawing inﬂuence on the transition state is minimized.21,22 This regioselectivity is also in accordance with the Fürst − Plattner rule.23 Meanwhile , treatment of 1 with m-CPBA ( 1.5 equiv ) gave the corresponding N-oxide 6 , which upon further treatment with m-CPBA ( 3 equiv ) gave N-oxide epoxide 7 in 73 : 27 dr.20 This stereochemical outcome is consistent with diastereoselective epoxidation of 6 occurring anti to the N-oxide moiety for steric and / or electronic reasons.",
-        "operation": "Krebs cycle"
+        "operation": "transmission"
     },
     {
         "sentence": "It was found , however , that addition of Cl3CCO2H ( 10 equiv ) to the reaction mixture had a beneﬁcial eﬀect on the diastereoselectivity of this epoxidation reaction , resulting in the production of 7 in 98 : 2 dr , although under these conditions regioselective ring opening occurred in situ by attack of trichloroacetate anion at C(1) , distal to the\nelectron - withdrawing ( protonated ) N-oxide moiety , with subsequent treatment with K2CO3 in MeOH and ﬁnally Zn in AcOH giving aminodiol 9 in 63 % isolated yield and > 99 : 1 dr20 ( Scheme 1 ) .",
@@ -6949,7 +6965,7 @@
     },
     {
         "sentence": "1H NMR spectroscopic analysis after a further 8 h revealed complete conversion to N-oxide epoxide 18.",
-        "operation": "complete conversion to N-oxide epoxide"
+        "operation": "fabrication"
     },
     {
         "sentence": "Reductive workup ( with Na2SO3 ) and chromatographic puriﬁcation gave the known epoxide 1929 in 62 % isolated yield.",
@@ -6973,7 +6989,7 @@
     },
     {
         "sentence": "Treatment of 25 with H2SO4 resulted in formation of a single triol 41 in > 95 : 5 dr and in > 95 % mass return.",
-        "operation": "formation of single triol 41"
+        "operation": "formation of a single triol 41 in > 95 : 5 dr and in > 95 % mass return"
     },
     {
         "sentence": "Ring opening of epoxide 19 proceeded with somewhat lower regioselectivity to give a 75 : 25 mixture of triols 39 and 40 , respectively ( > 95 % mass return ) , which were isolated in 31 % and 8 % yield.",
@@ -6981,7 +6997,7 @@
     },
     {
         "sentence": "This stereochemical outcome is consistent with attack of H2O on the intermediate ammonium 35 occurring at both C(2) and C(3) to give the corresponding triols 39 and 40 , respectively ( Scheme 8 ).",
-        "operation": "Krebs cycle"
+        "operation": "attack of H2O on the intermediate ammonium 35"
     },
     {
         "sentence": "identical conditions , attempted ring opening of epoxide 34 gave a complex mixture of products , while ring opening of epoxide 13 proceeded to give a 5 : 75 : 20 mixture of triols 39 , 40 , and 41 , respectively ( > 95 % mass return ).",
@@ -7037,7 +7053,7 @@
     },
     {
         "sentence": "Similarly , the 4- bromopyrrole nucleoside 11b and 12 also aﬀorded the corresponding 7-brominated product 10b in 79 % yield .",
-        "operation": "mitochondrial function"
+        "operation": "yield"
     },
     {
         "sentence": "The 5″-hydroxy group of 10a was protected with a dimethoxytrityl group , and then the 5′-O-TBS group of the product was removed with TBAF to give 20a.",
@@ -7073,7 +7089,7 @@
     },
     {
         "sentence": "The carbonyl electrophiles MeOCOCl and acetone gave products 3b and 3c , respectively , the latter being formed by cyclization of the intermediate alkoxide onto the Boc group.",
-        "operation": "interaction of carbonyl electrophiles"
+        "operation": "interaction"
     },
     {
         "sentence": "The reaction was amenable to allyl bromide or benzyl bromide as the electrophile to give products 3d and 3e , respectively.",
@@ -7129,7 +7145,7 @@
     },
     {
         "sentence": "First , oxidative addition of 1 to the Pd(0) catalyst results in the palladium complex A , followed by isocyanide insertion8 to yield palladium complex B.",
-        "operation": "isocyanide"
+        "operation": "isocyanide insertion8"
     },
     {
         "sentence": "Initially , the reaction of (triisopropylsilyl)acetylene 1 and MBH carbonate 2a was investigated under the catalysis of Pd(PPh3)4 with N,P - ligand L1 in water alone.9 However , only 12 % yield of the product 3a was obtained ( Table 1 ).",
@@ -7205,7 +7221,7 @@
     },
     {
         "sentence": "Acid - catalyzed dehydration of this mixture followed by recrystallization from hexanes gave 1 ( 65 % yield for two steps ) as colorless crystals , consistent with the known 1- bromo-8-methylnaphthalene.1 Similarly , catalytic hydrogena-\nHeteroarylboronic acids that are known to protodeboronate under Suzuki conditions29 reacted eﬃciently under the neutral LS cross-coupling reaction conditions to yield compounds 15 , 16 , 37 , 39 , and 46 in good yields and short reaction times.",
-        "operation": "catalyst"
+        "operation": "Krebs"
     },
     {
         "sentence": "In contrast , Na2S2O8 , benzoyl peroxide , and TBHP aﬀorded 3a in low yield , while the reaction failed under molecular oxygen ( entries 3 − 6 ).",
@@ -7221,7 +7237,7 @@
     },
     {
         "sentence": "Further , pyrazoles 1o and 1p bearing a dimethyl-substituted phenyl ring also furnished 3o and 3p , in good yields.",
-        "operation": "yields"
+        "operation": "reproduction"
     },
     {
         "sentence": "Optimizationa of the Palladium - Catalyzed Oxidative Dehydrogenative Homocoupling with 1-Phenylpyrazole 1a Leading to Biaryl Bis-pyrazole 3a\nFurthermore , substrate 5h bearing a 3,4-dimethyl group also furnished the product as an isolable mixture of 6h and 7h , but the 3,4,5-trimethoxyphenyl ring bearing substrate 5i aﬀorded 6i exclusively.",
@@ -7269,7 +7285,7 @@
     },
     {
         "sentence": "The best results observed at 130 ° C [ 150 W , closed vial ] to aﬀord the target heterocycle 7a in 1 h with up to 88 % along with 7 % of 6.",
-        "operation": "mitochondrial DNA"
+        "operation": "Transmission"
     },
     {
         "sentence": "Furthermore , the reaction in sealed tube without microwave irradiation aﬀorded 7a in 34 % yield ( entry 7 ) .",
@@ -7277,7 +7293,7 @@
     },
     {
         "sentence": "The reaction of aldehydes 1e − g bearing alkoxy groups at the 4-position furnished 7e − g in 25 − 67 % yields.",
-        "operation": "reaction"
+        "operation": "transmission"
     },
     {
         "sentence": "Likewise , aldehydes 1h − j and 1l − n having bromo , chloro , ﬂuoro , methoxy , and methyl substituents at the 5-position readily reacted to give coumarin derivatives 7h − j and 7l − n in 65 − 78 % yields , while the reaction of aldehydes 1k and 1o with strong electron - withdrawing groups 5-CHO and 5-NO2 was less- successful.",
@@ -7317,7 +7333,7 @@
     },
     {
         "sentence": "Molecular hybridization for construction of hybrid molecules with a dual mode of action are gaining importance in medicinal chemistry.22 To construct such a hybrid , we performed reaction of quinolin-4-one ( 2a ) and 7-Chloro-4-hydrazinylquinoline10 under optimized conditions to aﬀord desired hybrid compound 3z in moderate yield ( Table 2 ) .",
-        "operation": "Hygiene"
+        "operation": "fabrication"
     },
     {
         "sentence": "We prepared the 6- phenylbenzofuro[3,2-c]quinoline by a Cu promoted intra- molecular cyclization of C-3-(2-bromoaryl) product 3d in 75 % yield ( Scheme 2 ) .",
@@ -7365,7 +7381,7 @@
     },
     {
         "sentence": "Because glycerine product 8c was obtained easily by reduction of NaBH4 , we anticipated that we could obtain glycerine product 8 from ethynylcarbinol 1 by a one - pot reaction ( Scheme 5 ).",
-        "operation": "digestion"
+        "operation": "Removal of NaBH4"
     },
     {
         "sentence": "the same procedure the desired product 8n was obtained in 78 % yield with a 4 : 1 diastereoisomeric ratio value.",
@@ -7389,7 +7405,7 @@
     },
     {
         "sentence": "In contrast , the McMurry cyclooligomerization of 1a produced cyclodimer 7a ( 18 % ) and cyclotrimer 3a ( 8 % 65 ) as the principal nonpolymeric products ( Scheme 3 ).",
-        "operation": "fabrication"
+        "operation": "production of cyclodimers"
     },
     {
         "sentence": "diphosphonium salt 11a was reacted with aldehydes 1a and 1b , producing cyclotetramers 5a and 5d , respectively.",
@@ -7397,7 +7413,7 @@
     },
     {
         "sentence": "The P3P + C1C route should formally be selective toward macrocycles containing 4n subunits , and indeed , cyclohexamer 6a did not form in the reaction between 11a and 1a .",
-        "operation": "Krebs cycle"
+        "operation": "collision"
     },
     {
         "sentence": "Hexamer 6a indeed formed selectively in the reaction between 11a and 12a ( no 5a was observed ) , but the yield was still low ( ca.",
@@ -7437,7 +7453,7 @@
     },
     {
         "sentence": "For the synthesis of (±)-1,2-[5]helicenyl diacetate ( rac-2 ) , rac-1b was treated with o-iodoxybenzoic acid ( IBX ) in DMF to aﬀord the desired [5]helicene o-quinone (rac-9),6 which was converted to rac-2 in 68 % yield by a sequence of reduction and acetylation reactions ( Scheme 2 ).",
-        "operation": "reduction and acetylation reactions"
+        "operation": "converted to [5]helicenyl diacetate ( rac-9),6"
     },
     {
         "sentence": "Hydrolysis of rac-1a in the presence of Amano PS proceeded to give (+)-(P)-1b with 38 % ee in 59 % yield , and (−)-(M)-1a of 35 % ee was recovered in 41 % yield ( entry 1 ).",
@@ -7453,7 +7469,7 @@
     },
     {
         "sentence": "ABSTRACT : The title compound 4 is a trisolvated monomer 4 & 3THF in THF solution and dimerizes endothermically to form ( 4 & THF)2 with a strongly positive ( !",
-        "operation": "interaction with a molecule"
+        "operation": "disinfection"
     },
     {
         "sentence": ") dimerization entropy in toluene as the solvent.",
