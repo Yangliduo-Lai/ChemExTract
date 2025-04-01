@@ -106,7 +106,7 @@ def generate_qa_training_data(train_ratio=0.8):
     print(f"QA evaluation data saved to {eval_json_file}")
 
 """
-微调一个 Flan-T5 Small 模型。
+微调一个 Flan-T5 Large 模型。
 """
 def load_data(data_path):
     with open(data_path, "r", encoding="utf-8") as file:
@@ -126,7 +126,7 @@ def preprocess_data(example, tokenizer, max_length=512):
     return model_inputs
 
 
-def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
+def fine_tune_flan_t5(model_name = "google/flan-t5-large"):
     train_path ="data/weak_labeled/qa_training_data.json"
     eval_path = "data/weak_labeled/qa_eval_data.json"
     output_dir = "models/flan_t5_finetuned"
@@ -145,16 +145,26 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
 
     training_args = TrainingArguments(
         output_dir=output_dir,
-        evaluation_strategy="epoch",  # Enable evaluation at each epoch
-        save_strategy="epoch",
-        learning_rate=2e-5,
-        per_device_train_batch_size=6,
+        evaluation_strategy="steps",  # 每隔 N 步评估一次
+        eval_steps=100,  # 每 100 步评估一次
+        save_strategy="steps",
+        save_steps=100,  # 每 100 步保存一次
+        save_total_limit=2,  # 最多保存2个模型
+        logging_dir=f"{output_dir}/logs",
+        logging_steps=20,  # 日志打印频率
+
+        per_device_train_batch_size=4,  # A10 可轻松承受
         per_device_eval_batch_size=4,
-        num_train_epochs=3,
+        gradient_accumulation_steps=4,  # 相当于真实 batch size = 16
+        learning_rate=2e-4,  # 适合小样本微调（稍高，收敛更快）
+        warmup_steps=50,  # 预热一点点
+        num_train_epochs=10,  # 数据量小，可多跑几轮
+        lr_scheduler_type="linear",
         weight_decay=0.01,
-        save_total_limit=2,
-        fp16=False,
+
+        fp16=True,  # 开启半精度，提升速度、减小显存
         push_to_hub=False,
+        report_to="none",
     )
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)

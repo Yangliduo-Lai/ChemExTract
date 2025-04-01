@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0b646c-c841-47d6-989e-856e7ec39bec" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/ChemExTract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test/paper.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluation/extraction_evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluation/ground_truth_actions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prep/experiment_extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prep/pdf2xml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prep/text_similarity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ChemExTract-Model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/raw/scientific_paragraphs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/scientific_paragraphs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_mining/flan_t5_trainer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +191,8 @@
       <workItem from="1742121324545" duration="9079000" />
       <workItem from="1742871427267" duration="2665000" />
       <workItem from="1743146923048" duration="18006000" />
+      <workItem from="1743322395238" duration="28000" />
+      <workItem from="1743323732537" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
