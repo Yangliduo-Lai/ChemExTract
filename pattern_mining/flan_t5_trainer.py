@@ -126,7 +126,7 @@ def preprocess_data(example, tokenizer, max_length=512):
     return model_inputs
 
 
-def fine_tune_flan_t5(model_name = "google/flan-t5-base"):
+def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
     train_path ="data/weak_labeled/qa_training_data.json"
     eval_path = "data/weak_labeled/qa_eval_data.json"
     output_dir = "models/flan_t5_finetuned"
