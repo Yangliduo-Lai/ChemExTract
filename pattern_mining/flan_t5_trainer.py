@@ -158,7 +158,7 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-large"):
         gradient_accumulation_steps=8,  # 相当于真实 batch size = 16
 
         learning_rate=2e-4,  # 适合小样本微调（稍高，收敛更快）
-        warmup_steps=10,  # 预热一点点
+        #warmup_steps=10,  # 预热一点点
         num_train_epochs=10,  # 数据量小，可多跑几轮
         lr_scheduler_type="linear",
         weight_decay=0.01,
