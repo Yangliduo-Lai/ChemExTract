@@ -126,7 +126,7 @@ def preprocess_data(example, tokenizer, max_length=512):
     return model_inputs
 
 
-def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
+def fine_tune_flan_t5(model_name = "google/flan-t5-large"):
     train_path ="data/weak_labeled/qa_training_data.json"
     eval_path = "data/weak_labeled/qa_eval_data.json"
     output_dir = "models/flan_t5_finetuned"
@@ -148,9 +148,9 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-small"):
         evaluation_strategy="epoch",  # Enable evaluation at each epoch
         save_strategy="epoch",
         learning_rate=2e-5,
-        per_device_train_batch_size=6,
-        per_device_eval_batch_size=4,
-        num_train_epochs=3,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
+        num_train_epochs=4,
         weight_decay=0.01,
         save_total_limit=2,
         fp16=False,
