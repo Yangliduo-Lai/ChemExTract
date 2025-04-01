@@ -153,9 +153,9 @@ def fine_tune_flan_t5(model_name = "google/flan-t5-large"):
         logging_dir=f"{output_dir}/logs",
         logging_steps=20,  # 日志打印频率
 
-        per_device_train_batch_size=4,  # A10 可轻松承受
+        per_device_train_batch_size=1,  # A10 可轻松承受
         per_device_eval_batch_size=4,
-        gradient_accumulation_steps=4,  # 相当于真实 batch size = 16
+        gradient_accumulation_steps=8,  # 相当于真实 batch size = 16
         learning_rate=2e-4,  # 适合小样本微调（稍高，收敛更快）
         warmup_steps=50,  # 预热一点点
         num_train_epochs=10,  # 数据量小，可多跑几轮
