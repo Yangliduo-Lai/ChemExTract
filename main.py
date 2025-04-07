@@ -1,4 +1,5 @@
 import argparse
+import os
 
 from evaluation.extraction_evaluation import evaluation
 from pdf_rephrasing.experiment_extract import run_extraction_pipeline
@@ -44,16 +45,46 @@ def run_text_pre():
 
 # 文本格式化
 # 文本重写
-def run_text_rephrase():
-    # text_rephrase("data/parsed_txt/test_scientific_paragraphs.txt",
-    #               "data/parsed_txt/rephrased_scientific_paragraphs.txt")
-    # 预测
-    text_rephrase("evaluation/src.txt",
-                 "evaluation/result.txt")
+def run_text_rephrase(src_file="data/parsed_txt/test_scientific_paragraphs.txt",
+                      result_file="data/parsed_txt/rephrased_scientific_paragraphs.txt"):
+    text_rephrase(src_file, result_file)
+
 
 
 # 评估
 def run_evaluation():
+    # src_path = "evaluation/src.txt"
+    # result_path = "evaluation/result.txt"
+    #
+    # temp_input = "evaluation/temp_input.txt"
+    # temp_output = "evaluation/temp_output.txt"
+    #
+    # # 清空最终输出文件
+    # open(result_path, 'w', encoding='utf-8').close()
+    #
+    # with open(src_path, 'r', encoding='utf-8') as src_file:
+    #     for line in src_file:
+    #         sentence = line.strip()
+    #         if not sentence:
+    #             continue
+    #
+    #         # 写入临时输入文件
+    #         with open(temp_input, 'w', encoding='utf-8') as f_temp_in:
+    #             f_temp_in.write(sentence + '\n')
+    #
+    #         # 调用改写函数
+    #         text_rephrase(temp_input, temp_output)
+    #
+    #         # 读取改写后的结果并追加写入到最终结果文件
+    #         with open(temp_output, 'r', encoding='utf-8') as f_temp_out:
+    #             rephrased_line = f_temp_out.read().strip()
+    #             with open(result_path, 'a', encoding='utf-8') as f_result:
+    #                 f_result.write(rephrased_line + '\n')
+    #
+    # # 清理临时文件（可选）
+    # os.remove(temp_input)
+    # os.remove(temp_output)
+
     evaluation()
 
 

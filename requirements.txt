@@ -1,1 +1,7 @@
 transformers~=4.49.0
+networkx~=3.4.2
+nltk~=3.9.1
+levenshtein~=0.27.1
+datasets~=3.3.2
+pdfplumber~=0.11.5
+openai~=0.28.0

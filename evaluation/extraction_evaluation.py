@@ -7,24 +7,18 @@ from difflib import SequenceMatcher
 
 from text_rephrasing.rephrase_scientific_text import text_rephrase
 
-
-def read_actions_from_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-    actions = [line.strip() for line in lines if line.strip()]
-    return actions
-
 def compute_bleu_score(gt_actions, extracted_actions):
-    # 分词处理
     reference = [word_tokenize(" ".join(gt_actions))]
     candidate = word_tokenize(" ".join(extracted_actions))
-    bleu_score = sentence_bleu(reference, candidate)
-    return bleu_score
+    return sentence_bleu(reference, candidate, smoothing_function=SmoothingFunction().method1)
 
 def compute_levenshtein_similarity(gt_actions, extracted_actions):
     gt_text = " ".join(gt_actions)
     extracted_text = " ".join(extracted_actions)
     return ratio(gt_text, extracted_text)
+
+def fuzzy_match(a, b, threshold=0.75):
+    return SequenceMatcher(None, a, b).ratio() >= threshold
 
 def compute_f1(gt_actions, extracted_actions, threshold=0.75):
     matched_gt = set()
@@ -60,11 +54,7 @@ def compute_graph_matching_score(gt_actions, extracted_actions):
     G_extracted = build_action_graph(extracted_actions)
     GM = DiGraphMatcher(G_gt, G_extracted)
     Gsub_nodes = max([set(m.values()) for m in GM.subgraph_isomorphisms_iter()], key=len, default=set())
-    score = len(Gsub_nodes) / max(len(G_gt.nodes), len(G_extracted.nodes)) if len(G_gt.nodes) > 0 else 0
-    return score
-
-def fuzzy_match(a, b, threshold=0.75):
-    return SequenceMatcher(None, a, b).ratio() >= threshold
+    return len(Gsub_nodes) / max(len(G_gt.nodes), len(G_extracted.nodes)) if max(len(G_gt.nodes), len(G_extracted.nodes)) > 0 else 0
 
 def compute_seqmatch_o(gt_actions, extracted_actions):
     gt_operations = [action.split()[0] for action in gt_actions]
@@ -77,21 +67,40 @@ def compute_seqmatch_a(gt_actions, extracted_actions):
     return matches / max(len(gt_actions), len(extracted_actions)) if max(len(gt_actions), len(extracted_actions)) > 0 else 0
 
 def evaluation():
-    file_path = "result.txt"
-    ground_truth_file = "tgt.txt"
-    ground_truth_actions = read_actions_from_file(ground_truth_file)
-    extracted_actions = read_actions_from_file(file_path)
+    file_path = "evaluation/result.txt"
+    # ground_truth_file = "evaluation/tgt.txt"
+    ground_truth_file = "evaluation/rephrased_tgt.txt"
 
-    graph_score = compute_graph_matching_score(ground_truth_actions, extracted_actions)
-    bleu_score = compute_bleu_score(ground_truth_actions, extracted_actions)
-    levenshtein_score = compute_levenshtein_similarity(ground_truth_actions, extracted_actions)
-    fuzzy_precision, fuzzy_recall, fuzzy_f1 = compute_f1(ground_truth_actions, extracted_actions)
-    smo_score = compute_seqmatch_o(ground_truth_actions, extracted_actions)
-    sma_score = compute_seqmatch_a(ground_truth_actions, extracted_actions)
+    with open(file_path, 'r', encoding='utf-8') as f_pred, open(ground_truth_file, 'r', encoding='utf-8') as f_gt:
+        pred_lines = [line.strip() for line in f_pred if line.strip()]
+        gt_lines = [line.strip() for line in f_gt if line.strip()]
 
-    print(f"BLEU Score: {bleu_score:.4f}")
-    print(f"Levenshtein Similarity Score: {levenshtein_score:.4f}")
-    print(f"Precision: {fuzzy_precision:.4f}, Recall: {fuzzy_recall:.4f}, F1: {fuzzy_f1:.4f}")
-    print(f"Graph Matching Similarity Score: {graph_score:.4f}")
-    print(f"SM-O Score: {smo_score:.4f}")
-    print(f"SM-A Score: {sma_score:.4f}")
+    assert len(pred_lines) == len(gt_lines), "预测结果与参考答案行数不一致"
+
+    total_bleu = 0
+    total_lev = 0
+    total_graph = 0
+    total_prec, total_rec, total_f1 = 0, 0, 0
+    total_smo, total_sma = 0, 0
+    n = len(gt_lines)
+
+    for gt, pred in zip(gt_lines, pred_lines):
+        gt_actions = [a.strip() for a in gt.split(';') if a.strip()]
+        pred_actions = [a.strip() for a in pred.split(';') if a.strip()]
+
+        total_bleu += compute_bleu_score(gt_actions, pred_actions)
+        total_lev += compute_levenshtein_similarity(gt_actions, pred_actions)
+        total_graph += compute_graph_matching_score(gt_actions, pred_actions)
+        prec, rec, f1 = compute_f1(gt_actions, pred_actions)
+        total_prec += prec
+        total_rec += rec
+        total_f1 += f1
+        total_smo += compute_seqmatch_o(gt_actions, pred_actions)
+        total_sma += compute_seqmatch_a(gt_actions, pred_actions)
+
+    print(f"BLEU Score: {total_bleu / n:.4f}")
+    print(f"Levenshtein Similarity Score: {total_lev / n:.4f}")
+    print(f"Precision: {total_prec / n:.4f}, Recall: {total_rec / n:.4f}, F1: {total_f1 / n:.4f}")
+    print(f"Graph Matching Similarity Score: {total_graph / n:.4f}")
+    print(f"SM-O Score: {total_smo / n:.4f}")
+    print(f"SM-A Score: {total_sma / n:.4f}")
