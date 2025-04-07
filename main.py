@@ -1,11 +1,11 @@
 import argparse
 
-from prep.experiment_extract import experiment_text_extract
-from prep.text_similarity import caculate_text_similarity
+from evaluation.extraction_evaluation import evaluation
+from pdf_rephrasing.experiment_extract import run_extraction_pipeline
 from pattern_mining.flan_t5_trainer import weak_label_data, generate_qa_training_data, fine_tune_flan_t5
 from pattern_mining.pattern_labeler import batch_predict_from_file
 from pattern_mining.pattern_refiner import update_seed_patterns
-from prep.pdf2xml import pdf_to_xml_pdfplumber
+from pdf_rephrasing.pdf2xml import pdf_to_xml_pdfplumber
 from text_rephrasing.rephrase_scientific_text import text_rephrase
 
 # 模式识别
@@ -30,19 +30,31 @@ def run_update_seed_patterns():
     update_seed_patterns()
 
 
-
 # 数据准备
 def run_text_pre():
-    # pdf_to_xml_pdfplumber("data/test/paper.pdf", "data/test/paper.xml")
-    # caculate_text_similarity("data/test/paper.xml")
-    experiment_text_extract("data/test/paper.xml")
+    pdf_to_xml_pdfplumber(
+        "data/raw_pdf_xml/McGrath et al. - Modulating the Potency of BRD4 PROTACs at the Systems Level with Amine-Acid Coupling Reactions.pdf",
+        "data/raw_pdf_xml/paper.xml")
 
+    xml_path = "data/raw_pdf_xml/paper.xml"
+    keyword_path = "pattern_mining/refined_seed_patterns.py"
+    output_path = "data/parsed_txt/experiment_paragraphs.txt"
+    run_extraction_pipeline(xml_path, keyword_path, output_path)
 
 
 # 文本格式化
 # 文本重写
 def run_text_rephrase():
-    text_rephrase()
+    # text_rephrase("data/parsed_txt/test_scientific_paragraphs.txt",
+    #               "data/parsed_txt/rephrased_scientific_paragraphs.txt")
+    # 预测
+    text_rephrase("evaluation/src.txt",
+                 "evaluation/result.txt")
+
+
+# 评估
+def run_evaluation():
+    evaluation()
 
 
 if __name__ == "__main__":
@@ -68,7 +80,7 @@ if __name__ == "__main__":
     parser_text_preparation = subparsers.add_parser("text_preparation", help="Run text preparation.")
 
     # Evaluation
-
+    parser_evaluation = subparsers.add_parser("evaluation", help="Run evaluation.")
 
     # 解析命令行参数
     args = parser.parse_args()
@@ -88,5 +100,7 @@ if __name__ == "__main__":
         run_text_rephrase()
     elif args.command == "text_preparation":
         run_text_pre()
+    elif args.command == "evaluation":
+        run_evaluation()
     else:
         parser.print_help()

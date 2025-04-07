@@ -5,6 +5,9 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from Levenshtein import ratio
 from difflib import SequenceMatcher
 
+from text_rephrasing.rephrase_scientific_text import text_rephrase
+
+
 def read_actions_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -73,10 +76,9 @@ def compute_seqmatch_a(gt_actions, extracted_actions):
     matches = sum(1 for action in extracted_actions if action in gt_actions)
     return matches / max(len(gt_actions), len(extracted_actions)) if max(len(gt_actions), len(extracted_actions)) > 0 else 0
 
-
-if __name__ == '__main__':
-    file_path = "/Users/cqmrl/PycharmProjects/ChemExTract/data/raw/rephrased_scientific_paragraphs.txt"
-    ground_truth_file = "ground_truth_actions.txt"
+def evaluation():
+    file_path = "result.txt"
+    ground_truth_file = "tgt.txt"
     ground_truth_actions = read_actions_from_file(ground_truth_file)
     extracted_actions = read_actions_from_file(file_path)
 

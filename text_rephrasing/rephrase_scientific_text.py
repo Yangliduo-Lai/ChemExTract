@@ -18,10 +18,7 @@ def match_patterns(text, patterns):
                 break  # 一个动作匹配一个即可
     return matched_actions
 
-def text_rephrase():
-    input_path = "data/raw/test_scientific_paragraphs.txt"
-    output_path = "data/raw/rephrased_scientific_paragraphs.txt"
-
+def text_rephrase(input_path, output_path):
     # 检查 API key 是否配置
     if not openai.api_key:
         raise ValueError("未设置 OpenAI API Key。请设置环境变量 OPENAI_API_KEY 或直接在代码中指定。")
@@ -78,7 +75,7 @@ def text_rephrase():
     rephrased_text = response["choices"][0]["message"]["content"]
 
     # 保存到新文件
-    with open("data/raw/rephrased_scientific_paragraphs.txt", "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(rephrased_text)
 
     print(f"✅ 改写完成，结果已保存到 {output_path}")

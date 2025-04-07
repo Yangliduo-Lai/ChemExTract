@@ -34,7 +34,7 @@ def split_text_into_sentences(text):
     return [s.strip() for s in sentences if s.strip()]
 
 
-def batch_predict_from_file(file_path= "data/raw/scientific_paragraphs.txt", output_path = "data/final_labeled/final_labeled.json", model_path="models/flan_t5_finetuned"):
+def batch_predict_from_file(file_path= "data/parsed_txt/scientific_paragraphs.txt", output_path = "data/final_labeled/final_labeled.json", model_path="models/flan_t5_finetuned"):
     # 从文本文件中读取句子并批量预测化学操作，输出 JSON
     tokenizer, model, device = load_finetuned_model(model_path)
 

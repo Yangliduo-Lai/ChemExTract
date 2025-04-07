@@ -1,0 +1,39 @@
+STEP 1: SEPARATE organic and aqueous layers.
+STEP 2: LEAVE the mixture to stand at room temperature for three days.
+STEP 3: DILUTE the mixture with ethyl acetate.
+STEP 4: WASH with water.
+STEP 5: DISSOLVE 3-Bromo-2-fluoroaniline (10 g, 52.63 mmol) in DCM (100 mL) under nitrogen atmosphere.
+STEP 6: COOL the mixture to room temperature.
+STEP 7: CONCENTRATE in vacuum.
+STEP 8: PURIFY the crude material by silica gel chromatography using DCM/MeOH/DEA (950:45:5) in DCM as eluent.
+STEP 9: YIELD a 1:1 mixture of diastereomers as a foam (2.2 g, 69% yield).
+STEP 10: ADD 1.2 mL methanol and 14 ml water, let it stand overnight, then dilute with 70 ml water.
+STEP 11: EXTRACT three times using 84 mL Methyl-tert-butylether.
+STEP 12: CONCENTRATE the mixture.
+STEP 13: DISSOLVE in MeOH.
+STEP 14: PURIFY by sulfonic acid solid phase extraction. 
+STEP 15: WASH column with MeOH.
+STEP 16: ELUTE using a 10% NH3/MeOH solution to give the free base of the product.
+STEP 17: PURIFY the product by high performance liquid chromatography and combine the required fractions.
+STEP 18: ADD K2CO3 (0.5 g) and EXTRACT with DCM.
+STEP 19: DRY and REMOVE the solvent in vacuum to yield a yellow solid.
+STEP 20: HEAT the mixture at 90°C and maintain at this temperature overnight.
+STEP 21: ADD water and EXTRACT with ethyl acetate.
+STEP 22: WASH the combined organic layers with saturated brine.
+STEP 23: DRY over anhydrous Na2SO4.
+STEP 24: REMOVE the solvent in vacuum.
+STEP 25: ADD crushed ice (40 g) and ADJUST pH to 12 with 40% aqueous KOH solution.
+STEP 26: STIR the mixture in the ice bath for 10 min then at room temperature for 20 min.
+STEP 27: REMOVE the desiccant and solvent.
+STEP 28: Purify by chromatography using varying proportions of DCM/isopropanol.
+STEP 29: MAINTAIN a temperature below 30°C.
+STEP 30: ADD 18.1 ml (18 mmol) of a 1-molar solution of boron tribromide in dichloromethane to a solution of 4-chloro-3-(2,3-dichloro-4-methoxybenzyl)-5-difluoromethoxy-1-methyl-1H-pyrazole which had been cooled to −78°C.
+STEP 31: REFINE as per Example 153B using 2,3-dichlorophenylisothiocyanate and the product of Example 203A.
+STEP 32: WASH the combined organic layer with saturated aqueous sodium bicarbonate and brine after extraction.
+STEP 33: STIR (7-Fluoro-2-oxo-1,5-naphthyridin-1(2H)-yl)acetaldehyde methyl hemiacetal and 1,1-dimethylethyl[(3S,4R)-3-hydroxy-4-piperidinyl]carbamate in chloroform plus methanol under argon.
+STEP 34: PURIFY the mixture by preparative high performance liquid chromatography. 
+STEP 35: NEUTRALIZE the pure fractions using PL-HCO3 resin.
+STEP 36: ADD 500 μl of trifluoroacetic acid to a solution of the residue.
+...and so on. 
+
+Please continue to rewrite the remaining steps following the patterns identified above.

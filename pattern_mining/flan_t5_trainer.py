@@ -15,7 +15,7 @@ from datasets import Dataset
 """
 def weak_label_data():
     # 文件路径
-    input_text_file = "data/raw/scientific_paragraphs.txt"
+    input_text_file = "data/parsed_txt/scientific_paragraphs.txt"
     pattern_file = "pattern_mining/seed_patterns.py"
     output_json_file = "data/weak_labeled/weak_labeled.json"
 

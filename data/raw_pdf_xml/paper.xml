@@ -1,0 +1,1113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PDFDocument><Page number="1"><Text>pubs.acs.org/jmc Article
+Modulating the Potency of BRD4 PROTACs at the Systems Level
+with Amine-Acid Coupling Reactions
+Andrew McGrath, Haiyan Huang, Jean-Francois Brazeau, Zirong Zhang, Christopher O. Audu,
+Nadeem A. Vellore, Lu Zhu, Zhicai Shi, Jennifer D. Venable, Christine F. Gelin,* and Tim Cernak*
+CiteThis:https://doi.org/10.1021/acs.jmedchem.4c02047 ReadOnline
+ACCESS *
+Metrics&amp;More ArticleRecommendations sı SupportingInformation
+ABSTRACT: Protein degradation using proteolysis targeting chimeras (PROTACs) represents a promising therapeutic strategy.
+PROTACsareheterobifunctionalmoleculesthatconsistofatarget-bindingmoietyandanE3ligasebindingmoiety,connectedbya
+linker.Thesefragmentsarefrequentlyunitedviaamidebonds.Whilestraightforwardtosynthesize,amides mayimpartsuboptimal
+drug properties to the overall molecule. From a systems level perspective, we envisioned that the potency of PROTACs could be
+modulatedthroughselectionofreactionconditions�whereindifferentcatalystsproducedistinctlinkersfromthesametwobuilding
+blocks.WepresentasuiteofBRD4PROTACdegraderspreparedviafournewamine−acidcouplingreactionsalongsidetheclassic
+amide coupling. Our findings reveal that variations in reaction conditions affect the physicochemical properties of PROTACs,
+resultinginaspectrumofproperties.Notably,severalnewPROTACsdemonstratedenhancedBRD4degradationefficacycompared
+to those employing amide linkers, emphasizing the potential of systems chemistry as a therapeutic optimization strategy.
+■
+INTRODUCTION protein−ligand docking scores4 based on the selection of
+Control over physicochemical properties using chemical reaction conditions. Here, we experimentally validate control
+synthesis is typically achieved by varying starting materials to ofcompoundbioactivityinanintermolecularsettingthrougha
+introduce molecular diversity. Molecular functions such as systemslevelintegrationofinterconnectedparameters(Figure
+selective tissue distribution or metabolic stability of pharma- 1a).Weenvisionthatsuchsystemschemistryexplorationswill
+ceuticalsarelinkedtophysicochemicalpropertiesandchemical become increasingly important since computational predic-
+structure. While the connection of structure and function is tions of bioactivity are becoming more precise while synthesis
+well established, the use of reaction conditions to drive and bioassay experiments becoming more automated.1
+function, through a systems-level chemistry evaluation,1 is The emergence of proteolysis targeting chimeras (PRO-
+underexplored. An interconnected and interdependent net- TACs) as a powerful therapeutic modality exemplifies the
+work of building blocks, reaction conditions, transformations, significant impact of linker composition, not only on activity,
+structures,properties,andfunctioncanbeviewedonasystems
+but also on the bulk physicochemical properties of these
+levelwhere,forinstance,thechoiceofareactioncatalystcould protein degraders.5−10 PROTACs are heterobifunctional
+driveacellularphenotypicoutcome(Figure1a).Forinstance,
+Nelson, Warriner and Karageorgis reported an application of
+activity-directed diversity-oriented synthesis,2 where diazoa- Received: August27, 2024
+Revised: November6, 2024
+mides underwent diverse intramolecular rhodium-catalyzed
+Accepted: November21,2024
+cyclizations depending on the catalyst chosen, and yielded
+products with diverse bioactivities. We earlier demonstrated
+that intermolecular couplings of amines and acids could steer
+computedparameterssuchasphysicochemicalproperties3and
+©XXXXAmericanChemicalSociety https://doi.org/10.1021/acs.jmedchem.4c02047
+A J.Med.Chem.XXXX,XXX,XXX−XXX
+.)CTU(
+84:65:30
+ta
+4202
+,81
+rebmeceD
+no
+VINU
+TSAEHTUOS
+aiv
+dedaolnwoD
+.selcitra
+dehsilbup
+erahs
+yletamitigel
+ot
+woh
+no
+snoitpo
+rof
+senilediuggnirahs/gro.sca.sbup//:sptth
+eeS</Text></Page><Page number="2"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Figure 1. (a) Systems chemistry: building blocks, conditions, transformations, structure, properties, and function are interconnected and
+interdependent.(b)80transformations(ref2)areappliedto1andacollectionofcommerciallyavailableamine-containingpartialPROTACs(see
+SupportingInformation)togiveachemicalspace,displayedasat-distributedstochasticneighborembedding(tSNE),withamide,ester,amine,
+alkane,ketoneproductshighlightedincolor.(c)Diverseamine−acidcouplingson1and2canproduceamide(3),ester(4),alkane(5),ketone
+(6),or amine (7),congeners.
+molecules that contain a ligand to recruit an E3 ubiquitin properties of the molecules produced, including molecular
+ligase, a ligand to bind the protein of interest (POI), and a weight,LogP,formalcharge,andpolarsurfacearea(PSA)(see
+linker conjoining the two ligands, leading to event driven Supporting Information) were calculated and compared using
+pharmacology that is catalytic and agnostic of receptor a t-distributedstochastic neighbor embedding (tSNE) (Figure
+occupancy.11 As such, PROTACs have a unique ability to 1b). This analysis revealed the transformations forming amide
+target “undruggable” proteins. The explosion of interest in (purple dots) and amine products (yellow dots) in general
+PROTACs has led to an extensive, commercially available occupy their own chemical space, suggesting these trans-
+toolkitoflinkerandE3ligasebindingbuildingblocks,mostof formations impart a larger effect on the overall properties of
+which terminate in an amine or carboxylic acid. Indeed, the themolecule.Comparatively,theester(pinkdots),alkane(red
+coupling amines and acids to form amides is one of the most dots), and ketone products (orange dots) overlap, indicating
+popular methods in the synthesis of PROTACs.12,13 Other these transformations exert a more nuanced effect on the
+tactics include esterification,14 click chemistry,15 S Ar,16 property space occupied by the products. This is further
+N
+Buchwald−Hartwig coupling,17 and various other meth- exemplifiedbytheincorporationofbasicaminesintothelinker
+ods.18−20 In a conventional amide coupling, when a primary portion of the starting amine (c.f. orange dots in the space
+amine and carboxylic acid are united,21 the resultant amide mostlyoccupiedbyyellowdots).Notablepocketsofthisspace
+motifbears onehydrogenbond donor(HBD) alongwith two remain inaccessible (gray dots), for instance from trans-
+hydrogen bond acceptors (HBA) and is neutral in charge. In formations that retain the carboxylic acid or incorporate bond
+thismanner,thetransformationitselfcanbeviewedasleaving rearrangements (see Supporting Information), representing
+a physicochemical footprint on the product. However, if the synthetic methods that merit future investigation. However,
+conditions used in the reaction are modified and an ester is the five transformations demonstrated here indeed cover a
+produced instead, the product has one less HBD. It follows breadth of space and structure activity relationships when
+that the properties, and thus the functional outcome, of a starting from the same two building blocks.
+moleculeisdependentnotonlyuponthebuildingblocksused Herein, we developed a suite of amine−acid PROTACs
+tocreateitbutalsothetransformationusedtounitethem.The linking reactions that produced either an amide, ester, amine,
+diversecompositionandarrangementofatomsaccessedinthis alkane,orketonelinkage usingthewell-studiedbromodomain
+way allows for a fine-tuning of properties from two building inhibitorJQ11andcereblon(CRBN)bindingpomalidomide-
+blocksjustbychangingreactionconditions.4Whenweapplied derivedamine2toyieldtheclassicPROTACdBET1(3)and
+80 possible transformations3 on acid 1 and a suite of derivatives 4−7 of (Figure 1c).22 Each of these methods
+commercially available cereblon (CRBN) recruiting amines provides a unique way to pair a POI and a partial PROTAC,
+in silico, a diverse property space emerged (Figure 1b). The andtheresultantcompounds spanarangeofphysicochemical
+B https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="3"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Figure2.(a)Developingdiversereactionconditionstoproduceester,amine,alkane,andketone-linkedanalogsofamidedBET1(3)usinghigh-
+throughputexperimentation.AssayyieldsweredeterminedbyUPLC-MS.(b)Esterarrayconditions:10μmolof1(1.0equiv),10(1.0equiv),base
+(1.0equiv)andadditive(equivlisted)perwell.(c)Alkanearrayconditions:5μmol(2.0equiv)of8,10(1.0equiv),nickelcatalyst(40mol%),
+ligand(40mol%),imideadditive(2.0equiv),Brønstedacid(2.0equiv),andmanganese(4.0equiv)perwell.(d)Ketonearrayconditions:5μmol
+(2.0equiv) of 9,1.0 equivof 10,nickel catalyst(40mol %),ligand (40mol%), additive (2.0 equiv), andmanganese (4.0 equiv) per well.(e)
+Aminearrayconditions:15μmolof1(1.5equiv),2(1.0equiv),catalysts(5mol%),ligand(10mol%),andphenylsilane(4equiv)perwell.All
+wells contain 100 μL of solvent. PyBCamCN = (2Z,6Z)-N′2,N′6-Dicyanopyridine-2,6-bis(carboximidamide), MeOPyCamCN = 4-methoxy-N-
+cyanopicolinimidamide PyCamCN = N-cyanopicolinimidamide, ttbtpy = 4,4′,4″-tritert-Butyl-2,2′:6′,2″-terpyridine, dtbpy = 4,4-ditert-
+butylbipyridine,2CNPyr =2-cyanopyridine,Karstedt’s cat= Platinum(0)-1,3-divinyl-1,1,3,3-tetramethyldisiloxanecomplex.
+C https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="4"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+and pharmacological properties. Our suite of heterobifunc-
+tional degraders, accessed from these CRBN amines and
+carboxylic acid coupling transformations was also applied to a
+vonHippel−Lindau(VHL)targetingamine.Theresultsofthis
+systems-levelstudyhighlighttheintricateconnectivitybetween
+reaction conditions, transformations, and biological function.
+■
+RESULTS AND DISCUSSION
+Optimization of Reaction Conditions. Our studies
+initiated with a campaign to identify diverse reaction
+conditions for linking 1 and 2 that would produce PROTAC Figure3.Changeinligandswitchestheselectivityforthesynthesized
+molecules 3−7. We used miniaturized high throughput productfromalkane5toketone6.Reactionsconductedusing8or9
+experimentation (HTE), which has emerged as a powerful (2.0 equiv), 10 (1.0 equiv), nickel catalyst and ligand (40 mol %
+tool in the navigation of reaction space.23−26 In addition to each), additive (2.0 equiv), andmanganese (4.0 equiv)at0.025 M.
+allowing a rapid assessment of the interplay of multiple
+reaction variables, the use of miniature glass vials allows for that hydantoin increased alkane formation whereas the
+conservation of precious starting materials,27 such as complex inclusion of Brønsted acids was detrimental. NiBr ·DME, and
+2
+partial PROTAC building blocks. HTE investigation of the dtbpy were observed to be the optimal catalyst and ligand
+four targeted amine−acid coupling transformations esterifica- combinationgiving5in38%assayyield,whichtranslatedtoa
+tion, alkylation, ketonylation, or amination was conducted 33% isolated yield on scale up.
+surveying 24 unique reaction conditions each. Reactions were In our investigation of ligands to synthesize alkane 5, we
+performedonlessthan10μmolscaleofstartingmaterial2per observed that ligand choice influenced the distribution of
+well (Figure 2a). Automatable amine−acid esterification mixtures of 5 and ketone 6 (see Supporting Information).
+reactions have been developed by our lab for both alkyl28 Based on these observations we hypothesized we could access
+andaryl amines.29 In the alkylamine setting, the esterification 6 through careful selection of catalyst, ligand and additive.
+proceeds via activation of the alkyl amine as its triphenylpyr- Thorough investigation revealed the need to explore other
+idiniumsalt30 andagingwithacarboxylicacidinthepresence activation strategies (see Supporting Information). For
+of N,N-diispropylethylamine (DIPEA) and potassium iodide substrates derived from 1, we determined acyl carbonates38
+(KI). When 1 and the pyridinium salt of 2 were subjected to to be a viable activating group. Subsequently, JQ1 (1) was
+these conditions, the desired ester was observed alongside an activatedinsitubyusingdimethyldicarbonate(DMDC).After
+undesired isobaric compound presumed to be from imine N- determining our optimal activating group, we investigated the
+alkylation (Supporting Information, Figure S10). Thus, a 24- use of imides, Brønsted acids, and ligands (Figure 2d). We
+wellreactionarrayexaminingdifferentpromoteradditives and found the ligand (Z)-N-cyanopicolinimidamide (PyCamCN)
+baseswasperformedtoidentifyalternativereactionconditions maximized the yield of 6, whereas dtbpy gave alkane 5
+for the formation of desired ester 4 (Figure 2b). In general, exclusively. Notably, in contrast to our findings in the C−C
+stronger bases facilitated the formation of the desired ester couplingof1and2,theuseofimideadditiveshinderedketone
+product.Forinstance,potassiumtert-butoxideyielded4asthe formationwhiletriethylammoniumhydrochloride(NEt ·HCl)
+3
+exclusive product whereas lutidine exclusively formed the was found to increase the yield. We selected in situ activation
+undesired adduct. DIPEA and triethylamine (TEA) gave of 1 with DMDC and catalyzed ketonylation with nickel(II)
+mixturesofboththedesiredproductandtheundesiredadduct. acetylacetonate Ni(acac) , PyCamCN, and NEt ·HCl as
+2 3
+Potassium bromide (KBr) and bromomethyldiethyl malonate optimal conditions to deliver 6 in 36% assay yield (28%
+facilitated the reaction as additives, but in lower yield than KI isolatedyield).Wewereintriguedbytherapiddecarbonylation
+or sodium iodide (NaI). The best performing conditions used of the acyl fluoride 8 to give alkane product 5 as opposed to
+KI and potassium tert-butoxide and gave 4 in 53% assay yield ketone product 6 when subjected to nickel and dtbpy, in
+and 54% isolated yield. This protocol complements recently contrast to literature reports (Figure 3).7,36 Mechanistic
+reported methods to access ester-linked PROTACs via total investigations in our lab and others37,41−43 have highlighted
+synthesis.14 that subtle effects govern the decarbonylation event in nickel-
+To access alkane and ketone linked products, we explored catalyzed reductive cross-couplings. In addition, ligands may
+nickel-catalyzed reductive cross-coupling conditions. Related also play a role in governing the kinetics of decarbonylation;
+methods employing nickel as the metal catalyst have emerged when the acyl carbonate of 1 and pyridinium salt of 2 were
+as a powerful tool to link pyridinium salts31−35 and activated subjected to NiBr ·DME and dtbpy, only the decarbonylated
+2
+carboxylic acids,36−39 and we hypothesized that a related alkylcouplingproduct5wasobserved,albeitinloweryield.To
+nickel-catalyzed system would best facilitate the formation of further probe this effect, we investigated other amine and
+alkane(5)andketone(6)targets.Webeganourinvestigation carboxylicacidcouplingpartnersunderourreactionconditions
+through coupling acyl fluoride 8 (Figure 3), generated in situ (see Supporting Information). In general, we have discovered
+from1usingtetramethylfluoroformamidiniumhexafluorophos- that selectivity for C−C coupling is consistent in the case of
+phate(TFFH)andprotonsponge,and10(thepyridiniumsalt primary pyridinium salts whereas only the ketone product is
+of 2). Subjecting these coupling partners to nickel(II) observed when using secondary pyridinium salts. The rapid
+bromide·glyme (NiBr ·DME), 4,4-di-tert-butylbipyridine decarbonylationisalsoobservedincarboxylicacidscontaining
+2
+(dtbpy), and elemental manganese produced alkane product aβ-diphenyliminegroup.Furtherinvestigationsintothiseffect
+5. A thorough investigation of the interplay of imide additives are ongoing in our lab.
+(see Supporting Information),40 nickel sources, ligands, and We next turned our attention to the formal reductive
+Brønstedacid additives (Figure2c) wasconducted. Wefound amination between 1and 2to arriveat amine-linked products
+D https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="5"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Figure4.Reductiveaminationconditionsappliedtoalibraryof(a)6aminesand(b)4acids.Allreactionsconductedusing10μmolofamine(1.0
+equiv)and15μmolofacid(1.5equiv),PtCl (5mol%),BrettPhos(10mol%)andPhSiH (5.0equiv)at0.1M.(c)Resultsofthescreen(d)
+2 3
+Isolatedyieldsupon scaleupof select compoundson0.100 mmolscale relativeto the amine startingmaterial.
+directly from an amine and acid. Based upon literature assolvent.OurobservationsconfirmedthatDMSOisessential
+precedent,44,45 we believed the desired reactivity could be to achieving reactivity with these complex substrates, which
+achieved using either platinum catalysts or contrasts reports on simpler substrates.44−46 Additionally,
+tris(pentafluorophenyl)borane (BCF). BCF in dibutylether platinumcatalysisoutperformedboroncatalystswithplatinum-
+(Bu O) produced a trace amount of desired amine 7 along (II) chloride being an optimal catalyst and BrettPhos as a
+2
+withamide3andrecoveredstartingmaterial,andnoreduction preferred ligand.
+of the amide bond or the four other carbonyls. Further Exploration of Substrate Scope and Reaction Scale-
+investigation of solvent effect demonstrated that DMSO Ups. To further explore the scope of the reductive amination
+outperforms other polar aprotic solvents (see Supporting reactionwe applied our optimized condition toan array ofsix
+Information)suggestingthatperformanceisnotentirelydriven amines including four partial PROTACs (2, 11−13), two
+by solubility. Based upon these data we planned a screen linker type molecules (14, 15) (Figure 4a) and four
+investigating solvents, catalysts, and ligands. Three catalysts pharmaceutically relevant carboxylic acids (1, 16−18) (Figure
+(twobasedonplatinumalongwithBCF),andfourphosphine 4b).SincewehaveseenthatCRBNtargetingligandssuchas2
+ligands, were surveyed by HTE using DMSO or dibutyl ether and 11 generally perform better in pure DMSO, and other
+E https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="6"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Figure5.(a)Fivetransformationsappliedto1and2(CRBN),aswellas1and13(VHL).Allreactionsconductedat0.100mmolscalerelativeto
+theamine.Amideconditions:1and2(1.0equiv),PyAOP(1.0equiv),andN-methylimidazole(1.0equiv)in1.0mLofsolvent(0.1M).Ester
+reactionconditions:1and10(1.0equiv),KI(2.0equiv),andKOtBu(1.0equiv)in1.0mLsolvent(0.1M).CCandKetoneconditions:1(2.0
+equiv),2(1.0equiv),nickelcatalyst(40mol%),ligand(40mol%),additive(2.0equiv),andmanganese(4.0equiv)in2.0mLsolvent0.05M.
+Amineconditions:1(1.5equiv)and2(1.0equiv),PtCl (5mol%),BrettPhos(10mol%),andPhSiH (5.0equiv).(b)Chemoinformaticanalysis
+2 3
+of3−7. (c) Methodsusedto activate the amine oracidcoupling partner.(d) Chemoinformaticanalysis of 19,23−26.
+systemsperformbetterusingamixtureofDMSOanddioxane, With optimized conditions for each transformation, we
+wesettledon30%DMSOindioxane.Theseconditionsappear turned our attention toward the isolation of each compound
+broadly applicable to late-stage derivatization as we saw on synthetically useful scale (0.1 mmol) (Figure 5a) using
+productformedineverywell(Figure4c).Thisisremarkableas VHL targeting amine 13.7,8,48
+the reactions are performed in the presence of functionalities We observed similar reactivity trends despite the incorpo-
+rationofpotentiallysensitivefunctionalgroups.Isolatedyields
+such as alcohols (12,13), acetonides (17), a dihydrouracil
+onpreparativescalefoundtocorrelatewellwithassayyieldfor
+(11), and an indole (16). Additionally, the reaction works on
+each transformation and delivered both the CRBN and VHL
+aliphatic as well as benzylic acids. To validate our screening
+basedPROTACsinacceptablequantity.Ouramideconditions
+protocol we isolated products from four wells on a 0.1 mmol
+(seeSupportingInformation)yieldedcompound3in73%and
+scale (19−22) (Figure 4d). In each of these reactions, we did
+compound 23 in 47% yield, respectively. Applying our
+not observe reduction of other carbonyls present in the
+esterification conditions to each substrate yielded ester 4 in
+molecule. These results as well as control experiments where
+54% and ester 24 in 36% yield. Further, a one-pot protocol
+theaminewasomitted(seeSupportingInformation)suggesta
+(seeSupportingInformation)wasdevelopedtogive4directly
+pathway where an aldehyde intermediate is formed prior to
+from 1 to 2 in 28% yield. A slightly modified protocol using
+coupling as opposed to amide formation and subsequent twoequivalentsofbasewasappliedtothehydrochloridesaltof
+reduction.44,45,47Theester,alkane,andketonetransformations
+13 to give 24 in 25% yield. Applying our alkane-forming
+as well as the amide coupling were also applied to the same conditionsyielded5in33%and25in20%yield,respectively.
+library of amine-acid coupling partners (see Supporting Applicationofourketone-formingconditionsyielded6and26
+Information). in 28% and 19% yield, respectively. Finally, our conditions for
+F https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="7"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Table 1. Experimental Physicochemical Properties and BRD4 HTRF Degradation Valuesa
+E3ligase linkertype(#) MW CHILogD BRD4HTRFdegradationDC (nM) BRD4HTRFdegradationD (%)
+7.4 50 max
+CRBN amide(3) 785 2.16 95.0±7.2 80
+CRBN ester(4) 786 2.68 5.4±1.0 83
+CRBN alkane(5) 742 2.81 10.8±0.9 76
+CRBN ketone(6) 770 2.57 9.2±1.0 85
+CRBN amine(7) 771 1.66 &gt;11000 2
+VHL amide(23) 1033 2.78 68.3±6 87
+VHL ester(24) 1034 3.25 15.8±1.5 89
+VHL alkane(25) 990 3.38 228.0±16.7 58
+VHL ketone(26) 1017 3.16 13.4±0.9 79
+VHL amine(19) 1018 2.30 &gt;11000 14
+aNote: Valuesreported arethe mean ± SEMof asingle experiment runinquadruplicate.
+Figure 6.BRD4HTRFdegradationassay: (a) CRBNseriesdegradationcurves (3−7).(b)VHL seriesdegradationcurves (19,23−26).
+Table 2. Target Engagement for CRBN Analogs (3−7)a
+linkertype(#) BRD4-BD1HTRF(nM) nanoBRETlive(nM) nanoBRETpermeabilized(nM) nanoBRETRBA
+amide(3) 16.0±1.1 528.5±35.0 86.3±4.8 6.1
+ester(4) 2.3±0.1 263.7±7.6 68.8±4.4 2.4
+alkane(5) 66.9±1.1 503.5±19.9 120.7±14.2 4.2
+ketone(6) 24.2±0.9 421.8±21.1 107.1±15.9 3.9
+amine(7) 453.2±18.4 11272±1992.7 102.0±4.9 110.5
+aEngagementassessedbyBRD4-BD1HTRFdisplacementassayandcellularnanoBRETCRBN-tracerassayinliveandpermeabilizedconditions.
+Valuesreportedarethemean±SEMofasingleexperimentrunintriplicatefortheBRD4-BD1HTRFassay,andfivetechnicalreplicatesforthe
+CRBNcellularnanoBRET assay.
+reductive amination afforded 7 in 23% yield. It was found determined to be 2.16, with ester 4, alkane 5, and ketone 6
+necessary to use 10% DMSO in dioxane as solvent to achieve giving values of 2.68, 2.81, and 2.57 respectively (Table 1).
+optimal reactivity for the synthesis of 19. This adjustment Meanwhile, protonatable amine 7 had a significantly lower
+furnished 19 in 23% yield. It is noteworthy that we did not logD at 1.66. The same trend follows for the VHL series
+7.4
+observe opening of the glutarimide ring under any of our with amide 23 having logD of 2.78 compared to 3.25, 3.38,
+7.4
+reaction conditions.49,50 3.16, and 2.30 for24,25,26, and19. Theability tomodulate
+PropertiesofIsolated PROTACs.Withninenew dBET1 logD coupled with the option to vary molecular weight by
+7.4
+analogs in hand, cheminformatic calculations were performed up to 44 g/mol highlights the impact that reaction conditions
+on each molecule to demonstrate that we can effectively can have on function when optimizing degraders.51
+modulate theproperties of each final PROTAC by changes to In Vitro Activity of BRD4 PROTACs. Having established
+thelinkercomposition(Figure5b,d).Whilebulkpropertiesare conditions to scale up and isolate the 10 BRD4 PROTACs
+influenced by choice of building blocks (2 versus 13), each (3−7, 19, 23−26), in vitro profiling to assess BRD4
+transformation also imparts its own effect on the overall degradation was initiated. We tested both CRBN-based (3−
+propertiesofthemolecule,whichisakeytenetofoursystems 7) as well as VHL-based (19, 23−26) PROTACs in HEK293
+chemistryvision.Notably,removalofoneHBD(amide/amine cellstoreadoutendogenousBRD4degradationDC andD
+50 max
+versus ester/alkane/ketone) can shift the calculated logP by values,52 using a BRD4 homogeneous time-resolved fluo-
+over one log unit relative to the amide (3) as well as having a rescence(HTRF)degradationassay(Figure6).Inaddition,to
+significantimpactonpolarsurfacearea(PSA)(seeSupporting distinguish on target BRD4 degradation from general cell
+Information). This was validated experimentally through toxicity, CellTiter-Glo (CTG) was also conducted (see
+determination of chromatographic hydrophobicity index Supporting Information). Within the CRBN-BRD4 PROTAC
+(CHI) logD . For amide 3, the experimental value was series, we observed several molecules with more efficient
+7.4
+G https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="8"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Figure7.MoleculardynamicsimulationsofPROTACs3,4,and7boundtotheBRD4-BD1crystalstructure(PDB:6BOY).55Time-lapsesnap-
+shotsfrom250nssimulationsareshownoverlaidanddepictedusingcolorchangesfromredtoblueindicatinginitialtofinalbindingpose.The
+regionhighlightedwithagraycircleforthecomplexwith7demonstratesthattheaminecongenersamplesmanydifferentconformationsoverthe
+250nssimulation,whichisobservablealsointheRMSFplotbelow,suggestingthatthecomplexwith7islessstableandhencesupportingthe
+observationof loweraffinity. RMSF =root-mean-square fluctuation.
+BRD4 degradation than amide dBET1 (3) (Figure 6a, Table 16.0nM,andCRBNbindingof528.5nM(livecells)and86.3
+1).Theester4,alkane5andketone6weremorepotentthan nM (permeabilized cells). Of the newly synthesized analogs,
+amide 3, with DC values of 5.4, 10.8, 9.2, and 95.0 nM, ester 4, alkane 5, and ketone 6 maintain binding with IC
+50 50
+respectively (Table 1). BRD4 degradation comparable to values of 2.3, 66.9, and 24.2 nM for BRD4, respectively.
+amide3(D 80%),wasobservedfor4,5,and6(83%,76%, Notably, removal of the carbonyl moiety in alkane 5 does not
+max
+and85%at24h).Incomparison,theamineanalog7wasnot resultinasignificantlossinBRD4affinity(Table2).Looking
+successful at degrading BRD4 with a DC of &gt;11 μM. In attheRBAvalues,adecreaseisseenforester4,alkane5,and
+50
+general, the VHL-based PROTACs 19, 23−26, follow the ketone 6, (RBA: 2.4, 4.2, and 3.9, respectively, relative to 3).
+sametrend inBRD4 degradation (seeFigure 6b), albeit DC This is possibly because these three analogs have higher
+50
+values are higher and D values lower. Ester 24 and ketone measured CHI LogD , correlating with an anticipated
+max 7.4
+26arethemostefficientdegradersofBRD4intheVHLseries, increase in permeability. All three of these analogs have the
+withDC valuesof15.8and13.4nM(D valuesof89%and N−H group removed, so have one fewer HBD than amide 3.
+50 max
+79%,respectively)(Table1).VHL-derivedalkane25has∼20- TheSARtrendobservedforBRD4degradationhas4−6asthe
+foldhigherDC anddiminishedD valuerelativetoCRBN- most potent degraders and the improvement in permeability
+50 max
+derived alkane 5, likely due to the reduced binding to BRD4 and BRD4 affinity could potentially explain the observed
+andVHLproteins(seeTableS20inSupportingInformation). degradation. VHL degraders 19, 23−26 occupy less drug-like
+To understand the observed BRD4 degradation results that space due to their higher molecular weight and larger number
+arose from changing the linker, we measured target engage- of HBD but still show the same rank order in BRD4 target
+mentoftheheterobifunctionaldegraderstoBRD4proteinand engagement and improved RBA values (see Supporting
+the corresponding E3 ligase (Table 2). Binding affinity of the Information). However, the lower VHL affinity in live cell
+PROTACs to BRD4 3−7 was assessed in a BRD4-BD1 nanoBRET for 19, 23−26 may explain the rightward shift in
+biochemical probe displacement assay to bromodomain BD1. DC values (Table 1). High degradation efficacy of BRD4 is
+50
+E3 ligase engagement was evaluated in a cellular CRBN or retained by VHL PROTACs with D ranging from 58% to
+max
+VHL nanoluciferase-based bioluminescence resonance energy 83%.Amine7showsagreaterthan100-folddifferenceinIC
+50
+transfer (nanoBRET) assay dependent on the PROTAC between the live and permeabilized cells and this can be
+synthesized. The cellular nanoBRET target engagement assay attributed to the basic amine in the linker hampering
+was used as a surrogate to examine PROTAC cellular permeability into cells. Additionally, the BRD4 potency of
+permeability.53 The assay was performed in both live and amine 7 is 453 nM compared to 16 nM for amide 3. Further
+permeabilized (lytic) cells and intracellular availability was investigation of this significant shift in potency to the protein
+determinedbycalculatingtherelativebindingaffinity(RBA).54 of interest was investigated computationally.
+Table 2 shows the data for the five CRBN-BRD4 PROTACs Molecular Dynamics Simulations to Elucidate Differ-
+using amide 3 as a benchmark, which has a BRD4 affinity of ences in Binding and Degradation. To understand the
+H https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="9"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+differences in binding affinity of potent versus binders with 8b). Notably, amine 7 exhibits the weakest ternary complex
+poor affinity, molecular dynamic (MD) simulations of BRD4- formation compared to other PROTACs, observed as the
+BD1 in the presence of amide 3, ester 4, and amine 7 were lowest AUC (71.53) and a right-shifted dose response for
+conducted in explicit solvent conditions. Sampled conforma- ternarycomplexformation(K =108nM),possiblyduetoits
+TF
+tions from the 250 ns MD simulations are shown in Figure 7 weakerbindingaffinitytoBRD4andCRBN.Thisisconsistent
+(initial pose is shown in red and final pose in blue). Based on with the molecular dynamic simulation (Figure 7) that the
+the simulations, both amide 3 and ester 4 maintain key charged linker for amine 7 is disfavored for stable ternary
+interactions with the BRD4 binding site. In contrast, amine 7, complex formationandtheobservedPROTAC rankorder for
+dueto thepresenceof a chargedlinker,interacts with Asp144 BRD4 degradation (Table 1).
+and engages in an intramolecular hydrogen bond with the ■
+imine nitrogen of the azepine on the POI motif during the CONCLUSIONS
+course of the simulation (see Supporting Information for 2D In conclusion, a systems chemistry approach was used to link
+interaction diagram). These observed interactions significantly reactionconditionstoPROTACsfunctions.Byharnessingthe
+alter the conformation of amine 7 as seen during MD power of HTE we have developed four unique amine−acid
+simulation (Figure 7). Furthermore, the BRD4-BD1 protein transformations, esterification, alkylation, ketonylation, and
+complexdisplayssignificantlyhigherroot-mean-squarefluctua- aminationthatproceedviaintermediatesthataregeneratedin
+tion (RMSF) near the binding region of the amine in 7 situ or prepared in a single step with no need for
+compared to the same region for amide 3 or ester 4. This chromatography. Using these methods we quickly accessed a
+instability of 7 interaction with BRD4 along with its suiteofBRD4degraderswithmodificationstothelinkerfrom
+conformational preferences could influence productive ternary the same amine and acid-derived building blocks. Importantly
+complex formation and contribute to the negligible degrada- these adjustments to the linker connectivity have been
+tionperformanceweobservedforthisamine-linkedderivative. achieved using JQ1 as the target binding moiety and two
+Investigation of Ternary Complex Formation. To workhorse E3 ligase recruiters (CRBN and VHL). The ester,
+explore how changing the PROTAC linkers influenced the ketone, and alkane transformations do not have the HBD
+formation of a productive ternary complex, we evaluated moiety that is present in the amide analog, leading to higher
+PROTAC induced ternary complex formation between logD values, increased cellular permeability, and lower RBA
+CRBN/DDB1 and BRD4-BD1 in vitro, using an HTRF values in the E3 cell target engagement assay. The structural
+assay (Figure 8a). When titrating the PROTAC compounds, changes also affect binding to the target protein of interest,
+with removal of the carbonyl having the largest effect. These
+combinedeffectsledtomorepotentdegraderswhentheamide
+is exchanged for an ester, alkane, or ketone, but ineffective
+BRD4 degraders were observed with an amine linker.
+Experimental and computational studies indicate that amine
+7showsweakertargetengagement,ternarycomplexformation,
+and BRD4 degradation. New amine-acid coupling reactions
+clearly impact the properties of PROTACs. These new
+reactions enable the creation of matched pairs of degraders
+with varied function. Taken together our results suggest a
+systems chemistry approach can have a profound impact on
+the biological activity of a molecule simply by modifying
+reaction conditions when coupling the same two building
+blocks.
+■
+EXPERIMENTAL SECTION
+Chemistry General. All reactions were conducted in oven- or
+Figure8.ExperimentalPROTACs-driventernarycomplexformation flame-dried glasswareunder an atmosphereof nitrogen unlessstated
+in vitro. (a) Ternary complex formation of CRBN/DDB1: otherwise.ReactionsweresetupinanMBraunLABmasterProGlove
+PROTAC::BRD4-BD1 assessed for PROTACs 3−7 by HTRF Box (H 2O level &lt; 0.1 ppm, O 2 level &lt; 0.1 ppm), or using standard
+assay. Ternary complex (%) is calculated by HTRF signal of each Schlenktechniquewithaglassvacuummanifoldconnectedtoaninlet
+PROTAC against the HTRF peak signal when treated with dBET6 of dry nitrogen gas. N-methylpyrrolidinone was purchased as
+(98 nM) (see Supporting Information for structure of dBET6). anhydrous and degassed by sparging overnight with nitrogen. Other
+Values reported are the mean ± SEM of a single experiment in solventswerepurchasedasanhydrousandusedasreceived.Reagents
+duplicate for the CRBN-BRD4 ternary complex assay. (b) Assay werepurchasedfromSigma-Aldrich,AlfaAesar,OakwoodChemical,
+metricsofternarycomplexformationconcentrationK andAUCfor Ambeed, or TCI Chemical. All chemicals were used as received.
+TF
+theternary complexformation by PROTACs 3−7. Glass1-dram (Fisherbrand parts No. 03-339-21B) or 2-dram vials
+(Fisherbrand parts No. 03-339-21D or ChemGlass #CG-4912-02)
+were used as reaction vessels, fitted with standard screwcaps (#03-
+we observed “bell-shaped” dose response curves, typical of a
+452-225or#03-452-300)orwithTeflon-coatedsiliconesepta(#CG-
+4910-02 or CG-4910-02), and magnetic stir bars (Fisher Scientific
+hook effect, at high concentrations of PROTACs due to
+#14-513-93or#14-513-65;stirbars.com#SBM-0803-MICor#SBM-
+increasingcompetitionfrombinarycomplexes.Theareaunder
+1003-MIC).
+thebell-shapedcurve(AUC) quantifiestheamountofternary 1HNMRspectrawererecordedonaVarianMR-500MHz,Varian
+complex formed and correlates with its stability. The ternary MR-400 MHz, Bruker DPX, DRX, or AV spectrometers. Chemical
+complex peak formation AC 50 values (K TF) for compounds shifts are reported in parts per million (ppm) and the spectra are
+(3−7) correlate well with BRD4 degradation DC (Figure calibrated to the resonanceresulting fromincomplete deuteration of
+50
+I https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="10"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+the solvent (CDCl: 7.26 ppm; DMSO-d:2.50 ppm, qn; MeOD- Upon completion of the reaction the reaction was worked up and
+3 6
+d:3.31 ppm, qn; Acetonitrile-d:1.94 ppm, qn). 13C NMR spectra purified asdescribed.
+4 3
+were recorded on the same spectrometers with complete proton General Procedure B Synthesis of Ester Products. An oven-
+decoupling. Chemical shifts are reported in ppm with the solvent dried two-dram vial, equipped with a Teflon-coated stir bar, was
+resonance as the internal standard (CDCl: 77.16 ppm, t; DMSO- charged with Katritzky salt (0.10 mmol, 1.0 equiv), carboxylic acid
+3
+d:39.52 ppm, sept; MeOD-d:49.00 ppm, sept, Acetonitrile-d 1.39 (0.10mmol,1.0equiv),potassiumtert-butoxide(11.2mg,0.10mmol,
+6 4 3
+ppm,m,128.39ppm, s.).Dataarereported usingthe abbreviations: 1.0equiv),andfinelygroundpotassiumiodide(32.0mg,0.20mmol,
+app=apparent,s=singlet,d=doublet,t=triplet,q=quartet,p= 2.0equiv).Thevialwasthencapped,evacuated,andrefilledwithN
+2
+pentet, h = hextet, m = multiplet, comp = complex, br = broad. threetimes.1.00mLofdioxanewasaddedtothereactionvesselvia
+Coupling constant(s) are reported in Hz. 19F NMR spectra were syringe,andthereactionheatedat110°Cfor22hatastirrateof500
+recordedonthesamespectrometersasabove.13Cand19Fsignalsare rpm.Uponcompletion,thereactionwasfilteredthroughaCeliteplug
+singletsunlessotherwisestated.1H−COSY,HSQCandHMBCwere
+and washed with DCM. The filtrate was evaporated in vacuo and
+usedwhere appropriateto facilitate structural determination. purified asdescribed.
+High resolution mass spectrometry data (HRMS) were obtained GeneralProcedureB1OnePotSynthesisofEsterProducts.
+on an Agilent 6230 TOF LC/MS equipped with ESI detector in Anoven-driedtwo-dramvial,equippedwithaTeflon-coatedstirbar,
+positivemodeandonaMicromassAutoSpecUltimaMagneticSector was charged with amine hydrochloride salt (0.10 mmol, 1.0 equiv),
+instrument with EI detector in positive mode. Reaction analysis was triphenylpyryliumtetrafluoroborate(39.6mg,0.10mmol,1.0equiv),
+typically performed by thin-layer chromatography on silica gel or carboxylicacid(0.10mmol,1.0equiv),potassiumtert-butoxide(22.4
+using a Waters I-class ACQUITY UPLC-MS (Waters Corporation, mg,0.20mmol,2.0equiv),andfinelygroundpotassiumiodide(32.0
+Milford,MA,USA)equippedwithin-linephotodiodearraydetector mg,0.20mmol,2.0equiv).Thevialwasthencapped,evacuated,and
+(PDA), evaporative light scattering detector (ELSD) and QDa mass refilled with N three times. 1.00 mL of dioxane was added to the
+2
+detector(BothESIpositiveandnegativeionizationmode).Typically reactionvesselviasyringe,andthereactionheatedat110°Cfor22h
+0.1 μL sample injections were taken from acetonitrile solutions of
+atastirrateof500rpm.Uponcompletion,thereactionwasfiltered
+reaction mixtures orproducts (∼1 mg/mL). Apartial loop injection
+through a Celite plug and washed with DCM. The filtrate was
+modewasusedwiththeneedleplacementat2.0mmfrombottomof
+evaporated invacuo and purifiedas described.
+the wells and a 0.2 μL air gap at preaspiration and postaspiration. General Procedure C Synthesis of Alkane Products. In a
+Column used: Waters Cortecs UPLC C18+ column, 2.1 mm × 50
+nitrogenfilledglovebox,anoven-driedtwo-dramvial,equippedwitha
+mmwith(WatersS5#186007114)withWatersCortecsUPLCC18+
+Teflon-coated stir bar, was charged with NiBr*glyme (12 mg, 0.04
+VanGuard Precolumn 2.1 mm × 5 mm (Waters #186007125), 2
+mmol,0.40equiv),dtbpy(10.7mg,0.04mmol,0.40equiv),and800
+Mobile Phase A: 0.1% formic acid in Optima LC/MS-grade water,
+μLofNMP(vialA).Thiswasstirredwat500rpmfor30min.During
+Mobile Phase B: 0.1% formic acid in Optima LC/MS-grade MeCN.
+thistime,anoven-driedtwo-dramvial,equippedwithaTeflon-coated
+Flow rate: 0.8 mL/min. Column temperature: 45 °C. The PDA
+stirbar,waschargedwithKatritzkysalt(0.10mmol,1.0equiv)(vial
+sampling rate was 20 points/sec. The QDa detector monitored m/z
+B).Anotheroven-driedtwo-dramvial,equippedwithaTeflon-coated
+150−750withascantimeof0.06sandaconevoltageof30V.The
+stirbar,waschargedwithacid(0.20mmol,2.0equiv),protonsponge
+ELSDhadagainof750,datarateof10pps,timeconstant“normal”
+(42.8mg,0.20mmol,2.0equiv),andTFFH(52.8mg,0.20mmol,2.0
+0.2000s,agaspressureof40.0psi,withthenebulizerincoolingmode
+equiv)(VialC).Thesevialsweretransferredtotheglovebox.VialC
+at75%powerlevelandthedrifttubetemperaturesetto50°C.The
+had 800 μL of NMP added and was stirred for 20 min followed by
+PDAdetectorrangewasbetween210and400nmwitharesolutionof
+addition into vial A. To vial C was added 400 μL of NMP and
+1.2 nm. Two minute and 8 min methods were used. The method
+manganese(22mg,0.40mmol,4.0equiv).Thisvialwasstirredat700
+gradients are below: 2 min method, 0 min: 0.8 mL/min, 95% 0.1%
+rpm for 2 min and transferred to vial A. Vial A was sealed with
+formicacidinwater/5%0.1%formicacidinacetonitrile;1.5min:0.8
+electricaltape,removedfromtheglovebox,andheatedat70°Cand
+mL/min,0.1%0.1%formicacidinwater/99.9%0.1%formicacidin
+800rpmfor14h.Uponcompletion,thereactionwasfilteredthrough
+acetonitrile;1.91 min:0.8 mL/min,95% 0.1%formic acidinwater/
+apadofCeliteusing30mLofethylacetate.Thefiltratewaswashed
+5% 0.1% formic acid in acetonitrile. Eight min method, 0 min: 0.8
+with 20 mL of saturated sodium sulfate. The organic layer was
+mL/min, 95% 0.1% formic acid in water/5% 0.1% formic acid in
+collected, dried with sodium sulfate and concentrated in vacuo.
+acetonitrile; 7.5 min: 0.8 mL/min, 0.1% 0.1% formic acid in water/
+Purification was achievedasdescribed.
+99.9% 0.1% formic acid in acetonitrile; 7.91 min: 0.8 mL/min, 95%
+General Procedure D Synthesis of Ketone Products. In a
+0.1%formic acidinwater/5%0.1%formic acidinacetonitrile.
+Flash chromatography was performed on silica gel (230−400 nitrogenfilledglovebox,anoven-driedtwo-dramvial,equippedwitha
+Teflon-coated stir bar, was charged with Nickel(II) bis-
+Mesh, grade 60) under a positive pressure of Nitrogen. Thin Layer
+Chromatography was performed on 25 μm TLC Silica gel 60 F254 (acetylacetonate) (12.5 mg, 0.04 mmol, 0.40 equiv), (Z)-N′-
+glassplatespurchasedfromFisherScientific(partnumber:S07876). cyanopicolinimidamide (5.8 mg, 0.04 mmol, 0.40 equiv), and 800
+Visualizationwasperformedusingultravioletlight(254and365nm)
+μLofNMP(vialA).Thiswasstirredat500rpmfor30min.During
+and/orpotassiumpermanganate(KMnO)stain.Reverse-phaseprep- thistime,anoven-driedtwo-dramvial,equippedwithaTeflon-coated
+4
+HPLC was performed on a Teledyne ISCO CombiFlash EZ Prep stirbar,waschargedwithKatritzkysalt(0.10mmol,1.0equiv)(vial
+(RediSep Prep C18, 100 Å, 5 μm, 150 mm × 20 mm (part no. B).Anotheroven-driedtwo-dramvial,equippedwithaTeflon-coated
+692203810))using0.1%formicacidinwaterand0.1%formicacidin stirbar,waschargedwithacid(0.20mmol,2.0equiv)(vialC).These
+acetonitrileeluent. vialsweretransferredtotheglovebox.VialChad800μLofNMPand
+All compoundsare &gt;95%pureby UPLC analysis. dimethyldicarbonate (32.2 μL, 40.2 mg, 0.30 mmol, 3.0 equiv) and
+General Procedure A Synthesis of Amide Products. A wasstirredat500rpmfor20minfollowedbyadditionintovialA.To
+flamed-dried two-dram vial, equipped with a Teflon-coated stir bar, vialBwasadded400μLofNMPandmanganese(22mg,0.40mmol,
+waschargedJQ1(40.0mg,0.1mmol,1equiv)andPyAOP(52.1mg, 4.0equiv,).Thisvialwasstirredat700rpmfor2minandtransferred
+0.1 mmol, 1 equiv). To this vial was added dry DMF (0.5 mL) tovialA.Triethylaminehydrochloride(28mg,0.20mmol,2.0equiv)
+followed by N-methyl imidazole (8.2 μL, 0.1 mmol, 1 equiv). The was added to the vial and it was capped, sealed with electrical tape,
+resulting homogeneous solution was stirred at ambient temperature removedfromtheglovebox,andheatedat70°Cand800rpmfor14
+for10min.Toanotherflamed-driedtwo-dramvialwasaddedamine h.Uponcompletion,thereactionwasfilteredthroughapadofCelite
+HClsalt(0.1mmol,1equiv)andN-methylimidazole(12.3μL,0.15 using30mLofethylacetate.Thefiltratewaswashedwith20mLof
+mmol,1.5 equiv)beforetheaddition ofDMF(0.5mL). Theamine saturatedsodiumsulfate.Theorganiclayerwascollected,driedwith
+mixture was then transferred to the first vial. The combined sodium sulfate and concentrated in vacuo. Purification was achieved
+homogeneous solution was stirred at ambient temperature for 14 h. asdescribed.
+J https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="11"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+General Procedure D Synthesis of Amine Products. In a of desired alkane product as a white solid. UPLC Retention time 4
+nitrogenfilledglovebox,anoven-driedone-dramvial,equippedwitha min method: 1.77 min R 93:7 DCM/MeOH: 0.48 1H NMR (500
+f
+Teflon-coated stir bar, was charged with Platinum(II) chloride (1.3 MHz, CDCl) δ 7.70 (m, 1H), 7.66 (dt, J = 8.1, 4.1 Hz, 1H), 7.47
+3
+mg,0.005mmol,0.05equiv)andBrettphos(5.3mg,0.01mmol,0.01 (dd,J=7.3,1.8Hz,1H),7.37(dd,J=8.6,2.6Hz,2H),7.26(dd,J=
+equiv). 100 μL of 1:1 dioxane/DMSO was added and the solution 10.0,8.5Hz,2H),7.11(dd,J=8.4,6.0Hz,1H),4.86(dt,J=12.6,
+stirredfor20minat30°Cand300rpm.Outsideoftheglovebox,an 4.6Hz,1H),4.61(dd,J=13.9,2.0Hz,1H),4.53(dd,J=13.9,11.3
+additional oven-dried one-dram vial, equipped with a Teflon-coated Hz,1H),3.86(td,J=10.2,4.4Hz,1H),3.72−3.56(m,1H),3.17(q,
+stirbar,waschargedwithamine(0.1mmol,1.0equiv)andcarboxylic J = 7.9, 7.0 Hz, 1H), 2.83−2.55 (m,4H), 2.61 (d, J = 6.7 Hz, 3H),
+acid (0.15 mmol, 1.5 equiv). 900 μL of solvent was added. The 2.46(qt,J=12.4,4.5Hz,1H),2.34(d,J=3.8Hz,3H),2.05(dtd,J=
+catalyst solution was removed from the glovebox, cooled to room 10.4,5.2,2.8Hz,1H),1.90−1.70(m,1H),1.70−1.50(m,5H),1.62
+temperature,andphenylsilane(61μL,0.5mmol,5.0equiv)addedvia (s, 3H), 1.49−1.34 (m, 1H).13C NMR (126 MHz, CDCl 3) δ 171.8,
+syringe. Note the solution will bubble vigorously and generate 171.7, 168.6, 168.4, 166.9, 166.7, 166.6, 166.2, 163.8, 156.3, 154.6,
+hydrogen gas.The yellow solutionwas transferredvia syringe to the 154.6, 149.9, 137.0, 137.0, 136.8, 133.8, 132.2, 130.9, 130.7, 130.0,
+amine/acidvialwhichwassubsequentlyheatedat70°Cfor16hand 129.9,128.9,128.8,119.7,119.6,118.5,117.5,68.3,68.2,57.5,57.3,
+astirrateof500rpm.Uponcompletion,thereactionwasworkedup 49.6, 49.5, 39.2, 39.0, 31.6, 31.4, 29.6, 29.4, 27.3, 27.2, 27.0, 26.9,
+andpurified asdescribed.. 23.0,14.6,14.6,13.3,12.0.HRMS(ESI)CalculatedC 37H 37ClN 7O 6S+
+2-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-thieno[3,2-f]- [M + H]+:742.2209, Found742.2207.
+[1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)-N-(4-(2-((2-(2,6-dioxopiper- N-(6-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-thieno[3,2-f]-
+idin-3-yl)-1,3-dioxoisoindolin-4-yl)oxy)acetamido)butyl)acetamide [1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)-5-oxohexyl)-2-((2-(2,6-diox-
+(dBet1)(3).dBet1(compound3)waspreparedfrom1to2ona0.1 opiperidin-3-yl)-1,3-dioxoisoindolin-4-yl)oxy)acetamide (6). Com-
+mmolscaleviageneralprocedureA.Uponcompletionofthereaction pound6waspreparedfrom1to10ona0.10mmolscalefollowing
+itwasquenchedbytheadditionof20mLsaturatedaqueousNaSO generalprocedureD.Thecruderesiduewaspassedthroughaplugof
+2 4
+solution.Thephaseswerethenseparated,andtheaqueousphasewas silica gel to remove the triphenylpyridine. The plug was initially
+extractedwithEtOAc(3×20mL).Thecombinedorganicfractions washedwith50mLofDCMfollowedby50mLof7%methanol in
+were then washed with brine then dried over MgSO, filtered, and DCM.Themethanol/DCMfractionwasevaporated,reconstitutedin
+4
+concentrated in vacuo. The resulting residue was redissolved in acetonitrileandpurifiedviapreparativeHPLCtogivetogive21.3mg
+MeCN/HO (3:1 mL, HPLC grade) and purified via preparative (28%)ofdesiredketoneasawhitesolid.UPLCRetentiontime4min
+HPLC to2 give 57.5 mg (73%) of desired amide as a white solid. method:1.71minR f93:7DCM/MeOH:0.421HNMR(499MHz,
+UPLCRetentiontime2minmethod:0.97min1HNMR(500MHz, CDCl 3) δ 7.74 (ddd, J = 8.9, 7.4, 2.0 Hz, 1H), 7.60 (q, J = 5.8 Hz,
+CDOD)δ7.90(s,1H),7.80(t,J=7.9Hz,1H),7.52(d,J=7.3Hz, 1H), 7.54(dd,J=7.4,2.2Hz,1H),7.38(dd,J=8.4,3.1Hz,2H),
+3
+1H), 7.44 (td, J = 4.6, 2.2 Hz, 4H), 7.39 (dd, J = 8.7, 2.8 Hz, 2H), 7.32(d,J=8.3Hz,2H),7.21(dd,J=8.4,3.8Hz,1H),4.97(dd,J=
+12.4,5.4Hz,1H),4.69(dt,J=6.7,3.3Hz,1H),4.66(d,J=4.8Hz,
+5.10(ddd,J=12.2,5.5,3.1Hz,1H),4.76(s,2H),4.62(dd,J=8.9,
+5.3Hz,1H),3.45−3.31(m,9H),3.31−3.24(m,2H),2.87−2.75(m, 2H),3.84(ddd,J=17.3,6.4,4.9Hz,1H),3.68(ddd,J=17.4,7.3,4.5
+1H),2.75−2.62(m,6H),2.43(s,3H),2.10(tp,J=7.8,3.8,3.2Hz, Hz, 1H),3.47 (dp, J=12.4, 6.2Hz,1H), 3.38(h,J= 6.9Hz, 1H),
+1H), 1.75−1.55 (m, 7H).13C NMR (126 MHz, CDOD) δ 173.1, 2.87−2.81 (m, 1H), 2.79 (dd, J = 9.2, 3.1 Hz, 1H), 2.78−2.72 (m,
+3 1H),2.72−2.68(m,1H),2.66(d,J=2.1Hz,3H),2.41(s,3H),2.14
+171.3, 169.9, 169.9, 168.5, 166.9, 166.4, 164.9, 164.8, 155.6, 154.9,
+(ddd,J=16.5,12.2,8.4Hz,1H),1.84−1.72(m,3H),1.72−1.64(m,
+150.8, 136.8, 136.7, 136.6, 133.5, 132.1, 131.8, 130.7, 130.6, 130.6,
+5H). 13C NMR (126 MHz, CDCl) δ 208.7, 208.6, 171.1, 171.0,
+129.9, 128.4, 120.5, 120.5, 118.0, 116.6, 78.1, 68.2, 53.8, 38.7, 38.7, 3
+168.2, 168.1, 166.8, 166.7, 166.2, 166.1, 164.1, 163.9, 155.5, 154.6,
+38.4,37.5,30.7,30.7,26.4,26.2,22.2,13.0,11.5,10.2.HRMS(ESI)
+Calculated C H ClNOS+[M +H]+: 785.2267, Found785.2268. 154.6, 149.9, 149.9, 137.0, 136.7, 133.6, 132.3, 132.2, 130.9, 130.8,
+38 37 8 7 130.7,130.4,129.8,128.7,119.8,118.4,117.4,68.3,53.0,49.4,44.4,
+4-(2-((2-(2,6-Dioxopiperidin-3-yl)-1,3-dioxoisoindolin-4-yl)oxy)-
+acetamido)butyl 2-((S)-4-(4-chlorophenyl)-2,3,9-trimethyl-6H- 44.3, 43.4, 43.4, 31.4, 28.7, 28.6, 22.7, 22.6, 21.0, 20.9, 14.4, 13.1,
+thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)acetate (4). 11.8.HRMS(ESI)CalculatedC 38H 37ClN 7O 7S+[M+H]+:770.2158,
+Compound 4 was prepared from 1 to 10 on a 0.1 mmol scale via Found770.2147.
+N-(4-((2-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-thieno[3,2-
+general procedure B. Filtrate was reconstituted in acetonitrile and
+f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)ethyl)amino)butyl)-2-((2-
+purifiedviapreparativeHPLCtogive42.5mg(54%)ofdesiredester
+(2,6-dioxopiperidin-3-yl)-1,3-dioxoisoindolin-4-yl)oxy)acetamide
+as an off white solid. Compound was also prepared via general
+(7). Compound 7 was prepared from 1 to 2 on a 0.1 mmol scale
+procedureB1inaonepotfashiontogive21.8mg(28%)ofdesired
+relative to2 via general procedureE where solvent= DMSO.Upon
+ester.UPLCRetentiontime2minmethod:1.06minR 93:7DCM/
+f completion the reaction was quenched with 1 mL of methanol,
+MeOH:1HNMR(600MHz,DMSO)δ10.90(s,1H),7.80(dd,J=
+filteredthroughasyringefilter,andpurifiedviapreparativeHPLCto
+8.5,7.2Hz,2H),7.51−7.41(m,6H),5.08(dd,J=12.5,5.5Hz,1H),
+give 18.1 mg (23%) of desired amine as a white solid. UPLC
+4.75(s,2H),4.50(dd,J=8.0,6.3Hz,1H),4.12(qt,J=10.9,6.4Hz, Retention time 2 min method: 0.82 min 1H NMR (500 MHz,
+2H),3.48(dd,J=16.4,6.3Hz,1H),3.42(dd,J=16.4,8.0Hz,1H), DMSO)δ11.12(s,1H),8.55(s,2H),8.05(t,J=5.7Hz,1H),7.82
+2.88 (ddd,J = 16.8,13.5, 5.7Hz, 1H), 2.65−2.54 (m,2H), 2.60 (s,
+(dd,J=8.5,7.3Hz,1H),7.50(d,J=5.3Hz,5H),7.40(dd,J=8.7,
+3H), 2.41 (s, 3H), 2.06 (tq, J = 7.9, 2.9 Hz, 1H), 1.67−1.59 (m, 3.4Hz,1H),5.15−5.07(m,1H),4.79(s,2H),4.32(dd,J=7.6,6.0
+2H),1.64 (s, 3H), 1.52 (p, J = 6.9 Hz, 2H).13C NMR (151 MHz, Hz,1H),3.42−3.33(m,1H),3.31−3.23(m,1H),3.20(q,J=6.6Hz,
+DMSO) δ 172.1, 170.1, 169.2, 166.4, 166.3, 165.2, 163.0, 154.9, 2H),3.03(dt,J=14.0,7.1Hz,2H),2.90(ddd,J=16.3,14.0,5.4Hz,
+154.4, 149.5, 136.5, 136.4, 135.1, 132.8, 132.0, 130.5, 129.8, 129.6, 2H), 2.77−2.63 (m, 3H), 2.61 (s, 3H), 2.46−2.35 (m, 3H), 2.08−
+129.3, 128.2, 120.6, 116.9, 115.9, 67.9, 63.5, 53.3, 48.7, 37.7, 36.3, 1.99 (m, 1H), 1.71−1.58 (m, 5H), 1.53 (dq, J = 14.1, 6.9 Hz, 2H).
+30.7, 25.3, 25.2, 21.8, 13.5, 12.3, 10.8. HRMS (ESI) Calculated 13C NMR (126 MHz, DMSO) δ 172.8, 169.9, 166.9, 166.7, 165.5,
+C H ClNOS+[M +H]+:786.2107, Found786.2098.
+38 37 7 8 163.7, 158.2, 158.0, 155.1, 155.0, 149.9, 137.0, 136.8, 135.3, 133.1,
+N-(5-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-thieno[3,2-f]-
+132.4, 130.6, 130.3, 130.0, 129.6, 128.5, 120.5, 117.5, 116.8, 116.1,
+[1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)pentyl)-2-((2-(2,6-dioxopi-
+67.7, 53.9, 48.8, 46.6, 44.2, 37.8, 30.9, 28.1, 26.2, 23.1, 22.0, 14.1,
+peridin-3-yl)-1,3-dioxoisoindolin-4-yl)oxy)acetamide (5). Com-
+12.6, 11.3. HRMS (ESI) Calculated C H ClNOS+ [M + H]+:
+pound 5 was prepared from 1 to 10 on a 0.10 mmol scale via 38 40 8 7
+771.2475, Found771.2469.
+generalprocedureC.Thecruderesiduewaspassedthroughaplugof
+(2S,4R)-N-(2-(3-(2-((2-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-
+silica gel to remove the triphenylpyridine. The plug was initially 6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)ethyl)-
+washedwith50mLofDCMfollowedby50mLof7%methanolin amino)ethoxy)propoxy)-4-(4-methylthiazol-5-yl)benzyl)-4-hy-
+DCM.Themethanol/DCMfractionwasevaporated,reconstitutedin droxy-1-((S)-3-methyl-2-(1-oxoisoindolin-2-yl)butanoyl)-
+acetonitrileandpurifiedviapreparativeHPLCtogive24.5mg(33%) pyrrolidine-2-carboxamide(19).Compound19waspreparedfrom1
+K https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="12"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+to 13 on a 0.10 mmol scale relative to 13 via general procedure E 28.5,21.8,13.7.19FNMR(470MHz,cdcn)δ−76.86.HRMS(ESI)
+3
+wheresolvent=95:5dioxane/DMSO.Uponcompletion,thereaction Calculated C H ClNO+[M +H]+: 526.2467, Found526.2469.
+29 37 3 4
+mixturewasconcentratedinvacuoandredissolvedinacetonitrile(3 1-(5-(4-(6-((2-(1,8-Diethyl-1,3,4,9-tetrahydropyrano[3,4-b]indol-
+mL, HPLC grade) then purified via preparative HPLC to 23 mg 1-yl)ethyl)amino)hexanoyl)piperazine-1-carbonyl)-2-
+(22%) of desired amine. UPLC Retention time 2 min method: 0.93 methylphenyl)dihydropyrimidine-2,4(1H,3H)-dione (22). Com-
+min1HNMR(400MHz,DMSO)δ8.27(s,1H),8.07(t,J=5.6Hz, pound 22 was prepared from 18 (etodolac) and 11 on a 0.100
+1H),7.72(d,J=7.5Hz,1H),7.64−7.58(m,1H),7.50(dt,J=7.9, mmol scale relative to 11 via general via general procedure E on
+where solvent = 3:7 DMSO/dioxane. When the reaction was
+4.0Hz,1H),7.46(s,3H),7.35(d,J=7.6Hz,1H),7.00(d,J=8.3
+complete after 5 h, it was cooled to room temperature and diluted
+Hz,1H),4.75(d,J=10.6Hz,1H),4.57(d,J=18.0Hz,1H),4.46
+with 30 mL of saturated sodium bicarbonate solution. This was
+(q,J=9.7,8.4Hz,2H),4.36(d,J=4.5Hz,1H),4.31(dd,J=11.8,
+extractedwithDCM(3×25mL).Theorganiclayerswerecombined,
+5.8Hz,2H),4.13(ddt,J=20.2,13.7,6.6Hz,3H),3.79(dd,J=10.5,
+washed with 30 mL of saturated sodium sulfate, dried over sodium
+4.8 Hz, 1H), 3.68 (d, J = 10.3 Hz, 1H), 3.59 (t, J = 6.3 Hz, 1H),
+sulfate, and concentrated. The residue was reconstituted in
+3.56−3.44(m,2H),2.75(t,J=6.1Hz,1H),2.59(s,3H),2.56−2.42
+acetonitrile and purified via prep HPLC to give 15.3 mg (23%) of
+(m,9H),2.41−2.32(m,3H),2.24(s,1H),2.08−1.91(m,4H),1.64
+the desired amine as a white solid. UPLC Retention time 2 min
+(s,3H),0.97(d,J=6.5Hz,3H),0.77(d,J=6.7Hz,3H).13CNMR
+method:0.85min1HNMR(499MHz,CDCl)δ10.75(s,1H),8.61
+(151MHz,DMSO)δ171.6,168.1,167.5,163.2,155.9,155.4,151.5, 3
+(s,1H),7.36(d,J=7.9Hz,1H),7.31(d,J=8.9Hz,3H),7.04(t,J=
+149.7, 147.9, 142.2, 136.9, 135.2, 134.1, 132.3, 131.6, 131.4, 131.3,
+7.4Hz,1H),6.99(d,J=7.1Hz,1H),4.09−4.02(m,1H),3.96(td,J
+131.0, 130.5, 130.2, 129.9, 129.6, 128.5, 127.9, 127.8, 127.2, 127.0,
+= 11.0, 3.8 Hz, 1H), 3.85−3.78 (m, 1H), 3.78−3.29 (m, 9H), 2.95
+123.6,123.0,120.9,111.7,79.2,68.6,66.9,64.8,58.7,57.8,55.4,54.3,
+(td,J=15.8,15.2,7.8Hz,2H),2.85(ddt,J=15.6,12.4,7.9Hz,6H),
+48.0, 46.8, 45.3, 42.7, 38.1, 37.1, 29.0, 28.4, 18.9, 18.6, 16.0, 14.1,
+2.76−2.66 (m, 2H), 2.53 (dd, J = 12.7, 6.5 Hz, 1H), 2.31 (s, 3H),
+14.0, 12.7, 11.3. HRMS (ESI) Calculated C H ClNOS+ [M +
+53 61 9 6 2 2.27−2.21(m,1H),2.17(s,1H),2.13(d,J=7.3Hz,1H),2.03(dt,J
+H]+:1018.3869, Found1018.3862.
+=14.9,7.5Hz,1H),1.90(dq,J=14.8,7.4Hz,1H),1.39(p,J=7.3
+tert-Butyl 4-((2-((4S,6R)-6-(2-(2-(4-fluorophenyl)-5-isopropyl-3-
+Hz,3H),1.32(d,J=7.6Hz,3H),0.97(t,J=7.4Hz,4H).13CNMR
+phenyl-4-(phenylcarbamoyl)-1H-pyrrol-1-yl)ethyl)-2,2-dimethyl-
+(126MHz,CDCl)δ171.6,169.7,168.7,139.9,138.4,136.6,135.3,
+1,3-dioxan-4-yl)ethyl)amino)piperidine-1-carboxylate (20). Com- 3
+133.5, 131.4, 128.2, 127.1, 126.6, 126.5, 121.8, 120.7, 119.4, 115.7,
+pound 20 was prepared from 17 and 15 on a 0.100 mmol scale
+108.5,75.8,60.5,47.6,45.21,44.71,33.5,32.5,31.6,31.5,25.7,25.6,
+relativeto15viageneralviageneralprocedureEonwheresolvent=
+24.2, 23.7, 22.5, 18.1, 14.4, 8.0. HRMS (ESI) Calculated
+3:7DMSO/dioxane.Whenthereactionwascompleteafter5h,itwas
+C H NO+[M+ H]+: 685.4072,Found685.4067.
+cooled to room temperature and diluted with 30 mL of saturated 39 53 6 5
+(2S,4R)-N-(2-(3-(2-(2-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-
+sodiumbicarbonatesolution.ThiswasextractedwithDCM(3×25
+thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)acetamido)-
+mL). The organic layers were combined, washed with 30 mL of ethoxy)propoxy)-4-(4-methylthiazol-5-yl)benzyl)-4-hydroxy-1-((S)-
+saturatedsodiumsulfate,driedoversodiumsulfate,andconcentrated. 3-methyl-2-(1-oxoisoindolin-2-yl)butanoyl)pyrrolidine-2-carboxa-
+The residue was reconstituted in acetonitrile and purified via prep mide(23).Compound23waspreparedfrom1to13ona0.10mmol
+HPLCtogive28.4 mg(37%)ofthe desiredamineasawhitesolid. scale following general procedure A. Upon completion the reaction
+UPLCRetentiontime2minmethod:1.12min1HNMR(499MHz, wasquenchedbytheadditionof20mLsaturatedaqueousNaHCO
+3
+CDCl)δ7.16(dt,J=12.3,7.4Hz,9H),7.06(d,J=8.0Hz,2H), solution.Thephaseswerethenseparated,andtheaqueousphasewas
+3
+6.98(td,J=8.1,7.5,4.7Hz,3H),6.85(s,1H),4.08(m,4H),3.89− extractedwithEtOAc(3×20mL).Thecombinedorganicfractions
+3.76(m,3H),3.65(dd,J=7.8,4.6Hz,1H),3.56(p,J=7.1Hz,1H), were then washed with brine then dried over MgSO 4, filtered, and
+2.84(dq,J=6.8,4.1,2.9Hz,2H),2.81−2.66(m,3H),1.91(d,J= concentrated in vacuo. The resulting residue was redissolved in
+12.7Hz,2H),1.68(q,J=6.8Hz,3H),1.52(d,J=7.1Hz,6H),1.44 MeCN (3 mL, HPLC grade) and purified via preparative HPLC to
+(s,9H), 1.39 (d, J= 11.8 Hz, 2H), 1.33 (s,3H), 1.29 (s, 3H), 1.22 give48.5mg(47%)ofdesiredamideasawhitesolid.R f=0.37(10%
+(dt,J=12.9,2.5Hz,1H),1.06(q,J=11.9Hz,1H).13CNMR(126 MeOH/DCM) UPLC Retention time 2 min method: 1.13 min 1H
+MHz, CDCl 3) δ 164.9, 162.4(d, J = 247.8 Hz), 154.8, 141.6, 138.5, NMR(500MHz,CDCl 3)δ8.66(s,1H),7.78(s,1H),7.49(t,J=7.5
+134.8, 133.3 (d, J = 8.0 Hz), 130.6, 128.9 (d, J = 10.4 Hz), 128.5, Hz,1H),7.41−7.33(m,5H),7.30(d,J=7.9Hz,3H),7.02(m,1H),
+126.7,123.7,119.7,115.5(d,J=21.5Hz),98.7,79.9,66.6,55.0,42.3, 6.96 (d, J = 7.6 Hz, 1H), 6.92 (s, 1H), 4.79 (d, J = 10.8 Hz, 1H),
+41.0,38.2,36.4,30.2,28.6,28.6,28.5,26.2,21.9,21.8,20.0.19FNMR 4.72−4.65 (m,2H),4.62−4.51 (m,2H),4.46 (dd,J= 14.7,5.5Hz,
+(470 MHz, CDCl ) δ −113.73. HRMS (ESI) Calculated 1H),4.37(d,J=17.5Hz,1H),4.28(d,J=11.2Hz,1H),4.14(td,J
+3
+C H FNO+[M + H]+: 767.4542,Found767.4539 =11.7,6.7Hz,2H),3.72(dh,J=21.3,6.1Hz,3H),3.58(d,J=5.7
+46 60 4 5
+tert-Butyl 4-((2-(1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H- Hz, 2H),3.47(q, J=5.5 Hz,3H), 3.28(dd,J= 14.6,6.3Hz, 1H),
+indol-3-yl)ethyl)amino)piperidine-1-carboxylate (21). Compound 2.56(s,4H),2.52−2.43(m,8H),2.39(s,4H),2.14(s,1H),1.65(s,
+21 was prepared from 16 (indomethacin) and 15 via general 3H), 1.30−1.22 (m, 1H), 0.92(d,J = 6.5Hz, 3H), 0.85(d, J= 6.6
+procedure E on a 0.20 mmol scale where solvent = 3:7 DMSO/
+Hz,3H).13CNMR(126MHz,CDCl 3)δ170.7,170.2,163.9,156.9,
+dioxane.Whenthereactionwascompleteafter3h,itwascooledto 142.2, 136.9, 136.7, 131.8, 131.7, 131.0, 130.6, 129.9, 129.7, 128.8,
+128.0, 126.5, 123.9, 122.9, 121.8, 112.4, 69.9, 69.5, 67.7, 65.2, 58.8,
+room temperature and diluted with 30 mL of saturated sodium
+bicarbonate solution. This was extracted with DCM (3 × 25 mL). 58.7, 55.9, 47.4, 39.6, 39.2, 39.1, 36.4, 29.8, 29.5, 29.0, 19.2, 19.0,
+16.3,14.5,13.2,11.8.HRMS(ESI)CalculatedC H ClNOS+[M
+The organic layers were combined, washed with 30 mL of saturated 53 59 9 7 2
++ H]+: 1032.3662,Found1032.3660.
+sodium sulfate, dried over sodium sulfate, and concentrated. The
+2-(3-(2-(((2S,4R)-4-Hydroxy-1-((S)-3-methyl-2-(1-oxoisoindolin-
+resulting residue was purified by column chromatography using
+2-yl)butanoyl)pyrrolidine-2-carboxamido)methyl)-5-(4-methylthia-
+DCM/acetone/meOHtogive35.0mg(33%)ofthedesiredamineas
+zol-5-yl)phenoxy)propoxy)ethyl 2-((S)-4-(4-chlorophenyl)-2,3,9-tri-
+a yellow oil. The purified material had 20 μL of trifluoroacetic acid methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)-
+added to the NMR sample. UPLC Retention time 2 min method: acetate (24). Compound 24 was prepared from 1 to 13a on a 0.10
+0.98 min 1H NMR (499 MHz, cd 3cn) δ 7.68−7.64 (m, 2H), 7.58− mmol scale via general procedure B. Filtrate was purified by flash
+7.55(m,2H),7.10(d,J=2.5Hz,1H),6.99(d,J=9.0Hz,1H),6.71 chromatographyonsilicagelusingDCM/Acetone(50%)toMeOH/
+(dd, J = 9.0, 2.5 Hz, 1H), 4.12 (d, J = 13.7 Hz, 2H), 3.84 (s, 3H), DCM(10%)aseluentto34.0mg(36%)ofdesiredesterasawhite
+3.38−3.29(m,1H),3.28−3.19(m,2H),3.11−3.04(m,2H),2.73(d, solid.Compound24wasalsopreparedfrom1to13ona0.10mmol
+J=11.2Hz,2H),2.29(s,3H),2.03(d,J=11.9Hz,2H),1.51(qd,J scaleviageneralprocedureB1togive25.8mg(25%).R =0.50(10%
+f
+= 12.3, 4.5 Hz, 2H), 1.43 (s, 9H). 13C NMR (126 MHz, cdcn) δ MeOH/DCM) UPLC Retention time 2 min method: 1.21 min 1H
+3
+169.4, 158.7, 158.3, 157.2, 155.4, 139.7, 137.0, 135.3, 132.2, 132.1, NMR (500 MHz, CDCl) δ 8.68 (s, 1H), 7.75−7.71 (m, 1H), 7.48
+3
+130.1, 117.0, 116.1, 114.7, 112.4, 102.2, 80.7, 57.5, 56.4, 45.5, 29.1, (td,J= 7.4,1.1Hz,1H), 7.42−7.34(m,5H), 7.29(dd,J= 8.3,1.9
+L https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="13"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+Hz,3H),6.93(dd,J=7.6,1.6Hz,1H),6.89(d,J=1.7Hz,1H),4.76 kitweresourcedatRevvity(64BRD4TPEH)andPromega(G7571),
+(d,J=10.9Hz,1H), 4.73−4.66 (m,2H), 4.58−4.49 (m,3H), 4.46 respectively.TheHEK293cellswereharvestedat90%confluenceand
+(dd,J=15.0,5.8Hz,1H),4.40−4.32(m,3H),4.26(ddd,J=11.8, then resuspended at the density of 1 × 106 cells per mL in 99%
+6.0,3.7Hz,1H),4.14(t,J=6.0Hz,2H),3.78−3.68(m,5H),3.62− DMEMwith1%(v/v)FetalBovineSerum.Ina1536-wellassayplate
+3.51(m,2H),2.61(s,3H),2.51(s,3H),2.46(m,1H),2.39(s,3H), (Corning,9145BC),5nLofserial-dilutedcompoundsweredispensed
+2.18−2.09(m,3H),1.66(s,3H),0.93(d,J=6.5Hz,3H),0.85(d,J into4.5μLofcellspereachwell.Theplateswereincubatedat37°C
+=6.5Hz,3H).13CNMR(126MHz,CDCl)δ170.7,170.2,163.9, with5%CO2for24h.FortheHTRFassay,1.5μLof1×HTFlysis
+3
+156.9, 142.2, 136.9, 136.7, 131.8, 131.7, 131.0, 130.6, 129.9, 129.7, bufferwasaddedtoeachwell.Afterincubationatroomtemperature
+128.8,128.0,126.5,123.9,122.9,121.8,112.4,69.9,69.5,67.7,65.2, for 1 h, 1.5 μL of detection buffer (1:40 (v/v) dilution for both Eu
+58.8, 58.7, 55.9, 47.4, 39.6, 39.2, 39.1, 36.4, 29.8, 29.5, 29.0, 19.2, cryptate and D2antibodies) was added into each well. The reaction
+19.0, 16.3, 14.5, 13.2, 11.8. HRMS (ESI) Calculated wasfurtherincubatedforovernightatroomtemperaturebeforeplate
+C H ClNOS+[M+ H]+: 1033.3502,Found1033.3502. reading by PHERAstar FSX using HTRF filter, channel A 337/665,
+53 58 8 8 2
+(2S,4R)-N-(2-(3-(4-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H- (60/400),channelB337/620(60/400).FortheCTGassay,4.5μL
+thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)butoxy)- of 1×CTG solution was added to each well and the assay plate was
+propoxy)-4-(4-methylthiazol-5-yl)benzyl)-4-hydroxy-1-((S)-3-meth-
+incubated in dark at room temperature for 20 min to stabilize
+yl-2-(1-oxoisoindolin-2-yl)butanoyl)pyrrolidine-2-carboxamide
+luminescent signal. The CTG signals were then measured by
+(25).Compound25waspreparedfrom1to13aona0.10mmolscale
+PHERAstar FSX usingLUM plussetting.
+following general procedure C. The product was purified via
+BRD4-BD1 Domain Biochemical Binding Assay. The HTRF
+preparative HPLC to 21 mg (20%) of desired alkane product as a
+biochemical assay is used to determine the binding affinity of the
+whitesolid.UPLCRetentiontime8minmethod:4.19min1HNMR
+testedBRD4bindingmoleculestotheBRD4bromodomain1(BD1).
+(400MHz,cdcn)δ8.71(s,1H),7.70(d,J=7.5Hz,1H),7.61−7.40
+3 Thisassaymeasurestheactivityoftestedcompoundsofthebinding
+(m,6H),7.38−7.33(m,2H),7.31(d,J=8.0Hz,1H),7.25(t,J=6.1
+betweenN-terminalGST-taggedBRD4-BD1domainandasynthetic
+Hz,1H),6.98(d,J=1.9Hz,1H),4.74(d,J=10.9Hz,1H),4.57(d,
+biotinylated histon4 peptide ([Lys(5,8,12,16)Ac]-H4(1−21)-biotin,
+J=17.8Hz,1H),4.48−4.41(m,2H),4.39−4.34(m,4H),4.11(t,J=
+AnaSpec,64989)fromhumanhistoneH4.Ina384-wellwhitesmall-
+6.1Hz,2H),3.97(dd,J=8.4,5.9Hz,1H),3.86(d,J=10.9Hz,1H),
+volume plate (PerkinElmer, 6008289), 10 nL of serial-diluted
+3.75(dd,J=10.9,4.3Hz,1H),3.64(t,J=6.1Hz,2H),3.58(td,J=
+compounds were dispensed into 5uL binding domain diluent buffer
+6.4,3.2Hz,2H),3.37(d,J=4.1Hz,1H),2.54(s,2H),2.45(s,3H),
+(PerkinElmer,62DLBDDF).Subsequently,bothGST-taggedBRD4-
+2.40(td,J=7.8,2.5Hz,1H),2.35(s,3H),2.15(s,3H),2.06(td,J=
+BD1 protein and biotinylated BRD4 binding peptide were added to
+12.6,5.5Hz,4H),1.86−1.73(m,1H),1.62(s,3H),0.92(d,J=6.5
+the 10 mM and the mixture was incubated for 30 min at room
+Hz,3H),0.76(d,J=6.7Hz,3H).13CNMR(126MHz,CDCN)δ
+3 temperature. The equilibrated protein-peptide complexes were then
+172.3, 170.2, 169.1, 164.4, 157.7, 157.0, 151.6, 150.8, 149.4, 143.5,
+mixedwith5μLofdetectionbuffer(CisBio,62DB1FDG)containing
+138.4, 136.7, 133.7, 132.9, 132.8, 132.5, 131.5, 131.4, 131.1, 129.7,
+10 nM anti-GST-Eu3+ (CisBio, 61HI2TLB) and 2.5 nM
+129.3,128.8,127.9,124.3,124.0,122.0,113.1,79.2,71.6,70.5,67.9,
+Streptavidin-D2 (CisBio, 610SADLB). After 3 h of incubation at
+66.3, 60.0, 59.3, 57.7, 56.4, 48.0, 39.0, 38.4, 30.4, 29.7, 27.3, 21.1,
+room temperature, the plates were measured in a PheraStar reader
+19.4,19.0,16.5,14.6,13.1HRMS(ESI)CalculatedC H ClNOS+
+[M+ H]+: 989.3604,Found989.3594. 52 58 8 6 2 FSX (BMG Labtech) using the homogeneous time-resolved
+fluorescence (HTRF) optical module (excitation: 337 nm with 10
+(2S,4R)-N-(2-(3-(4-((S)-4-(4-Chlorophenyl)-2,3,9-trimethyl-6H-
+thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepin-6-yl)-3-oxobutoxy)- flashes; emission: 620 and 665 nm). The compound activity AC50
+propoxy)-4-(4-methylthiazol-5-yl)benzyl)-4-hydroxy-1-((S)-3-meth- values were calculated by fitting the data to the equation
+yl-2-(1-oxoisoindolin-2-yl)butanoyl)pyrrolidine-2-carboxamide “log(inhibitor) vs response − variable slope” using the GraphPad
+(26).Compound26waspreparedfrom1to13aona0.95mmolscale Prismsoftware.
+following a modified general procedure D where saturated sodium Cellular NanoBRET Target Engagement Assay. The cellular
+sulfate was replaced with saturated sodium bicarbonate to remove NanoBRET target engagement assay for VHL and CRBN was
+residual1.Thecruderesiduewaspassedthroughaplugofsilicagelto obtainedfromPromega(PromegaN2912,N2932).Theassayswere
+remove the triphenylpyridine. The plug was initially washed with 50 conductedfollowingthemanufacturer’stechnicalmanualwithminor
+mL of DCM followed by 50 mL of 10% methanol in DCM. The modifications. HEK293 cells were transiently transfected with the
+methanol/DCMfractionwasevaporated,reconstitutedinacetonitrile NanoLuc-CRBNorNanoLuc-VHLfusionvectorusingtheFuGENE
+andpurifiedviapreparativeHPLCtogive18.6mg(19%)ofdesired transfectionkit(PromegaE5911).After24hofincubationat37°C
+ketone as a white solid. UPLC Retention time 2 min method: 4.01 with 5% CO, the cell lines were harvested and stored in liquid
+2
+min1HNMR(499MHz,CDCl)δ8.66(s,1H),7.77(d,J=7.2Hz, nitrogen. To analyze target engagement for CRBN and VHL E3
+3
+1H),7.50(td,J=7.3,1.1Hz,1H),7.42(d,J=8.0Hz,2H),7.41− ligases, these two cell lines were resuspended in Opti-Mem medium
+7.25(m,8H),6.92(dd,J=7.6,1.6Hz,1H),6.84(d,J=1.6Hz,1H), (Gibco 11058-021) at a density of 5 × 105 cells per mL and
+4.76 (d, J = 10.9 Hz, 1H), 4.72−4.63 (m, 2H), 4.56 (t, J = 7.5 Hz, dispensed into a 384-well plate (Corning 3574). For live cell
+1H),4.55−4.49(m,1H),4.48 (dd,J= 5.9,4.0Hz,2H),4.40−4.34 NanoBRET measurement, these cell lines were treated with 0.5 μM
+(m,2H),4.10(t,J=6.1Hz,2H),3.84(t,J=6.4Hz,1H),3.79−3.58 (CRBN) or 1 μM (VHL) tracer and serially diluted unlabeled
+(m,5H),3.48(s,1H),2.99(dt,J=16.5,6.2Hz,1H),2.88(dt,J= PROTACcompoundsfor2hincubationat37°Cwith5%CO.In
+2
+16.5,6.5Hz,1H), 2.69−2.65(m,1H),2.57(s,3H), 2.54−2.45(m, thepermeabilizedcondition,beforedigitonintreatment(50μg/mL)
+1H), 2.49 (s, 3H), 2.41 (td, J = 7.9, 7.1, 3.7 Hz, 2H), 2.38 (s, 3H), for 30 min, NanoLuc-CRBN or NanoLuc-VHL expressing cell lines
+2.17−2.05(m,3H),1.72−1.65(m,1H),1.64(s,3H),0.91(d,J=6.5 were dosed with 0.15 μM (CRBN) or 0.25 μM (VHL) tracer and
+Hz,3H),0.86(d,J=6.6Hz,3H).13CNMR(126MHz,CDCl)δ seriallydilutedunlabeledPROTACcompounds.Thereafter,bothlive
+3
+207.2, 170.8, 170.2, 169.4, 164.0, 156.9, 155.5, 150.3, 148.5, 142.3, andpermeabilizedcellsweretreatedwith1×Nano-Glosubstratefor
+136.9, 136.8, 131.9, 131.8, 131.0, 130.9, 130.5, 129.9, 129.6, 128.8, 3 min (supplemented with 1× NanoLuc-extracellular inhibitor only
+128.0, 126.5, 123.9, 123.0, 121.6, 112.1, 76.9, 70.2, 67.6, 65.8, 65.0, forthelivecellcondition).TheBRETsignalswerecollectedusinga
+58.7, 56.0, 52.8, 47.5, 44.8, 44.1, 39.1, 36.3, 29.7, 28.9, 19.2, 19.1, PHERAstar FSXwiththeLUM2007H1module(610-LP, 450−480
+16.2,14.5,13.2,11.8.HRMS(ESI)CalculatedC H ClNOS+[M nM).
+53 58 8 7 2
++H]+:1017.3553,Found1017.3559. BRD4-PROTAC-CRBN Ternary Complex Formation HTRF
+HTRF BRD4 Degradation and CellTiter-Glo (CTG) Assays. Assay. The BRD4-PROTAC-CRBN ternary complex assay allows
+The HTRF and CellTiter-Glo (CTG) assays were conducted forthequantitativeevaluationoftheactivityoftestedcompoundsin
+simultaneously using HEK293, cultured in 90% (v/v) DMEM bridging the interactionbetween the N-terminalGST-tagged BRD4-
+(Gibco, 11995-065) with 10% (v/v) Fetal Bovine Serum (16000- BD1 domain (BPS, 31040) and the biotinylated CRBN/DDB1
+044).TheHTRFtotalBRD4detectionkitandCellTiter-Glo(CTG) protein complex (prepared internally). In a 384-well white small-
+M https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="14"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+volume plate (PerkinElmer, 6008289), 20 nL of 2-fold serial-diluted TimCernak−DepartmentofMedicinalChemistry,University
+compounds (Top concentration: 10 mM) were dispensed into each of Michigan, Ann Arbor, Michigan 48104, United States;
+well in columns 1−22, with columns 23−24 containing 20 nL of orcid.org/0000-0001-5407-0643; Email: tcernak@
+positive control (dBET6, final concentration: 98 nM) and DMSO,
+med.umich.edu
+respectively.The2×proteinmixturewaspreparedbycombiningthe
+following components in the Binding Domain Diluent Buffer
+Authors
+(Revvity, 62DLBDDF): 20 nM GST-tagged BRD4-BD1 domain
+Andrew McGrath − Department of Medicinal Chemistry,
+and 200 nM CRBN/DDB1 protein complex. Subsequently, 5 μL of
+the 2× protein mixture was added to each well, and the plate was UniversityofMichigan,AnnArbor,Michigan48104,United
+incubated at room temperature for 1 h. To create the 2× detection States; orcid.org/0000-0001-9275-0017
+solution, the anti-GST Eu3+ antibody (Revvity, 61HI2TLB) and Haiyan Huang − Department of Medicinal Chemistry,
+streptavidin-d (Revvity, 610SADLB) were diluted with the Binding UniversityofMichigan,AnnArbor,Michigan48104,United
+2
+Domain Detection Buffer (Revvity, 62DB1FDG) to 2 and 100 nM, States
+respectively.Followingthis,5μLofthedetectionsolutionwasadded Jean-Francois Brazeau − Therapeutics Discovery, Janssen
+toeachwell,andtheplatewasincubatedatroomtemperaturefor3h
+Research &amp; Development, LLC, La Jolla, California 92121,
+beforereading ina PheraStar reader FSX (BMG Labtech) using the
+United States
+homogeneous time-resolved fluorescence (HTRF) optical module
+Zirong Zhang − Department of Medicinal Chemistry,
+(excitation:337nmwith10flashes;emission:620and665nm).The
+BRD4-PROTAC-CRBN ternary complex formation EC , ternary UniversityofMichigan,AnnArbor,Michigan48104,United
+50
+complex inhibition EC , peak B value and area under the curve States
+50 max
+(AUC) values were determined by fitting the data to the nonlinear Christopher O. Audu − Department of Medicinal Chemistry,
+bell-shapedcurvemodel using GraphPad Prismsoftware. UniversityofMichigan,AnnArbor,Michigan48104,United
+Computational Modeling Methods. Molecular modeling States
+studies utilized the crystal structure of Cereblon bound to BRD4- Nadeem A. Vellore − Therapeutics Discovery, Janssen
+BD1 and DDB1 protein in complex with dBET6 PROTAC (PDB
+Research &amp; Development, LLC, La Jolla, California 92121,
+entry6BOY).55DDB1andCereblonproteinswereremovedfromthe
+United States
+crystal structure and the remaining complex (BRD4 bound to
+Lu Zhu − Therapeutics Discovery, Janssen Research &amp;
+dBET6)waspreparedusingstandardProteinPreparationmoduleof
+Schrödingersuite(version2023).56Compounds3(amide),4(ester), Development, LLC, Spring House, Pennsylvania 19477,
+and 7 (amine) were prepared using the Ligprep module, and the United States
+corresponding OPLS force-field parameters were calculated. Initial Zhicai Shi − Therapeutics Discovery, Janssen Research &amp;
+models were generated by aligning compounds 3, 4, and 7 to the Development, LLC, Spring House, Pennsylvania 19477,
+bound dBET6 compound in the BRD4 crystal structure and United States
+subsequently replacing the dBET6 ligand to create three models. Jennifer D. Venable − Therapeutics Discovery, Janssen
+MD simulation was performed using Desmond MD engine
+Research &amp; Development, LLC, La Jolla, California 92121,
+(Schrödinger suite).57 Models were solvated using SPC solvent
+United States
+modelsandrelaxedusingstandardminimizationprotocolinMaestro.
+The finalized system underwent a 250 ns MD simulation, with Complete contact information is available at:
+coordinates saved at intervals of 25 ps. Conformational analysis was https://pubs.acs.org/10.1021/acs.jmedchem.4c02047
+then performed on the resulting trajectory to gain insights into the
+dynamicpropertiesof the system.
+Author Contributions
+■
+ASSOCIATED CONTENT The manuscript was written through contributions of all
+authors.Allauthorshavegivenapprovaltothefinalversionof
+Data Availability Statement
+DataAvailabilityStatementCodeusedtogeneratethetSNEas the manuscript.
+wellasthepotencygraphics,SMILESstringsofallenumerated Funding
+products, and an interactive version of the tSNE are available
+This work was funded by Janssen Therapeutics, the Alfred P.
+at https://github.com/cernak-lab/cernak-lab.github.io/tree/
+Sloan Foundation, and NIH-R01GM144471 (T.C.).
+main/publications/McGrath%20Diverse%20Amine-
+Acid%20Couplings%20PROTACs. Notes
+* sı Supporting Information The authors declare the following competing financial
+The Supporting Information is available free of charge at interest(s): The authors declare the following competing
+https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02047. financial inter-est(s): The Cernak Lab has received research
+6BOY_model_amine (PDB) funding or in-kind donations from MilliporeSigma, Relay
+6BOY_model_amide (PDB) Therapeutics, Janssen Therapeutics, SPT Labtech, AbbVie,
+6BOY_model_ester (PDB) Entos, Inc. and Merck &amp; Co., Inc. T.C. holds equity in
+Experimental procedures; characterization data; copies Scorpion Therapeutics and is a co-Founder and equity holder
+of all spectral data; and further discussion (PDF) of Iambic Therapeutics (formerly Entos, Inc.).
+Bio data (CSV)
+■
+■ ACKNOWLEDGMENTS
+AUTHOR INFORMATION
+We would like to thank Paige Stout and Marcus Gutierrez for
+Corresponding Authors
+purification (reverse phase HPLC) of select compounds and
+ChristineF.Gelin−TherapeuticsDiscovery,JanssenResearch
+&amp; Development, LLC, La Jolla, California 92121, United Deszra Shariff for NMR analysis of select compounds. We
+States; orcid.org/0000-0001-5917-3588; thank Charu Chaudhry for helpful discussions during the
+Email: cgelin@its.jnj.com preparation of the manuscript.
+N https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="15"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+■
+ABBREVIATIONS USED (12) Papatzimas, J. W.; Evgueni, G.; Brownsey, Duncan K.; Maity,
+Ranjan.;Bahlis,NizarJ.;Derksen,DarrenJ.AGeneralStrategyforthe
+AUC, area under the bell-shaped curve; BCF, tris-
+PreparationofThalidomide-ConjugateLinkers.Synlett2017,28(20),
+(pentafluorophenyl)borane; BRET, bioluminescence reso- 2881−2885.
+nance energy transfer; Bu 2O, dibutyl ether; CRBN, cereblon; (13)Bhela,I.P.;Ranza,A.;Balestrero,F.C.;Serafini,M.;Aprile,S.;
+CTG, CellTiter-Glo; DIPEA, N,N-diispropylethylamine; Di Martino, R. M. C.; Condorelli, F.; Pirali, T. A Versatile and
+DMDC, dimethyl dicarbonate; dtbpy, 4,4-ditert-butylbipyr- Sustainable Multicomponent Platform for the Synthesis of Protein
+idine; HBA, hydrogen bond acceptor; HBD, hydrogen bond Degraders: Proof-of-Concept Application to BRD4-Degrading
+donor; HTE, high throughput experimentation; HTRF, PROTACs. J. Med.Chem. 2022, 65(22),15282−15299.
+homogeneous time resolved fluorescence; KI, potassium (14)Klein,V.G.;Bond,A.G.;Craigon,C.;Lokey,R.S.;Ciulli,A.
+Amide-to-Ester Substitution as a Strategy for Optimizing PROTAC
+iodide; KBr, potassium bromide; KTF, ternary complex peak
+Permeability and Cellular Activity. J. Med. Chem. 2021, 64 (24),
+formation AC50 values; ADME, absorption, distribution,
+18082−18101.
+metabolism and excretion; NaI, sodium iodide; NiBr •DME,
+2 (15)Wurz,R.P.;Dellamaggiore,K.;Dou,H.;Javier,N.;Lo,M.-C.;
+nickel(II) bromide·glyme; Ni(acac) , nickel(II) acetylaceto-
+2 McCarter,J.D.;Mohl,D.;Sastri,C.;Lipford,J.R.;Cee,V.J.A“Click
+nate; NEt •HCl, triethylammonium hydrochloride; POI,
+3 Chemistry Platform” forthe Rapid Synthesis of Bispecific Molecules
+protein of interest; PROTAC, proteolysis targeting chimera; forInducingProteinDegradation.J.Med.Chem.2018,61(2),453−
+PSA, polar surface area; pyCamCN, (Z)-N-cyanopicolinimi- 461.
+damide; RBA, relative binding affinity; RMSF, root-mean- (16) Brownsey, D. K.; Rowley, B. C.; Gorobets, E.; Gelfand, B. S.;
+square fluctuation; tSNE, t-distributed stochastic neighbor Derksen, D. J. Rapid Synthesis of Pomalidomide-Conjugates for the
+embedding; TEA, triethyl amine; TFFH, tetramethylfluor- DevelopmentofProteinDegraderLibraries.Chem.Sci.2021,12(12),
+oformamidinium hexafluorophosphate; VHL, von Hippel- 4519−4525.
+(17) Hayhow, T. G.; Borrows, R. E. A.; Dieǹ e, C. R.; Fairley, G.;
+Lindau
+Fallan, C.; Fillery, S. M.; Scott, J. S.; Watson, D. W. A Buchwald−
+■ HartwigProtocoltoEnableRapidLinkerExplorationofCereblonE3-
+REFERENCES Ligase PROTACs**. Chem. -Eur. J. 2020,26 (70),16818−16823.
+(18)Guo,L.;Zhou,Y.;Nie,X.;Zhang,Z.;Zhang,Z.;Li,C.;Wang,
+(1) Huang, H.; McGrath, A.; Audu, C. O.; Cernak, T. Catalyst:
+T.; Tang, W. A Platform for the Rapid Synthesis of Proteolysis
+Systems Chemistry Links Reactions to Molecular Function. Chem
+2024, 10(8),2333−2336, DOI:10.1016/j.chempr.2024.06.009. Targeting Chimeras (Rapid-TAC) under Miniaturized Conditions.
+Eur. J. Med. Chem. 2022,236,No. 114317.
+(2) Karageorgis, G.; Warriner, S.; Nelson, A. Efficient Discovery of
+(19) Qiu, X.; Sun, N.; Kong, Y.; Li, Y.; Yang, X.; Jiang, B.
+BioactiveScaffoldsbyActivity-DirectedSynthesis.Nat.Chem.2014,6
+Chemoselective Synthesis of Lenalidomide-Based PROTAC Library
+(10),872−876.
+Using AlkylationReaction. Org.Lett. 2019,21 (10),3838−3841.
+(3)Mahjour,B.;Shen,Y.;Liu,W.;Cernak,T.AMapoftheAmine−
+(20) Sosič, I.; Bricelj, A.; Steinebach, C. E3 Ligase Ligand
+CarboxylicAcidCouplingSystem.Nature2020,580(7801),71−75.
+Chemistries: From Building Blocks to Protein Degraders. Chem.
+(4) Zhang, R.; Mahjour, B.; Outlaw, A.; McGrath, A.; Hopper, T.;
+Soc. Rev.2022, 51(9),3487−3534.
+Kelley, B.; Walters, W. P.; Cernak, T. Exploring the Combinatorial
+(21) Boström, J.; Brown, D. G.; Young, R. J.; Keserü, G. M.
+Explosion of Amine−Acid Reaction Space via Graph Editing.
+Expanding the Medicinal Chemistry Synthetic Toolbox. Nat. Rev.
+Commun.Chem. 2024,7 (1),22.
+Drug Discovery2018, 17(10),709−727.
+(5) Cyrus, K.; Wehenkel, M.; Choi, E.-Y.; Han, H.-J.; Lee, H.;
+(22)Winter,G.E.;Buckley,D.L.;Paulk,J.;Roberts,J.M.;Souza,
+Swanson,H.;Kim,K.-B.Impactof LinkerLengthontheActivityof
+A.; Dhe-Paganon, S.; Bradner, J. E. Phthalimide Conjugation as a
+PROTACs.Mol.BioSyst. 2011, 7(2), 359−364.
+Strategy for in Vivo Target Protein Degradation. Science 2015, 348
+(6) Bashore, F. M.; Foley, C. A.; Ong, H. W.; Rectenwald, J. M.;
+(6241),1376−1381.
+Hanley, R. P.; Norris-Drouin, J. L.; Cholensky, S. H.; Mills, C. A.;
+(23) Mahjour, B.; Shen, Y.; Cernak, T. Ultrahigh-Throughput
+Pearce, K. H.; Herring, L. E.; Kireev, D.; Frye, S. V.; James, L. I.
+ExperimentationforInformation-RichChemicalSynthesis.Acc.Chem.
+PROTAC Linkerology Leads to an Optimized Bivalent Chemical
+Res. 2021, 54(10),2337−2346.
+DegraderofPolycombRepressiveComplex2(PRC2)Components.
+(24)Shen,Y.;Borowski,J.E.;Hardy,M.A.;Sarpong,R.;Doyle,A.
+ACSChem. Biol.2023, 18(3), 494−507.
+G.; Cernak, T. Automation and Computer-Assisted Planning for
+(7)Zoppi,V.;Hughes,S.J.;Maniaci,C.;Testa,A.;Gmaschitz,T.;
+Chemical Synthesis.Nat. Rev.Methods Primers2021, 1 (1),23.
+Wieshofer,C.;Koegl,M.;Riching,K.M.;Daniels,D.L.;Spallarossa,
+(25) Mahjour, B.; Zhang, R.; Shen, Y.; McGrath, A.; Zhao, R.;
+A.; Ciulli, A. Iterative Design and Optimization of Initially Inactive
+Mohamed,O.G.;Lin,Y.;Zhang,Z.;Douthwaite,J.L.;Tripathi,A.;
+Proteolysis Targeting Chimeras (PROTACs) Identify VZ185 as a
+Cernak, T. Rapid Planning and Analysis of High-Throughput
+Potent, Fast, and Selective von Hippel−Lindau (VHL) Based Dual Experiment Arrays for Reaction Discovery. Nat. Commun. 2023, 14
+Degrader Probe of BRD9 and BRD7. J. Med. Chem. 2019, 62 (2), (1), No. 3924.
+699−726. (26) Mahjour, B.; Hoffstadt, J.; Cernak, T. Designing Chemical
+(8)Hu,J.;Hu,B.;Wang,M.;Xu,F.;Miao,B.;Yang,C.-Y.;Wang, Reaction Arrays Using Phactor and ChatGPT. Org. Process Res. Dev.
+M.;Liu,Z.;Hayes,D.F.;Chinnaswamy,K.;Delproposto,J.;Stuckey, 2023, 27(8), 1510−1516.
+J.; Wang, S. Discovery of ERD-308 as a Highly Potent Proteolysis (27)Wong,H.;Cernak,T.ReactionMiniaturizationinEco-Friendly
+TargetingChimera(PROTAC)DegraderofEstrogenReceptor(ER). Solvents.Curr. Opin. GreenSustainableChem. 2018, 11, 91−98.
+J. Med.Chem. 2019, 62(3),1420−1442. (28) McGrath, A.; Zhang, R.; Shafiq, K.; Cernak, T. Repurposing
+(9) Li, M.; Zhi, Y.; Liu, B.; Yao, Q. Advancing Strategies for Amine and Carboxylic Acid Building Blocks with an Automatable
+Proteolysis-Targeting Chimera Design. J. Med. Chem. 2023, 66 (4), Esterification Reaction. Chem. Commun.2023, 59(8),1026−1029.
+2308−2329. (29) Shen, Y.; Mahjour, B.; Cernak, T. Development of Copper-
+(10) Maple, H. J.; Clayden, N.; Baron, A.; Stacey, C.; Felix, R. Catalyzed Deaminative Esterification Using High-Throughput Ex-
+Developing Degraders: Principles and Perspectives on Design and perimentation. Commun.Chem. 2022, 5(1), 83.
+ChemicalSpace. Med.Chem. Commun.2019, 10(10),1755−1764. (30) Gruntz, U.; Katritzky, A. R.; Kenny, D. H.; Rezende, M. C.;
+(11) Békés, M.; Langley, D. R.; Crews, C. M. PROTAC Targeted Sheikh,H.PyridinesasLeavingGroupsinSyntheticTransformations:
+Protein Degraders: The Past Is Prologue. Nat. Rev. Drug Discovery Conversion of Amines into Esters. J. Chem. Soc., Chem. Commun.
+2022, 21(3),181−200. 1977, No. 20, 701.
+O https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page><Page number="16"><Text>Journal of Medicinal Chemistry pubs.acs.org/jmc Article
+(31) Ni,S.; Li,C.-X.; Mao,Y.;Han, J.; Wang, Y.;Yan, H.;Pan, Y. (50)Min,J.;Mayasundari,A.;Keramatnia,F.;Jonchere,B.;Yang,S.
+Ni-Catalyzed Deaminative Cross-Electrophile Coupling of Katritzky W.;Jarusiewicz,J.;Actis,M.;Das,S.;Young,B.;Slavish,J.;Yang,L.;
+Salts with Halides via C−N Bond Activation. Sci. Adv. 2019, 5 (6), Li, Y.; Fu, X.; Garrett, S. H.; Yun, M.-K.; Li, Z.; Nithianantham, S.;
+eaaw9516. Chai,S.;Chen,T.;Shelat,A.;Lee,R.E.;Nishiguchi,G.;White,S.W.;
+(32)Yi,J.;Badir,S.O.;Kammer,L.M.;Ribagorda,M.;Molander, Roussel, M. F.; Potts, P. R.; Fischer, M.; Rankovic, Z. Phenyl-
+G. A. Deaminative Reductive Arylation Enabled by Nickel/Photo- Glutarimides: Alternative Cereblon Binders for the Design of
+redoxDual Catalysis.Org.Lett. 2019, 21(9),3346−3351. PROTACs. Angew.Chem.,Int. Ed. 2021, 60(51),26663−26670.
+(33) Yue, H.; Zhu, C.; Shen, L.; Geng, Q.; Hock, K. J.; Yuan, T.; (51)Han,X.;Sun,Y.StrategiesfortheDiscoveryofOralPROTAC
+Cavallo, L.; Rueping, M. Nickel-Catalyzed C−N Bond Activation: DegradersAimedatCancerTherapy.CellRep.Phys.Sci.2022,3(10),
+ActivatedPrimaryAminesasAlkylatingReagentsinReductiveCross- No. 101062.
+Coupling.Chem. Sci. 2019, 10(16),4430−4435. (52) Riching, K. M.; Mahan, S.; Corona, C. R.; McDougall, M.;
+(34)Liao,J.;Basch,C.H.;Hoerrner,M.E.;Talley,M.R.;Boscoe, Vasta,J.D.;Robers,M.B.;Urh,M.;Daniels,D.L.QuantitativeLive-
+B. P.; Tucker, J. W.; Garnsey, M. R.; Watson, M. P. Deaminative Cell Kinetic Degradation and Mechanistic Profiling of PROTAC
+Modeof Action. ACS Chem.Biol. 2018,13(9), 2758−2770.
+ReductiveCross-ElectrophileCouplingsofAlkylpyridiniumSaltsand
+ArylBromides. Org.Lett. 2019,21(8), 2941−2946. (53)Vasta,J.D.;Corona,C.R.;Robers,M.B.AHigh-Throughput
+Method to Prioritize PROTACIntracellularTarget EngagementTar-
+(35)Martin-Montero,R.;Yatham,V.R.;Yin,H.;Davies,J.;Martin,
+get Engagement and Cell PermeabilityPermeability Using Nano-
+R. Ni-Catalyzed Reductive Deaminative Arylation at Sp3 Carbon
+BRETNanoBRET. In Targeted Protein Degradation: Methods and
+Centers.Org. Lett.2019, 21(8),2947−2951.
+Protocols;Cacace,A.M.;Hickey,C.M.;Békés,M.,Eds.;SpringerUS:
+(36)Wang,J.;Hoerrner,M.E.;Watson,M.P.;Weix,D.J.Nickel-
+New York,NY, 2021; pp265−282.
+CatalyzedSynthesisofDialkylKetonesfromtheCouplingofN-Alkyl
+(54)RBAIsDefinedastheRatioofaCompound’sAffinityinLive
+Pyridinium SaltswithActivated Carboxylic Acids.Angew. Chem.,Int.
+versusPermeabilizedCells.ALargerRightShiftinMeasuredAffinity
+Ed. 2020,59, 13484.
+in the Live-Cell Mode Leads to Larger RBA Values and Is an
+(37)Wang,J.;Ehehalt,L.E.;Huang,Z.;Beleh,O.M.;Guzei,I.A.;
+Indication of Lower Permeability.
+Weix, D. J. Formation of C(Sp2)−C(Sp3) Bonds Instead of Amide
+(55)Nowak,R.P.;DeAngelo,S.L.;Buckley,D.;He,Z.;Donovan,
+C−N Bonds from Carboxylic Acid and Amine Substrate Pools by
+K.A.;An,J.;Safaee,N.;Jedrychowski,M.P.;Ponthier,C.M.;Ishoey,
+DecarbonylativeCross-ElectrophileCoupling.J.Am.Chem.Soc.2023.
+M.;Zhang,T.;Mancias,J.D.;Gray,N.S.;Bradner,J.E.;Fischer,E.S.
+1459951.
+Plasticity in Binding Confers Selectivity in Ligand-Induced Protein
+(38) Amani, J.; Molander, G. A. Direct Conversion of Carboxylic Degradation. Nat.Chem. Biol.2018, 14(7), 706−714.
+Acids toAlkylKetones. Org.Lett. 2017, 19(13),3612−3615. (56) SchrödingerRelease2023−4.
+(39) Cornella, J.; Edwards, J. T.; Qin, T.; Kawamura, S.; Wang, J.; (57) Schrödinger Release2023−4: Desmond Molecular Dynamics
+Pan,C.-M.;Gianatassio,R.;Schmidt,M.;Eastgate,M.D.;Baran,P.S. System.
+Practical Ni-Catalyzed Aryl−Alkyl Cross-Coupling of Secondary
+Redox-ActiveEsters.J. Am. Chem. Soc.2016, 138 (7),2174−2177.
+(40)PrietoKullmer,C.N.;Kautzky,J.A.;Krska,S.W.;Nowak,T.;
+Dreher,S.D.;MacMillan,D.W.C.AcceleratingReactionGenerality
+andMechanisticInsightthroughAdditiveMapping.Science2022,376
+(6592),532−539.
+(41) Douthwaite, J. L.; Zhao, R.; Shim, E.; Mahjour, B.;
+Zimmerman, P. M.; Cernak, T. Formal Cross-Coupling of Amines
+and Carboxylic Acids to Form Sp3−Sp2 Carbon−Carbon Bonds. J.
+Am. Chem.Soc. 2023, 145(20),10930−10937.
+(42)Malapit,C.A.;Bour,J.R.;Brigham,C.E.;Sanford,M.S.Base-
+FreeNickel-CatalysedDecarbonylative Suzuki−MiyauraCouplingof
+AcidFluorides.Nature2018, 563 (7729),100−104.
+(43)Fehér,P.P.;Stirling,A.TheoreticalStudyontheFormationof
+Ni(PR3)(Aryl)F Complexes Observed in Ni-Catalyzed Decarbon-
+ylative C−C Coupling of Acyl Fluorides. Organometallics 2020, 39
+(14),2774−2783.
+(44) Fu, M.-C.; Shang, R.; Cheng, W.-M.; Fu, Y. Boron-Catalyzed
+N-Alkylation of Amines Using Carboxylic Acids. Angew. Chem., Int.
+Ed. 2015,54 (31),9042−9046.
+(45)Sorribes,I.;Junge,K.;Beller,M.DirectCatalyticN-Alkylation
+ofAmines with Carboxylic Acids.J. Am. Chem. Soc. 2014, 136 (40),
+14314−14319.
+(46)Stoll,E.L.;Tongue,T.;Andrews,K.G.;Valette,D.;Hirst,D.
+J.; Denton, R. M. A Practical Catalytic Reductive Amination of
+Carboxylic Acids.Chem. Sci.2020, 11(35),9494−9500.
+(47)Zhang,Q.;Fu,M.-C.;Yu,H.-Z.;Fu,Y.MechanismofBoron-
+Catalyzed N-Alkylation of Amines with Carboxylic Acids. J. Org.
+Chem. 2016,81(15),6235−6243.
+(48)Zengerle,M.;Chan,K.-H.;Ciulli,A.SelectiveSmallMolecule
+InducedDegradationoftheBETBromodomainProteinBRD4.ACS
+Chem. Biol.2015, 10(8),1770−1777.
+(49) Jarusiewicz, J. A.; Yoshimura, S.; Mayasundari, A.; Actis, M.;
+Aggarwal, A.; McGowan, K.; Yang, L.; Li, Y.; Fu, X.; Mishra, V.;
+Heath,R.;Narina,S.;Pruett-Miller,S.M.;Nishiguchi,G.;Yang,J.J.;
+Rankovic, Z. Phenyl Dihydrouracil: An Alternative Cereblon Binder
+forPROTACDesign.ACSMed.Chem.Lett.2023,14(2),141−145.
+P https://doi.org/10.1021/acs.jmedchem.4c02047
+J.Med.Chem.XXXX,XXX,XXX−XXX</Text></Page></PDFDocument>
