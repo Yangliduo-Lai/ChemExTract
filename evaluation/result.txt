@@ -89,11 +89,11 @@ COLLECTLAYER of the precipitate by filtration; WASH with water and ether; DRYSOL
 CONCENTRATE the residue; ADD dichloromethane (200 mL/mmol); WASH with water (62 mL/mmol x 3).
 SETTEMPERATURE to 60°C; WAIT until a homogeneous solution forms; MAINTAIN temperature at 60°C for 16 hours; OBSERVED until the starting material was completely consumed.
 ADD ethyl acetate (3 ml); ADD heptane (3 ml); PRECIPITATION to obtain a solid.
-ADD 5-(4-bromophenyl)-1-[3-fluoro-4-(methylsulfonyl)phenyl]-3-(trifluoromethyl)-1H-pyrazole (0.15 g, 0.324 mmol) to DME (3.9 mL); STIR the solution; ADD furan -3-boronic acid (0.044 g, 0.389 mmol); ADD bis(triphenylphosphine) palladium( II)chloride (0.025 g, 0.04 mmol); ADD saturated NaHCO3 solution (1.3 mL); SETTEMPERATURE to room temperature; MAINTENANCE OF THE ENVIRONMENT under nitrogen.
+ADD 5-(4-bromophenyl)-1-[3-fluoro-4-(methylsulfonyl)phenyl]-3-(trifluoromethyl)-1H-pyrazole (0.15 g, 0.324 mmol) to DME (3.9 mL); STIR the solution; ADD furan -3-boronic acid (0.044 g, 0.389 mmol) at room temperature under nitrogen; ADD bis(triphenylphosphine) palladium( II)chloride (0.025 g, 0.04 mmol) at room temperature under nitrogen; ADD saturated NaHCO3 solution (1.3 mL) at room temperature under nitrogen.
 YIELD 1.5 g (50.34%).
 REACTION of Appl. (1992), GB 2253848 A1 with [2-methyl-5-(4-trifluoromethoxy-phenyl)-2H-pyrazol-3-yl]-methanol (example 11 d); ADD N,N,N',N'-tetramethyl azodicarboxamide and tributylphosphine; YIELD of [rac]-2-{6-[2-methyl-5-(4-trifluoromethoxy-phenyl)-2H-pyrazol-3-ylmethoxy]-indol-1-yl}-propionic acid-ethyl ester as colorless oil.
 SETTEMPERATURE using an ice bath; ADD Potassium hydroxide (3.65 g, 65.1 mmol) all at once to a suspension of 4-bromo-3-methyl-1-(4-methylbenzenesulphonyl)-1H-pyrrole-2-carbonitrile (4.66 g, 13.7 mmol) in methanol (95 mL).
-STIR the reaction mixture for 3 hours; ADD 300 ml of water.
+STIR the reaction mixture for 3 hours; ADD water (300 ml).
 STIR the reaction at room temperature for 92 hours; ADD the mixture to 2M aqueous hydrochloric acid (85ml); DILUTE with water (170ml).
-PURIFY the mixture directly by preparative HPLC [Method 10]; NOACTION.
+PURIFY the mixture directly by preparative HPLC [Method 10].
 SEAL the reaction vessel; STIR the solution for 20 hours; ADD EtOAc (50 mL).

@@ -1,7 +1,3 @@
-Andrew McGrath, Haiyan Huang, Jean-Francois Brazeau, Zirong Zhang, Christopher O. Audu,
-
-Metrics&More ArticleRecommendations sı SupportingInformation
-
 PROTACsareheterobifunctionalmoleculesthatconsistofatarget-bindingmoietyandanE3ligasebindingmoiety,connectedbya
 linker.Thesefragmentsarefrequentlyunitedviaamidebonds.Whilestraightforwardtosynthesize,amides mayimpartsuboptimal
 drug properties to the overall molecule. From a systems level perspective, we envisioned that the potency of PROTACs could be
@@ -10,7 +6,6 @@ blocks.WepresentasuiteofBRD4PROTACdegraderspreparedviafournewamine−acidcouplin
 amide coupling. Our findings reveal that variations in reaction conditions affect the physicochemical properties of PROTACs,
 resultinginaspectrumofproperties.Notably,severalnewPROTACsdemonstratedenhancedBRD4degradationefficacycompared
 to those employing amide linkers, emphasizing the potential of systems chemistry as a therapeutic optimization strategy.
-■
 
 Control over physicochemical properties using chemical reaction conditions. Here, we experimentally validate control
 synthesis is typically achieved by varying starting materials to ofcompoundbioactivityinanintermolecularsettingthrougha
@@ -26,11 +21,6 @@ structures,properties,andfunctioncanbeviewedonasystems
 but also on the bulk physicochemical properties of these
 levelwhere,forinstance,thechoiceofareactioncatalystcould protein degraders.5−10 PROTACs are heterobifunctional
 driveacellularphenotypicoutcome(Figure1a).Forinstance,
-
-Revised: November6, 2024
-mides underwent diverse intramolecular rhodium-catalyzed
-
-Journal of Medicinal Chemistry pubs.acs.org/jmc Article
 
 Figure 1. (a) Systems chemistry: building blocks, conditions, transformations, structure, properties, and function are interconnected and
 interdependent.(b)80transformations(ref2)areappliedto1andacollectionofcommerciallyavailableamine-containingpartialPROTACs(see
@@ -70,8 +60,6 @@ blocksjustbychangingreactionconditions.4Whenweapplied derivedamine2toyieldthecla
 80 possible transformations3 on acid 1 and a suite of derivatives 4−7 of (Figure 1c).22 Each of these methods
 commercially available cereblon (CRBN) recruiting amines provides a unique way to pair a POI and a partial PROTAC,
 in silico, a diverse property space emerged (Figure 1b). The andtheresultantcompounds spanarangeofphysicochemical
-
-Journal of Medicinal Chemistry pubs.acs.org/jmc Article
 
 Figure2.(a)Developingdiversereactionconditionstoproduceester,amine,alkane,andketone-linkedanalogsofamidedBET1(3)usinghigh-
 throughputexperimentation.AssayyieldsweredeterminedbyUPLC-MS.(b)Esterarrayconditions:10μmolof1(1.0equiv),10(1.0equiv),base
@@ -777,58 +765,3 @@ products, and an interactive version of the tSNE are available
 
 Acid%20Couplings%20PROTACs. Notes
 * sı Supporting Information The authors declare the following competing financial
-
-The Supporting Information is available free of charge at interest(s): The authors declare the following competing
-https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02047. financial inter-est(s): The Cernak Lab has received research
-6BOY_model_amine (PDB) funding or in-kind donations from MilliporeSigma, Relay
-6BOY_model_amide (PDB) Therapeutics, Janssen Therapeutics, SPT Labtech, AbbVie,
-6BOY_model_ester (PDB) Entos, Inc. and Merck & Co., Inc. T.C. holds equity in
-
-Corresponding Authors
-purification (reverse phase HPLC) of select compounds and
-
-Email: cgelin@its.jnj.com preparation of the manuscript.
-
-Journal of Medicinal Chemistry pubs.acs.org/jmc Article
-■
-
-PreparationofThalidomide-ConjugateLinkers.Synlett2017,28(20),
-(pentafluorophenyl)borane; BRET, bioluminescence reso- 2881−2885.
-nance energy transfer; Bu 2O, dibutyl ether; CRBN, cereblon; (13)Bhela,I.P.;Ranza,A.;Balestrero,F.C.;Serafini,M.;Aprile,S.;
-
-Permeability and Cellular Activity. J. Med. Chem. 2021, 64 (24),
-formation AC50 values; ADME, absorption, distribution,
-18082−18101.
-metabolism and excretion; NaI, sodium iodide; NiBr •DME,
-2 (15)Wurz,R.P.;Dellamaggiore,K.;Dou,H.;Javier,N.;Lo,M.-C.;
-nickel(II) bromide·glyme; Ni(acac) , nickel(II) acetylaceto-
-2 McCarter,J.D.;Mohl,D.;Sastri,C.;Lipford,J.R.;Cee,V.J.A“Click
-nate; NEt •HCl, triethylammonium hydrochloride; POI,
-3 Chemistry Platform” forthe Rapid Synthesis of Bispecific Molecules
-protein of interest; PROTAC, proteolysis targeting chimera; forInducingProteinDegradation.J.Med.Chem.2018,61(2),453−
-
-PSA, polar surface area; pyCamCN, (Z)-N-cyanopicolinimi- 461.
-damide; RBA, relative binding affinity; RMSF, root-mean- (16) Brownsey, D. K.; Rowley, B. C.; Gorobets, E.; Gelfand, B. S.;
-square fluctuation; tSNE, t-distributed stochastic neighbor Derksen, D. J. Rapid Synthesis of Pomalidomide-Conjugates for the
-embedding; TEA, triethyl amine; TFFH, tetramethylfluor- DevelopmentofProteinDegraderLibraries.Chem.Sci.2021,12(12),
-oformamidinium hexafluorophosphate; VHL, von Hippel- 4519−4525.
-(17) Hayhow, T. G.; Borrows, R. E. A.; Dieǹ e, C. R.; Fairley, G.;
-
-Explosion of Amine−Acid Reaction Space via Graph Editing.
-
-Expanding the Medicinal Chemistry Synthetic Toolbox. Nat. Rev.
-
-ExperimentationforInformation-RichChemicalSynthesis.Acc.Chem.
-
-ChemicalSpace. Med.Chem. Commun.2019, 10(10),1755−1764. (30) Gruntz, U.; Katritzky, A. R.; Kenny, D. H.; Rezende, M. C.;
-(11) Békés, M.; Langley, D. R.; Crews, C. M. PROTAC Targeted Sheikh,H.PyridinesasLeavingGroupsinSyntheticTransformations:
-
-Journal of Medicinal Chemistry pubs.acs.org/jmc Article
-(31) Ni,S.; Li,C.-X.; Mao,Y.;Han, J.; Wang, Y.;Yan, H.;Pan, Y. (50)Min,J.;Mayasundari,A.;Keramatnia,F.;Jonchere,B.;Yang,S.
-
-Ni-Catalyzed Deaminative Cross-Electrophile Coupling of Katritzky W.;Jarusiewicz,J.;Actis,M.;Das,S.;Young,B.;Slavish,J.;Yang,L.;
-
-ReductiveCross-ElectrophileCouplingsofAlkylpyridiniumSaltsand
-
-DecarbonylativeCross-ElectrophileCoupling.J.Am.Chem.Soc.2023.
-

@@ -1,1 +1,32 @@
-After then being left to stand at RT for three days, the mixture was diluted with ethyl acetate and washed with water.
+Amineconditions:1(1.5equiv)and2(1.0equiv),PtCl (5mol%),BrettPhos(10mol%),andPhSiH (5.0equiv).(b)Chemoinformaticanalysis
+2 3
+of3−7. (c) Methodsusedto activate the amine oracidcoupling partner.(d) Chemoinformaticanalysis of 19,23−26.
+systemsperformbetterusingamixtureofDMSOanddioxane, With optimized conditions for each transformation, we
+wesettledon30%DMSOindioxane.Theseconditionsappear turned our attention toward the isolation of each compound
+broadly applicable to late-stage derivatization as we saw on synthetically useful scale (0.1 mmol) (Figure 5a) using
+productformedineverywell(Figure4c).Thisisremarkableas VHL targeting amine 13.7,8,48
+the reactions are performed in the presence of functionalities We observed similar reactivity trends despite the incorpo-
+rationofpotentiallysensitivefunctionalgroups.Isolatedyields
+such as alcohols (12,13), acetonides (17), a dihydrouracil
+onpreparativescalefoundtocorrelatewellwithassayyieldfor
+(11), and an indole (16). Additionally, the reaction works on
+each transformation and delivered both the CRBN and VHL
+aliphatic as well as benzylic acids. To validate our screening
+basedPROTACsinacceptablequantity.Ouramideconditions
+protocol we isolated products from four wells on a 0.1 mmol
+(seeSupportingInformation)yieldedcompound3in73%and
+scale (19−22) (Figure 4d). In each of these reactions, we did
+compound 23 in 47% yield, respectively. Applying our
+not observe reduction of other carbonyls present in the
+esterification conditions to each substrate yielded ester 4 in
+molecule. These results as well as control experiments where
+54% and ester 24 in 36% yield. Further, a one-pot protocol
+theaminewasomitted(seeSupportingInformation)suggesta
+(seeSupportingInformation)wasdevelopedtogive4directly
+pathway where an aldehyde intermediate is formed prior to
+from 1 to 2 in 28% yield. A slightly modified protocol using
+coupling as opposed to amide formation and subsequent twoequivalentsofbasewasappliedtothehydrochloridesaltof
+reduction.44,45,47Theester,alkane,andketonetransformations
+13 to give 24 in 25% yield. Applying our alkane-forming
+as well as the amide coupling were also applied to the same conditionsyielded5in33%and25in20%yield,respectively.
+library of amine-acid coupling partners (see Supporting Applicationofourketone-formingconditionsyielded6and26
