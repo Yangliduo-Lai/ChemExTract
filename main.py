@@ -45,8 +45,8 @@ def run_text_pre():
 
 # 文本格式化
 # 文本重写
-def run_text_rephrase(src_file="data/parsed_txt/test_scientific_paragraphs.txt",
-                      result_file="data/parsed_txt/rephrased_scientific_paragraphs.txt"):
+def run_text_rephrase(src_file="evaluation/src.txt",
+                      result_file="evaluation/evaluation_results/gpt4.txt"):
     text_rephrase(src_file, result_file)
 
 

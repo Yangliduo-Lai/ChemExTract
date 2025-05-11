@@ -67,7 +67,14 @@ def compute_seqmatch_a(gt_actions, extracted_actions):
     return matches / max(len(gt_actions), len(extracted_actions)) if max(len(gt_actions), len(extracted_actions)) > 0 else 0
 
 def evaluation():
-    file_path = "evaluation/result.txt"
+    # file_path = "evaluation/result.txt"
+    # file_path = "evaluation/evaluation_results/Paragraph2Actions.txt"
+    # file_path = "evaluation/evaluation_results/ChemTrans.txt"
+    # file_path = "evaluation/evaluation_results/gpt4.txt"
+    # file_path = "evaluation/evaluation_results/qwen_max.txt"
+    # file_path = "evaluation/evaluation_results/deepseek.txt"
+    file_path = "evaluation/evaluation_results/ERNIE.txt"
+
     # ground_truth_file = "evaluation/tgt.txt"
     ground_truth_file = "evaluation/rephrased_tgt.txt"
 
